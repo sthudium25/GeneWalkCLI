@@ -1,0 +1,1364 @@
+Input	Input Type	MGI Gene/Marker ID	Symbol	Name	Feature Type	Ensembl ID	Entrez Gene ID
+1110032A03Rik	current symbol	MGI:1915971	1110032A03Rik	RIKEN cDNA 1110032A03 gene	protein coding gene	ENSMUSG00000037971	68721
+1700016K19Rik	current symbol	MGI:1921480	1700016K19Rik	RIKEN cDNA 1700016K19 gene	protein coding gene	ENSMUSG00000053783	74230
+1700020I14Rik		No associated gene					
+2010300C02Rik		No associated gene					
+2310061I04Rik	current symbol	MGI:1916912	2310061I04Rik	RIKEN cDNA 2310061I04 gene	protein coding gene	ENSMUSG00000050705	69662
+2510039O18Rik	current symbol	MGI:1924284	2510039O18Rik	RIKEN cDNA 2510039O18 gene	protein coding gene	ENSMUSG00000044496	77034
+2610002M06Rik	current symbol	MGI:1914278	2610002M06Rik	RIKEN cDNA 2610002M06 gene	protein coding gene	ENSMUSG00000031242	67028
+2810006K23Rik	current symbol	MGI:1919900	2810006K23Rik	RIKEN cDNA 2810006K23 gene	protein coding gene	ENSMUSG00000047635	72650
+2900052N01Rik	current symbol	MGI:1920290	2900052N01Rik	RIKEN cDNA 2900052N01 gene	lncRNA gene	ENSMUSG00000099696	73040
+2900097C17Rik		No associated gene					
+4833422C13Rik	current symbol	MGI:3603826	4833422C13Rik	RIKEN cDNA 4833422C13 gene	lncRNA gene	ENSMUSG00000074782	373852
+4930452B06Rik		No associated gene					
+4930539E08Rik		No associated gene					
+6820408C15Rik	current symbol	MGI:3045333	6820408C15Rik	RIKEN cDNA 6820408C15 gene	protein coding gene	ENSMUSG00000032680	228778
+9330102E08Rik	current symbol	MGI:3026973	9330102E08Rik	RIKEN cDNA 9330102E08 gene	lncRNA gene	ENSMUSG00000107879	330427
+9530026P05Rik	current symbol	MGI:1924659	9530026P05Rik	RIKEN cDNA 9530026P05 gene	lncRNA gene	ENSMUSG00000097462	330385
+9630001P10Rik	current symbol	MGI:2441755	9630001P10Rik	RIKEN cDNA 9630001P10 gene	lncRNA gene	ENSMUSG00000097825	319251
+A130010J15Rik	current symbol	MGI:2441776	A130010J15Rik	RIKEN cDNA A130010J15 gene	protein coding gene	ENSMUSG00000079144	319266
+A230077H06Rik	current symbol	MGI:2443592	A230077H06Rik	RIKEN cDNA A230077H06 gene	lncRNA gene	ENSMUSG00000100600	320210
+A830082N09Rik	current symbol	MGI:3041184	A830082N09Rik	RIKEN cDNA A830082N09 gene	lncRNA gene	ENSMUSG00000112280	414093
+A930011G23Rik	current symbol	MGI:2442790	A930011G23Rik	RIKEN cDNA A930011G23 gene	lncRNA gene		319818
+Aars	current symbol	MGI:2384560	Aars	alanyl-tRNA synthetase	protein coding gene	ENSMUSG00000031960	234734
+Abca8a	current symbol	MGI:2386846	Abca8a	ATP-binding cassette, sub-family A (ABC1), member 8a	protein coding gene	ENSMUSG00000041828	217258
+Abca9	current symbol	MGI:2386796	Abca9	ATP-binding cassette, sub-family A (ABC1), member 9	protein coding gene	ENSMUSG00000041797	217262
+Abcc4	current symbol	MGI:2443111	Abcc4	ATP-binding cassette, sub-family C (CFTR/MRP), member 4	protein coding gene	ENSMUSG00000032849	239273
+Abcg4	current symbol	MGI:1890594	Abcg4	ATP binding cassette subfamily G member 4	protein coding gene	ENSMUSG00000032131	192663
+Abhd13	current symbol	MGI:1916154	Abhd13	abhydrolase domain containing 13	protein coding gene	ENSMUSG00000040396	68904
+Abhd17c	current symbol	MGI:1917428	Abhd17c	abhydrolase domain containing 17C	protein coding gene	ENSMUSG00000038459	70178
+Abhd2	current symbol	MGI:1914344	Abhd2	abhydrolase domain containing 2	protein coding gene	ENSMUSG00000039202	54608
+Abhd6	current symbol	MGI:1913332	Abhd6	abhydrolase domain containing 6	protein coding gene	ENSMUSG00000025277	66082
+Ablim2	current symbol	MGI:2385758	Ablim2	actin-binding LIM protein 2	protein coding gene	ENSMUSG00000029095	231148
+Ablim3	current symbol	MGI:2442582	Ablim3	actin binding LIM protein family, member 3	protein coding gene	ENSMUSG00000032735	319713
+Abr	current symbol	MGI:107771	Abr	active BCR-related gene	protein coding gene	ENSMUSG00000017631	109934
+Acan	current symbol	MGI:99602	Acan	aggrecan	protein coding gene	ENSMUSG00000030607	11595
+Ace	current symbol	MGI:87874	Ace	angiotensin I converting enzyme (peptidyl-dipeptidase A) 1	protein coding gene	ENSMUSG00000020681	11421
+Ackr1	current symbol	MGI:1097689	Ackr1	atypical chemokine receptor 1 (Duffy blood group)	protein coding gene	ENSMUSG00000037872	13349
+Ackr3	current symbol	MGI:109562	Ackr3	atypical chemokine receptor 3	protein coding gene	ENSMUSG00000044337	12778
+Aco1	current symbol	MGI:87879	Aco1	aconitase 1	protein coding gene	ENSMUSG00000028405	11428
+Acot11	current symbol	MGI:1913736	Acot11	acyl-CoA thioesterase 11	protein coding gene	ENSMUSG00000034853	329910
+Acot3	current symbol	MGI:2159619	Acot3	acyl-CoA thioesterase 3	protein coding gene	ENSMUSG00000021228	171281
+Acsbg1	current symbol	MGI:2385656	Acsbg1	acyl-CoA synthetase bubblegum family member 1	protein coding gene	ENSMUSG00000032281	94180
+Acsf2	current symbol	MGI:2388287	Acsf2	acyl-CoA synthetase family member 2	protein coding gene	ENSMUSG00000076435	264895
+Acss2	current symbol	MGI:1890410	Acss2	acyl-CoA synthetase short-chain family member 2	protein coding gene	ENSMUSG00000027605	60525
+Actn2	current symbol	MGI:109192	Actn2	actinin alpha 2	protein coding gene	ENSMUSG00000052374	11472
+Adam19	current symbol	MGI:105377	Adam19	a disintegrin and metallopeptidase domain 19 (meltrin beta)	protein coding gene	ENSMUSG00000011256	11492
+Adam22	current symbol	MGI:1340046	Adam22	a disintegrin and metallopeptidase domain 22	protein coding gene	ENSMUSG00000040537	11496
+Adamts1	current symbol	MGI:109249	Adamts1	a disintegrin-like and metallopeptidase (reprolysin type) with thrombospondin type 1 motif, 1	protein coding gene	ENSMUSG00000022893	11504
+Adamts12	current symbol	MGI:2146046	Adamts12	a disintegrin-like and metallopeptidase (reprolysin type) with thrombospondin type 1 motif, 12	protein coding gene	ENSMUSG00000047497	239337
+Adamts15	current symbol	MGI:2449569	Adamts15	a disintegrin-like and metallopeptidase (reprolysin type) with thrombospondin type 1 motif, 15	protein coding gene	ENSMUSG00000033453	235130
+Adamts18	current symbol	MGI:2442600	Adamts18	a disintegrin-like and metallopeptidase (reprolysin type) with thrombospondin type 1 motif, 18	protein coding gene	ENSMUSG00000053399	208936
+Adamts2	current symbol	MGI:1347356	Adamts2	a disintegrin-like and metallopeptidase (reprolysin type) with thrombospondin type 1 motif, 2	protein coding gene	ENSMUSG00000036545	216725
+Adamts3	current symbol	MGI:3045353	Adamts3	a disintegrin-like and metallopeptidase (reprolysin type) with thrombospondin type 1 motif, 3	protein coding gene	ENSMUSG00000043635	330119
+Adcy7	current symbol	MGI:102891	Adcy7	adenylate cyclase 7	protein coding gene	ENSMUSG00000031659	11513
+Adgra1	current symbol	MGI:1277167	Adgra1	adhesion G protein-coupled receptor A1	protein coding gene	ENSMUSG00000025475	52389
+Adgrg1	current symbol	MGI:1340051	Adgrg1	adhesion G protein-coupled receptor G1	protein coding gene	ENSMUSG00000031785	14766
+Adgrg3	current symbol	MGI:1859670	Adgrg3	adhesion G protein-coupled receptor G3	protein coding gene	ENSMUSG00000060470	54672
+Ado	current symbol	MGI:2685083	Ado	2-aminoethanethiol (cysteamine) dioxygenase	protein coding gene	ENSMUSG00000057134	211488
+Adora1	current symbol	MGI:99401	Adora1	adenosine A1 receptor	protein coding gene	ENSMUSG00000042429	11539
+Adora2a	current symbol	MGI:99402	Adora2a	adenosine A2a receptor	protein coding gene	ENSMUSG00000020178	11540
+Adora2b	current symbol	MGI:99403	Adora2b	adenosine A2b receptor	protein coding gene	ENSMUSG00000018500	11541
+Adra1b	current symbol	MGI:104774	Adra1b	adrenergic receptor, alpha 1b	protein coding gene	ENSMUSG00000050541	11548
+Adra2a	current symbol	MGI:87934	Adra2a	adrenergic receptor, alpha 2a	protein coding gene	ENSMUSG00000033717	11551
+Adra2c	current symbol	MGI:87936	Adra2c	adrenergic receptor, alpha 2c	protein coding gene	ENSMUSG00000045318	11553
+Adss	current symbol	MGI:87948	Adss	adenylosuccinate synthetase, non muscle	protein coding gene	ENSMUSG00000015961	11566
+Agap3	current symbol	MGI:2183446	Agap3	ArfGAP with GTPase domain, ankyrin repeat and PH domain 3	protein coding gene	ENSMUSG00000023353	213990
+Agfg1	current symbol	MGI:1333754	Agfg1	ArfGAP with FG repeats 1	protein coding gene	ENSMUSG00000026159	15463
+Ahcyl1	current symbol	MGI:2385184	Ahcyl1	S-adenosylhomocysteine hydrolase-like 1	protein coding gene	ENSMUSG00000027893	229709
+Ahnak2	current symbol	MGI:2144831	Ahnak2	AHNAK nucleoprotein 2	protein coding gene	ENSMUSG00000072812	100041194
+AI464131		No associated gene					
+AI593442	current symbol	MGI:2143099	AI593442	expressed sequence AI593442	protein coding gene	ENSMUSG00000078307	330941
+Ajap1	current symbol	MGI:2685419	Ajap1	adherens junction associated protein 1	protein coding gene	ENSMUSG00000039546	230959
+Ak4	current symbol	MGI:87979	Ak4	adenylate kinase 4	protein coding gene	ENSMUSG00000028527	11639
+Ak5	current symbol	MGI:2677491	Ak5	adenylate kinase 5	protein coding gene	ENSMUSG00000039058	229949
+Akip1	current symbol	MGI:3041226	Akip1	A kinase (PRKA) interacting protein 1	protein coding gene	ENSMUSG00000031023	57373
+Akna	current symbol	MGI:2140340	Akna	AT-hook transcription factor	protein coding gene	ENSMUSG00000039158	100182
+Aldh18a1	current symbol	MGI:1888908	Aldh18a1	aldehyde dehydrogenase 18 family, member A1	protein coding gene	ENSMUSG00000025007	56454
+Aldh1a3	current symbol	MGI:1861722	Aldh1a3	aldehyde dehydrogenase family 1, subfamily A3	protein coding gene	ENSMUSG00000015134	56847
+Aldh1l2	current symbol	MGI:2444680	Aldh1l2	aldehyde dehydrogenase 1 family, member L2	protein coding gene	ENSMUSG00000020256	216188
+Aldh3a2	current symbol	MGI:1353452	Aldh3a2	aldehyde dehydrogenase family 3, subfamily A2	protein coding gene	ENSMUSG00000010025	11671
+Aldoa	current symbol	MGI:87994	Aldoa	aldolase A, fructose-bisphosphate	protein coding gene	ENSMUSG00000030695	11674
+Aldoa	current symbol	MGI:87994	Aldoa	aldolase A, fructose-bisphosphate	protein coding gene	ENSMUSG00000114515	11674
+Alk	current symbol	MGI:103305	Alk	anaplastic lymphoma kinase	protein coding gene	ENSMUSG00000055471	11682
+Alpl	current symbol	MGI:87983	Alpl	alkaline phosphatase, liver/bone/kidney	protein coding gene	ENSMUSG00000028766	11647
+Als2cl	current symbol	MGI:2447532	Als2cl	ALS2 C-terminal like	protein coding gene	ENSMUSG00000044037	235633
+Amdhd2	current symbol	MGI:2443978	Amdhd2	amidohydrolase domain containing 2	protein coding gene	ENSMUSG00000036820	245847
+Amot	current symbol	MGI:108440	Amot	angiomotin	protein coding gene	ENSMUSG00000041688	27494
+Ampd2	current symbol	MGI:88016	Ampd2	adenosine monophosphate deaminase 2	protein coding gene	ENSMUSG00000027889	109674
+Angptl2	current symbol	MGI:1347002	Angptl2	angiopoietin-like 2	protein coding gene	ENSMUSG00000004105	26360
+Ankrd13a	current symbol	MGI:1915670	Ankrd13a	ankyrin repeat domain 13a	protein coding gene	ENSMUSG00000041870	68420
+Ankrd29	current symbol	MGI:2687055	Ankrd29	ankyrin repeat domain 29	protein coding gene	ENSMUSG00000057766	225187
+Ankrd34a	current symbol	MGI:3617846	Ankrd34a	ankyrin repeat domain 34A	protein coding gene	ENSMUSG00000049097	545554
+Ankrd55	current symbol	MGI:1924568	Ankrd55	ankyrin repeat domain 55	protein coding gene	ENSMUSG00000049985	77318
+Ankrd6	current symbol	MGI:2154278	Ankrd6	ankyrin repeat domain 6	protein coding gene	ENSMUSG00000040183	140577
+Ano6	current symbol	MGI:2145890	Ano6	anoctamin 6	protein coding gene	ENSMUSG00000064210	105722
+Anxa11	current symbol	MGI:108481	Anxa11	annexin A11	protein coding gene	ENSMUSG00000021866	11744
+Anxa6	current symbol	MGI:88255	Anxa6	annexin A6	protein coding gene	ENSMUSG00000018340	11749
+Ap1ar	current symbol	MGI:2384822	Ap1ar	adaptor-related protein complex 1 associated regulatory protein	protein coding gene	ENSMUSG00000074238	211556
+Ap3s2	current symbol	MGI:1337060	Ap3s2	adaptor-related protein complex 3, sigma 2 subunit	protein coding gene	ENSMUSG00000063801	11778
+Apbb2	current symbol	MGI:108405	Apbb2	amyloid beta (A4) precursor protein-binding, family B, member 2	protein coding gene	ENSMUSG00000029207	11787
+Apln	current symbol	MGI:1353624	Apln	apelin	protein coding gene	ENSMUSG00000037010	30878
+Apobec1	current symbol	MGI:103298	Apobec1	apolipoprotein B mRNA editing enzyme, catalytic polypeptide 1	protein coding gene	ENSMUSG00000040613	11810
+Aqp11	current symbol	MGI:1913583	Aqp11	aquaporin 11	protein coding gene	ENSMUSG00000042797	66333
+Arap3	current symbol	MGI:2147274	Arap3	ArfGAP with RhoGAP domain, ankyrin repeat and PH domain 3	protein coding gene	ENSMUSG00000024451	106952
+Arhgap33	current symbol	MGI:2673998	Arhgap33	Rho GTPase activating protein 33	protein coding gene	ENSMUSG00000036882	233071
+Arhgef16	current symbol	MGI:2446219	Arhgef16	Rho guanine nucleotide exchange factor (GEF) 16	protein coding gene	ENSMUSG00000029032	230972
+Arhgef2	current symbol	MGI:103264	Arhgef2	rho/rac guanine nucleotide exchange factor (GEF) 2	protein coding gene	ENSMUSG00000028059	16800
+Arhgef28	current symbol	MGI:1346016	Arhgef28	Rho guanine nucleotide exchange factor (GEF) 28	protein coding gene	ENSMUSG00000021662	110596
+Arl16	current symbol	MGI:1917567	Arl16	ADP-ribosylation factor-like 16	protein coding gene	ENSMUSG00000057594	70317
+Arl4d	current symbol	MGI:1933155	Arl4d	ADP-ribosylation factor-like 4D	protein coding gene	ENSMUSG00000034936	80981
+Arl8b	current symbol	MGI:1914416	Arl8b	ADP-ribosylation factor-like 8B	protein coding gene	ENSMUSG00000030105	67166
+Arntl	current symbol	MGI:1096381	Arntl	aryl hydrocarbon receptor nuclear translocator-like	protein coding gene	ENSMUSG00000055116	11865
+Arpc4	current symbol	MGI:1915339	Arpc4	actin related protein 2/3 complex, subunit 4	protein coding gene	ENSMUSG00000079426	68089
+Arrdc2	current symbol	MGI:1918057	Arrdc2	arrestin domain containing 2	protein coding gene	ENSMUSG00000002910	70807
+Arrdc4	current symbol	MGI:1913662	Arrdc4	arrestin domain containing 4	protein coding gene	ENSMUSG00000042659	66412
+Arsa	current symbol	MGI:88077	Arsa	arylsulfatase A	protein coding gene	ENSMUSG00000022620	11883
+Arsb	current symbol	MGI:88075	Arsb	arylsulfatase B	protein coding gene	ENSMUSG00000042082	11881
+Arsg	current symbol	MGI:1921258	Arsg	arylsulfatase G	protein coding gene	ENSMUSG00000020604	74008
+Asic1	current symbol	MGI:1194915	Asic1	acid-sensing (proton-gated) ion channel 1	protein coding gene	ENSMUSG00000023017	11419
+Asic2	current symbol	MGI:1100867	Asic2	acid-sensing (proton-gated) ion channel 2	protein coding gene	ENSMUSG00000020704	11418
+Asic4	current symbol	MGI:2652846	Asic4	acid-sensing (proton-gated) ion channel family member 4	protein coding gene	ENSMUSG00000033007	241118
+Asnsd1	current symbol	MGI:1917646	Asnsd1	asparagine synthetase domain containing 1	protein coding gene	ENSMUSG00000026095	70396
+Asphd1	current symbol	MGI:2685014	Asphd1	aspartate beta-hydroxylase domain containing 1	protein coding gene	ENSMUSG00000046378	233879
+Astn2	current symbol	MGI:1889277	Astn2	astrotactin 2	protein coding gene	ENSMUSG00000028373	56079
+Atf4	current symbol	MGI:88096	Atf4	activating transcription factor 4	protein coding gene	ENSMUSG00000042406	11911
+Atf5	current symbol	MGI:2141857	Atf5	activating transcription factor 5	protein coding gene	ENSMUSG00000038539	107503
+Atg10	current symbol	MGI:1914045	Atg10	autophagy related 10	protein coding gene	ENSMUSG00000021619	66795
+Atn1	current symbol	MGI:104725	Atn1	atrophin 1	protein coding gene	ENSMUSG00000004263	13498
+Atp12a	current symbol	MGI:1926943	Atp12a	ATPase, H+/K+ transporting, nongastric, alpha polypeptide	protein coding gene	ENSMUSG00000022229	192113
+Atp1a1	current symbol	MGI:88105	Atp1a1	ATPase, Na+/K+ transporting, alpha 1 polypeptide	protein coding gene	ENSMUSG00000033161	11928
+Atp1a2	current symbol	MGI:88106	Atp1a2	ATPase, Na+/K+ transporting, alpha 2 polypeptide	protein coding gene	ENSMUSG00000007097	98660
+Atp1b2	current symbol	MGI:88109	Atp1b2	ATPase, Na+/K+ transporting, beta 2 polypeptide	protein coding gene	ENSMUSG00000041329	11932
+Atp2b4	current symbol	MGI:88111	Atp2b4	ATPase, Ca++ transporting, plasma membrane 4	protein coding gene	ENSMUSG00000026463	381290
+Atrn	current symbol	MGI:1341628	Atrn	attractin	protein coding gene	ENSMUSG00000027312	11990
+Atrnl1	current symbol	MGI:2147749	Atrnl1	attractin like 1	protein coding gene	ENSMUSG00000054843	226255
+Atxn2	current symbol	MGI:1277223	Atxn2	ataxin 2	protein coding gene	ENSMUSG00000042605	20239
+Avpr1a	current symbol	MGI:1859216	Avpr1a	arginine vasopressin receptor 1A	protein coding gene	ENSMUSG00000020123	54140
+AW551984	current symbol	MGI:2143322	AW551984	expressed sequence AW551984	protein coding gene	ENSMUSG00000038112	244810
+B2m	current symbol	MGI:88127	B2m	beta-2 microglobulin	protein coding gene	ENSMUSG00000060802	12010
+B3galt5	current symbol	MGI:2136878	B3galt5	UDP-Gal:betaGlcNAc beta 1,3-galactosyltransferase, polypeptide 5	protein coding gene	ENSMUSG00000074892	93961
+B3gat1	current symbol	MGI:1924148	B3gat1	beta-1,3-glucuronyltransferase 1 (glucuronosyltransferase P)	protein coding gene	ENSMUSG00000045994	76898
+B3glct	current symbol	MGI:2685903	B3glct	beta-3-glucosyltransferase	protein coding gene	ENSMUSG00000051950	381694
+Baalc	current symbol	MGI:1928704	Baalc	brain and acute leukemia, cytoplasmic	protein coding gene	ENSMUSG00000022296	118452
+Baiap2l2	current symbol	MGI:2652819	Baiap2l2	BAI1-associated protein 2-like 2	protein coding gene	ENSMUSG00000018126	207495
+Baiap3	current symbol	MGI:2685783	Baiap3	BAI1-associated protein 3	protein coding gene	ENSMUSG00000047507	545192
+BC024139	current symbol	MGI:2442591	BC024139	cDNA sequence BC024139	protein coding gene	ENSMUSG00000044361	271278
+Bcl2l11	current symbol	MGI:1197519	Bcl2l11	BCL2-like 11 (apoptosis facilitator)	protein coding gene	ENSMUSG00000027381	12125
+Bcl6	current symbol	MGI:107187	Bcl6	B cell leukemia/lymphoma 6	protein coding gene	ENSMUSG00000022508	12053
+Bcor	current symbol	MGI:1918708	Bcor	BCL6 interacting corepressor	protein coding gene	ENSMUSG00000040363	71458
+Bhlhe40	current symbol	MGI:1097714	Bhlhe40	basic helix-loop-helix family, member e40	protein coding gene	ENSMUSG00000030103	20893
+Bmp7	current symbol	MGI:103302	Bmp7	bone morphogenetic protein 7	protein coding gene	ENSMUSG00000008999	12162
+Bmyc	current symbol	MGI:88184	Bmyc	brain expressed myelocytomatosis oncogene	protein coding gene	ENSMUSG00000049086	107771
+Brinp2	current symbol	MGI:2443333	Brinp2	bone morphogenic protein/retinoic acid inducible neural-specific 2	protein coding gene	ENSMUSG00000004031	240843
+Btbd11	current symbol	MGI:1921257	Btbd11	BTB (POZ) domain containing 11	protein coding gene	ENSMUSG00000020042	74007
+Btbd17	current symbol	MGI:1919264	Btbd17	BTB (POZ) domain containing 17	protein coding gene	ENSMUSG00000000202	72014
+Btbd2	current symbol	MGI:1933831	Btbd2	BTB (POZ) domain containing 2	protein coding gene	ENSMUSG00000003344	208198
+Btbd3	current symbol	MGI:2385155	Btbd3	BTB (POZ) domain containing 3	protein coding gene	ENSMUSG00000062098	228662
+Btbd6	current symbol	MGI:3026623	Btbd6	BTB (POZ) domain containing 6	protein coding gene	ENSMUSG00000002803	399566
+C1ql2	current symbol	MGI:3032521	C1ql2	complement component 1, q subcomponent-like 2	protein coding gene	ENSMUSG00000036907	226359
+C1qtnf5	current symbol	MGI:2385958	C1qtnf5	C1q and tumor necrosis factor related protein 5	protein coding gene	ENSMUSG00000079592	235312
+C2cd2l	current symbol	MGI:1919014	C2cd2l	C2 calcium-dependent domain containing 2-like	protein coding gene	ENSMUSG00000032120	71764
+C2cd4c	current symbol	MGI:2685084	C2cd4c	C2 calcium-dependent domain containing 4C	protein coding gene	ENSMUSG00000045912	237397
+Cables2	current symbol	MGI:2182335	Cables2	CDK5 and Abl enzyme substrate 2	protein coding gene	ENSMUSG00000038990	252966
+Cacna1g	current symbol	MGI:1201678	Cacna1g	calcium channel, voltage-dependent, T type, alpha 1G subunit	protein coding gene	ENSMUSG00000020866	12291
+Cacna1i	current symbol	MGI:2178051	Cacna1i	calcium channel, voltage-dependent, alpha 1I subunit	protein coding gene	ENSMUSG00000022416	239556
+Cacna2d2	current symbol	MGI:1929813	Cacna2d2	calcium channel, voltage-dependent, alpha 2/delta subunit 2	protein coding gene	ENSMUSG00000010066	56808
+Cacna2d3	current symbol	MGI:1338890	Cacna2d3	calcium channel, voltage-dependent, alpha2/delta subunit 3	protein coding gene	ENSMUSG00000021991	12294
+Cacng3	current symbol	MGI:1859165	Cacng3	calcium channel, voltage-dependent, gamma subunit 3	protein coding gene	ENSMUSG00000066189	54376
+Cacng4	current symbol	MGI:1859167	Cacng4	calcium channel, voltage-dependent, gamma subunit 4	protein coding gene	ENSMUSG00000020723	54377
+Cacng5	current symbol	MGI:2157946	Cacng5	calcium channel, voltage-dependent, gamma subunit 5	protein coding gene	ENSMUSG00000040373	140723
+Calb2	current symbol	MGI:101914	Calb2	calbindin 2	protein coding gene	ENSMUSG00000003657	12308
+Camk1g	current symbol	MGI:2388073	Camk1g	calcium/calmodulin-dependent protein kinase I gamma	protein coding gene	ENSMUSG00000016179	215303
+Camk2a	current symbol	MGI:88256	Camk2a	calcium/calmodulin-dependent protein kinase II alpha	protein coding gene	ENSMUSG00000024617	12322
+Camk2b	current symbol	MGI:88257	Camk2b	calcium/calmodulin-dependent protein kinase II, beta	protein coding gene	ENSMUSG00000057897	12323
+Camk2n1	current symbol	MGI:1913509	Camk2n1	calcium/calmodulin-dependent protein kinase II inhibitor 1	protein coding gene	ENSMUSG00000046447	66259
+Camkk1	current symbol	MGI:1891766	Camkk1	calcium/calmodulin-dependent protein kinase kinase 1, alpha	protein coding gene	ENSMUSG00000020785	55984
+Camkk2	current symbol	MGI:2444812	Camkk2	calcium/calmodulin-dependent protein kinase kinase 2, beta	protein coding gene	ENSMUSG00000029471	207565
+Camkv	current symbol	MGI:2384296	Camkv	CaM kinase-like vesicle-associated	protein coding gene	ENSMUSG00000032936	235604
+Canx	current symbol	MGI:88261	Canx	calnexin	protein coding gene	ENSMUSG00000020368	12330
+Cap2	current symbol	MGI:1914502	Cap2	CAP, adenylate cyclase-associated protein, 2 (yeast)	protein coding gene	ENSMUSG00000021373	67252
+Capn3	current symbol	MGI:107437	Capn3	calpain 3	protein coding gene	ENSMUSG00000079110	12335
+Car12	current symbol	MGI:1923709	Car12	carbonic anhydrase 12	protein coding gene	ENSMUSG00000032373	76459
+Car5b	current symbol	MGI:1926249	Car5b	carbonic anhydrase 5b, mitochondrial	protein coding gene	ENSMUSG00000031373	56078
+Car8	current symbol	MGI:88253	Car8	carbonic anhydrase 8	protein coding gene	ENSMUSG00000041261	12319
+Carmil1	current symbol	MGI:1915982	Carmil1	capping protein regulator and myosin 1 linker 1	protein coding gene	ENSMUSG00000021338	68732
+Cass4	current symbol	MGI:2444482	Cass4	Cas scaffolding protein family member 4	protein coding gene	ENSMUSG00000074570	320664
+Cav1	current symbol	MGI:102709	Cav1	caveolin 1, caveolae protein	protein coding gene	ENSMUSG00000007655	12389
+Cbln1	current symbol	MGI:88281	Cbln1	cerebellin 1 precursor protein	protein coding gene	ENSMUSG00000031654	12404
+Cbln4	current symbol	MGI:2154433	Cbln4	cerebellin 4 precursor protein	protein coding gene	ENSMUSG00000067578	228942
+Ccbe1	current symbol	MGI:2445053	Ccbe1	collagen and calcium binding EGF domains 1	protein coding gene	ENSMUSG00000046318	320924
+Ccdc116	current symbol	MGI:1924122	Ccdc116	coiled-coil domain containing 116	protein coding gene	ENSMUSG00000022768	76872
+Ccdc25	current symbol	MGI:1914429	Ccdc25	coiled-coil domain containing 25	protein coding gene	ENSMUSG00000022035	67179
+Ccdc74a	current symbol	MGI:1919565	Ccdc74a	coiled-coil domain containing 74A	protein coding gene	ENSMUSG00000041617	72315
+Ccdc85c	current symbol	MGI:3644008	Ccdc85c	coiled-coil domain containing 85C	protein coding gene	ENSMUSG00000084883	668158
+Cck	current symbol	MGI:88297	Cck	cholecystokinin	protein coding gene	ENSMUSG00000032532	12424
+Cckbr	current symbol	MGI:99479	Cckbr	cholecystokinin B receptor	protein coding gene	ENSMUSG00000030898	12426
+Ccna1	current symbol	MGI:108042	Ccna1	cyclin A1	protein coding gene	ENSMUSG00000027793	12427
+Ccnjl	current symbol	MGI:2685723	Ccnjl	cyclin J-like	protein coding gene	ENSMUSG00000044707	380694
+Ccp110	current symbol	MGI:2141942	Ccp110	centriolar coiled coil protein 110	protein coding gene	ENSMUSG00000033904	101565
+Cd36	current symbol	MGI:107899	Cd36	CD36 molecule	protein coding gene	ENSMUSG00000002944	12491
+Cd44	current symbol	MGI:88338	Cd44	CD44 antigen	protein coding gene	ENSMUSG00000005087	12505
+Cd55	current symbol	MGI:104850	Cd55	CD55 molecule, decay accelerating factor for complement	protein coding gene	ENSMUSG00000026399	13136
+Cd74	current symbol	MGI:96534	Cd74	CD74 antigen (invariant polypeptide of major histocompatibility complex, class II antigen-associated)	protein coding gene	ENSMUSG00000024610	16149
+Cd83	current symbol	MGI:1328316	Cd83	CD83 antigen	protein coding gene	ENSMUSG00000015396	12522
+Cdc20b	current symbol	MGI:3644472	Cdc20b	cell division cycle 20B	protein coding gene	ENSMUSG00000078926	238896
+Cdc42ep2	current symbol	MGI:1929744	Cdc42ep2	CDC42 effector protein (Rho GTPase binding) 2	protein coding gene	ENSMUSG00000045664	104252
+Cdc42se2	current symbol	MGI:1919979	Cdc42se2	CDC42 small effector 2	protein coding gene	ENSMUSG00000052298	72729
+Cdh11	current symbol	MGI:99217	Cdh11	cadherin 11	protein coding gene	ENSMUSG00000031673	12552
+Cdh13	current symbol	MGI:99551	Cdh13	cadherin 13	protein coding gene	ENSMUSG00000031841	12554
+Cdh22	current symbol	MGI:1341843	Cdh22	cadherin 22	protein coding gene	ENSMUSG00000053166	104010
+Cdh24	current symbol	MGI:1928330	Cdh24	cadherin-like 24	protein coding gene	ENSMUSG00000059674	239096
+Cdh4	current symbol	MGI:99218	Cdh4	cadherin 4	protein coding gene	ENSMUSG00000000305	12561
+Cdh9	current symbol	MGI:107433	Cdh9	cadherin 9	protein coding gene	ENSMUSG00000025370	12565
+Cdhr1	current symbol	MGI:2157782	Cdhr1	cadherin-related family member 1	protein coding gene	ENSMUSG00000021803	170677
+Cdk19	current symbol	MGI:1925584	Cdk19	cyclin-dependent kinase 19	protein coding gene	ENSMUSG00000038481	78334
+Cdk2ap1	current symbol	MGI:1202069	Cdk2ap1	CDK2 (cyclin-dependent kinase 2)-associated protein 1	protein coding gene	ENSMUSG00000029394	13445
+Cdk8	current symbol	MGI:1196224	Cdk8	cyclin-dependent kinase 8	protein coding gene	ENSMUSG00000029635	264064
+Cdkn1c	current symbol	MGI:104564	Cdkn1c	cyclin-dependent kinase inhibitor 1C (P57)	protein coding gene	ENSMUSG00000037664	12577
+Cdpf1	current symbol	MGI:1919605	Cdpf1	cysteine rich, DPF motif domain containing 1	protein coding gene	ENSMUSG00000064284	72355
+Cds1	current symbol	MGI:1921846	Cds1	CDP-diacylglycerol synthase 1	protein coding gene	ENSMUSG00000029330	74596
+Cdv3	current symbol	MGI:2448759	Cdv3	carnitine deficiency-associated gene expressed in ventricle 3	protein coding gene	ENSMUSG00000032803	321022
+Cemip	current symbol	MGI:2443629	Cemip	cell migration inducing protein, hyaluronan binding	protein coding gene	ENSMUSG00000052353	80982
+Cenpj	current symbol	MGI:2684927	Cenpj	centromere protein J	protein coding gene	ENSMUSG00000064128	219103
+Cenpx	current symbol	MGI:894324	Cenpx	centromere protein X	protein coding gene	ENSMUSG00000025144	20892
+Cep83	current symbol	MGI:1924298	Cep83	centrosomal protein 83	protein coding gene	ENSMUSG00000020024	77048
+Cfap70	current symbol	MGI:1923920	Cfap70	cilia and flagella associated protein 70	protein coding gene	ENSMUSG00000039543	76670
+Cgnl1	current symbol	MGI:1915428	Cgnl1	cingulin-like 1	protein coding gene	ENSMUSG00000032232	68178
+Chac1	current symbol	MGI:1916315	Chac1	ChaC, cation transport regulator 1	protein coding gene	ENSMUSG00000027313	69065
+Chchd10	current symbol	MGI:2143558	Chchd10	coiled-coil-helix-coiled-coil-helix domain containing 10	protein coding gene	ENSMUSG00000049422	103172
+Chpt1	current symbol	MGI:2384841	Chpt1	choline phosphotransferase 1	protein coding gene	ENSMUSG00000060002	212862
+Chrm1	current symbol	MGI:88396	Chrm1	cholinergic receptor, muscarinic 1, CNS	protein coding gene	ENSMUSG00000032773	12669
+Chrm3	current symbol	MGI:88398	Chrm3	cholinergic receptor, muscarinic 3, cardiac	protein coding gene	ENSMUSG00000046159	12671
+Chrm4	current symbol	MGI:88399	Chrm4	cholinergic receptor, muscarinic 4	protein coding gene	ENSMUSG00000040495	12672
+Chrna3	current symbol	MGI:87887	Chrna3	cholinergic receptor, nicotinic, alpha polypeptide 3	protein coding gene	ENSMUSG00000032303	110834
+Chrna4	current symbol	MGI:87888	Chrna4	cholinergic receptor, nicotinic, alpha polypeptide 4	protein coding gene	ENSMUSG00000027577	11438
+Chst1	current symbol	MGI:1924219	Chst1	carbohydrate sulfotransferase 1	protein coding gene	ENSMUSG00000027221	76969
+Chst11	current symbol	MGI:1927166	Chst11	carbohydrate sulfotransferase 11	protein coding gene	ENSMUSG00000034612	58250
+Chst2	current symbol	MGI:1891160	Chst2	carbohydrate sulfotransferase 2	protein coding gene	ENSMUSG00000033350	54371
+Chst8	current symbol	MGI:1916197	Chst8	carbohydrate sulfotransferase 8	protein coding gene	ENSMUSG00000060402	68947
+Ciart	current symbol	MGI:2684975	Ciart	circadian associated repressor of transcription	protein coding gene	ENSMUSG00000038550	229599
+Cipc	current symbol	MGI:1919185	Cipc	CLOCK interacting protein, circadian	protein coding gene	ENSMUSG00000034157	217732
+Cish	current symbol	MGI:103159	Cish	cytokine inducible SH2-containing protein	protein coding gene	ENSMUSG00000032578	12700
+CK137956	current symbol	MGI:3616080	CK137956	cDNA sequence CK137956	protein coding gene	ENSMUSG00000028813	635169
+Clcn2	current symbol	MGI:105061	Clcn2	chloride channel, voltage-sensitive 2	protein coding gene	ENSMUSG00000022843	12724
+Clic4	current symbol	MGI:1352754	Clic4	chloride intracellular channel 4 (mitochondrial)	protein coding gene	ENSMUSG00000037242	29876
+Clip1	current symbol	MGI:1928401	Clip1	CAP-GLY domain containing linker protein 1	protein coding gene	ENSMUSG00000049550	56430
+Clk3	current symbol	MGI:1098670	Clk3	CDC-like kinase 3	protein coding gene	ENSMUSG00000032316	102414
+Clmp	current symbol	MGI:1918816	Clmp	CXADR-like membrane protein	protein coding gene	ENSMUSG00000032024	71566
+Clptm1	current symbol	MGI:1927155	Clptm1	cleft lip and palate associated transmembrane protein 1	protein coding gene	ENSMUSG00000002981	56457
+Clvs2	current symbol	MGI:2443223	Clvs2	clavesin 2	protein coding gene	ENSMUSG00000019785	215890
+Clybl	current symbol	MGI:1916884	Clybl	citrate lyase beta like	protein coding gene	ENSMUSG00000025545	69634
+Cmpk2	current symbol	MGI:99830	Cmpk2	cytidine monophosphate (UMP-CMP) kinase 2, mitochondrial	protein coding gene	ENSMUSG00000020638	22169
+Cmtm3	current symbol	MGI:2447162	Cmtm3	CKLF-like MARVEL transmembrane domain containing 3	protein coding gene	ENSMUSG00000031875	68119
+Cmtm5	current symbol	MGI:2447164	Cmtm5	CKLF-like MARVEL transmembrane domain containing 5	protein coding gene	ENSMUSG00000040759	67272
+Cnep1r1	current symbol	MGI:1921981	Cnep1r1	CTD nuclear envelope phosphatase 1 regulatory subunit 1	protein coding gene	ENSMUSG00000036810	382030
+Cnih3	current symbol	MGI:1920228	Cnih3	cornichon family AMPA receptor auxiliary protein 3	protein coding gene	ENSMUSG00000026514	72978
+Cnr1	current symbol	MGI:104615	Cnr1	cannabinoid receptor 1 (brain)	protein coding gene	ENSMUSG00000044288	12801
+Cnst	current symbol	MGI:2445141	Cnst	consortin, connexin sorting protein	protein coding gene	ENSMUSG00000038949	226744
+Cntfr	current symbol	MGI:99605	Cntfr	ciliary neurotrophic factor receptor	protein coding gene	ENSMUSG00000028444	12804
+Cntn4	current symbol	MGI:1095737	Cntn4	contactin 4	protein coding gene	ENSMUSG00000064293	269784
+Cntnap1	current symbol	MGI:1858201	Cntnap1	contactin associated protein-like 1	protein coding gene	ENSMUSG00000017167	53321
+Col16a1	current symbol	MGI:1095396	Col16a1	collagen, type XVI, alpha 1	protein coding gene	ENSMUSG00000040690	107581
+Col18a1	current symbol	MGI:88451	Col18a1	collagen, type XVIII, alpha 1	protein coding gene	ENSMUSG00000001435	12822
+Col4a1	current symbol	MGI:88454	Col4a1	collagen, type IV, alpha 1	protein coding gene	ENSMUSG00000031502	12826
+Col4a2	current symbol	MGI:88455	Col4a2	collagen, type IV, alpha 2	protein coding gene	ENSMUSG00000031503	12827
+Col5a1	current symbol	MGI:88457	Col5a1	collagen, type V, alpha 1	protein coding gene	ENSMUSG00000026837	12831
+Col6a1	current symbol	MGI:88459	Col6a1	collagen, type VI, alpha 1	protein coding gene	ENSMUSG00000001119	12833
+Col6a2	current symbol	MGI:88460	Col6a2	collagen, type VI, alpha 2	protein coding gene	ENSMUSG00000020241	12834
+Col6a5	current symbol	MGI:3648134	Col6a5	collagen, type VI, alpha 5	protein coding gene	ENSMUSG00000091345	665033
+Colgalt2	current symbol	MGI:2138232	Colgalt2	collagen beta(1-O)galactosyltransferase 2	protein coding gene	ENSMUSG00000032649	269132
+Commd6	current symbol	MGI:1913450	Commd6	COMM domain containing 6	protein coding gene	ENSMUSG00000075486	66200
+Commd8	current symbol	MGI:1343485	Commd8	COMM domain containing 8	protein coding gene	ENSMUSG00000029213	27784
+Coro1c	current symbol	MGI:1345964	Coro1c	coronin, actin binding protein 1C	protein coding gene	ENSMUSG00000004530	23790
+Coro2b	current symbol	MGI:2444283	Coro2b	coronin, actin binding protein, 2B	protein coding gene	ENSMUSG00000041729	235431
+Coro6	current symbol	MGI:2183448	Coro6	coronin 6	protein coding gene	ENSMUSG00000020836	216961
+Cort	current symbol	MGI:109538	Cort	cortistatin	protein coding gene	ENSMUSG00000028971	12854
+Cox6a2	current symbol	MGI:104649	Cox6a2	cytochrome c oxidase subunit 6A2	protein coding gene	ENSMUSG00000030785	12862
+Cpd	current symbol	MGI:107265	Cpd	carboxypeptidase D	protein coding gene	ENSMUSG00000020841	12874
+Cplane1	current symbol	MGI:1920942	Cplane1	ciliogenesis and planar polarity effector 1	protein coding gene	ENSMUSG00000039801	73692
+Cplx2	current symbol	MGI:104726	Cplx2	complexin 2	protein coding gene	ENSMUSG00000025867	12890
+Cplx3	current symbol	MGI:2384571	Cplx3	complexin 3	protein coding gene	ENSMUSG00000039714	235415
+Cpne5	current symbol	MGI:2385908	Cpne5	copine V	protein coding gene	ENSMUSG00000024008	240058
+Cpne7	current symbol	MGI:2142747	Cpne7	copine VII	protein coding gene	ENSMUSG00000034796	102278
+Cpxm1	current symbol	MGI:1934569	Cpxm1	carboxypeptidase X 1 (M14 family)	protein coding gene	ENSMUSG00000027408	56264
+Crat	current symbol	MGI:109501	Crat	carnitine acetyltransferase	protein coding gene	ENSMUSG00000026853	12908
+Creb3l1	current symbol	MGI:1347062	Creb3l1	cAMP responsive element binding protein 3-like 1	protein coding gene	ENSMUSG00000027230	26427
+Crebbp	current symbol	MGI:1098280	Crebbp	CREB binding protein	protein coding gene	ENSMUSG00000022521	12914
+Creg1	current symbol	MGI:1344382	Creg1	cellular repressor of E1A-stimulated genes 1	protein coding gene	ENSMUSG00000040713	433375
+Crhbp	current symbol	MGI:88497	Crhbp	corticotropin releasing hormone binding protein	protein coding gene	ENSMUSG00000021680	12919
+Crhr2	current symbol	MGI:894312	Crhr2	corticotropin releasing hormone receptor 2	protein coding gene	ENSMUSG00000003476	12922
+Crmp1	current symbol	MGI:107793	Crmp1	collapsin response mediator protein 1	protein coding gene	ENSMUSG00000029121	12933
+Crocc	current symbol	MGI:3529431	Crocc	ciliary rootlet coiled-coil, rootletin	protein coding gene	ENSMUSG00000040860	230872
+Crot	current symbol	MGI:1921364	Crot	carnitine O-octanoyltransferase	protein coding gene	ENSMUSG00000003623	74114
+Crtac1	current symbol	MGI:1920082	Crtac1	cartilage acidic protein 1	protein coding gene	ENSMUSG00000042401	72832
+Cry2	current symbol	MGI:1270859	Cry2	cryptochrome 2 (photolyase-like)	protein coding gene	ENSMUSG00000068742	12953
+Csgalnact1	current symbol	MGI:2442354	Csgalnact1	chondroitin sulfate N-acetylgalactosaminyltransferase 1	protein coding gene	ENSMUSG00000036356	234356
+Csnk1a1	current symbol	MGI:1934950	Csnk1a1	casein kinase 1, alpha 1	protein coding gene	ENSMUSG00000024576	93687
+Csrp1	current symbol	MGI:88549	Csrp1	cysteine and glycine-rich protein 1	protein coding gene	ENSMUSG00000026421	13007
+Cth	current symbol	MGI:1339968	Cth	cystathionase (cystathionine gamma-lyase)	protein coding gene	ENSMUSG00000028179	107869
+Cthrc1	current symbol	MGI:1915838	Cthrc1	collagen triple helix repeat containing 1	protein coding gene	ENSMUSG00000054196	68588
+Ctso	current symbol	MGI:2139628	Ctso	cathepsin O	protein coding gene	ENSMUSG00000028015	229445
+Ctxn2	current symbol	MGI:2139444	Ctxn2	cortexin 2	protein coding gene	ENSMUSG00000074872	381418
+Cul3	current symbol	MGI:1347360	Cul3	cullin 3	protein coding gene	ENSMUSG00000004364	26554
+Cux2	current symbol	MGI:107321	Cux2	cut-like homeobox 2	protein coding gene	ENSMUSG00000042589	13048
+Cwf19l1	current symbol	MGI:1919752	Cwf19l1	CWF19-like 1, cell cycle control (S. pombe)	protein coding gene	ENSMUSG00000025200	72502
+Cwh43	current symbol	MGI:2444131	Cwh43	cell wall biogenesis 43 C-terminal homolog	protein coding gene	ENSMUSG00000029154	231293
+Cx3cl1	current symbol	MGI:1097153	Cx3cl1	chemokine (C-X3-C motif) ligand 1	protein coding gene	ENSMUSG00000031778	20312
+Cxcl12	current symbol	MGI:103556	Cxcl12	chemokine (C-X-C motif) ligand 12	protein coding gene	ENSMUSG00000061353	20315
+Cxcl14	current symbol	MGI:1888514	Cxcl14	chemokine (C-X-C motif) ligand 14	protein coding gene	ENSMUSG00000021508	57266
+Cyb5r1	current symbol	MGI:1919267	Cyb5r1	cytochrome b5 reductase 1	protein coding gene	ENSMUSG00000026456	72017
+Cygb	current symbol	MGI:2149481	Cygb	cytoglobin	protein coding gene	ENSMUSG00000020810	114886
+Cyp2s1	current symbol	MGI:1921384	Cyp2s1	cytochrome P450, family 2, subfamily s, polypeptide 1	protein coding gene	ENSMUSG00000040703	74134
+Cyp2u1	current symbol	MGI:1918769	Cyp2u1	cytochrome P450, family 2, subfamily u, polypeptide 1	protein coding gene	ENSMUSG00000027983	71519
+Cyp46a1	current symbol	MGI:1341877	Cyp46a1	cytochrome P450, family 46, subfamily a, polypeptide 1	protein coding gene	ENSMUSG00000021259	13116
+D430036J16Rik	current symbol	MGI:2441977	D430036J16Rik	RIKEN cDNA D430036J16 gene	lncRNA gene	ENSMUSG00000097466	319405
+D830030K20Rik	current symbol	MGI:2443830	D830030K20Rik	RIKEN cDNA D830030K20 gene	protein coding gene	ENSMUSG00000096039	320333
+Dab1	current symbol	MGI:108554	Dab1	disabled 1	protein coding gene	ENSMUSG00000028519	13131
+Dact2	current symbol	MGI:1920347	Dact2	dishevelled-binding antagonist of beta-catenin 2	protein coding gene	ENSMUSG00000048826	240025
+Dagla	current symbol	MGI:2677061	Dagla	diacylglycerol lipase, alpha	protein coding gene	ENSMUSG00000035735	269060
+Dazap2	current symbol	MGI:1344344	Dazap2	DAZ associated protein 2	protein coding gene	ENSMUSG00000000346	23994
+Dbp	current symbol	MGI:94866	Dbp	D site albumin promoter binding protein	protein coding gene	ENSMUSG00000059824	13170
+Dbpht2	current symbol	MGI:2679513	Dbpht2	DNA binding protein with his-thr domain	protein coding gene	ENSMUSG00000029878	386753
+Dbx2	current symbol	MGI:107445	Dbx2	developing brain homeobox 2	protein coding gene	ENSMUSG00000045608	223843
+Dcaf15	current symbol	MGI:2684420	Dcaf15	DDB1 and CUL4 associated factor 15	protein coding gene	ENSMUSG00000037103	212123
+Dclk3	current symbol	MGI:3039580	Dclk3	doublecortin-like kinase 3	protein coding gene	ENSMUSG00000032500	245038
+Dclre1a	current symbol	MGI:1930042	Dclre1a	DNA cross-link repair 1A	protein coding gene	ENSMUSG00000025077	55947
+Dctd	current symbol	MGI:2444529	Dctd	dCMP deaminase	protein coding gene	ENSMUSG00000031562	320685
+Dcxr	current symbol	MGI:1915130	Dcxr	dicarbonyl L-xylulose reductase	protein coding gene	ENSMUSG00000039450	67880
+Ddhd1	current symbol	MGI:2150302	Ddhd1	DDHD domain containing 1	protein coding gene	ENSMUSG00000037697	114874
+Ddit3	current symbol	MGI:109247	Ddit3	DNA-damage inducible transcript 3	protein coding gene	ENSMUSG00000025408	13198
+Ddit3	current symbol	MGI:109247	Ddit3	DNA-damage inducible transcript 3	protein coding gene	ENSMUSG00000116429	13198
+Ddit4	current symbol	MGI:1921997	Ddit4	DNA-damage-inducible transcript 4	protein coding gene	ENSMUSG00000020108	74747
+Ddr2	current symbol	MGI:1345277	Ddr2	discoidin domain receptor family, member 2	protein coding gene	ENSMUSG00000026674	18214
+Deaf1	current symbol	MGI:1858496	Deaf1	DEAF1, transcription factor	protein coding gene	ENSMUSG00000058886	54006
+Deptor	current symbol	MGI:2146322	Deptor	DEP domain containing MTOR-interacting protein	protein coding gene	ENSMUSG00000022419	97998
+Dgat2	current symbol	MGI:1915050	Dgat2	diacylglycerol O-acyltransferase 2	protein coding gene	ENSMUSG00000030747	67800
+Dgkg	current symbol	MGI:105060	Dgkg	diacylglycerol kinase, gamma	protein coding gene	ENSMUSG00000022861	110197
+Dgkk	current symbol	MGI:3580254	Dgkk	diacylglycerol kinase kappa	protein coding gene	ENSMUSG00000062393	331374
+Dgkz	current symbol	MGI:1278339	Dgkz	diacylglycerol kinase zeta	protein coding gene	ENSMUSG00000040479	104418
+Dhdh	current symbol	MGI:1919005	Dhdh	dihydrodiol dehydrogenase (dimeric)	protein coding gene	ENSMUSG00000011382	71755
+Dhrs3	current symbol	MGI:1315215	Dhrs3	dehydrogenase/reductase (SDR family) member 3	protein coding gene	ENSMUSG00000066026	20148
+Dio2	current symbol	MGI:1338833	Dio2	deiodinase, iodothyronine, type II	protein coding gene	ENSMUSG00000007682	13371
+Disp2	current symbol	MGI:2388733	Disp2	dispatched RND tramsporter family member 2	protein coding gene	ENSMUSG00000040035	214240
+Disp3	current symbol	MGI:2444403	Disp3	dispatched RND transporter family member 3	protein coding gene	ENSMUSG00000041544	242748
+Dkkl1	current symbol	MGI:1354963	Dkkl1	dickkopf-like 1	protein coding gene	ENSMUSG00000030792	50722
+Dlk1	current symbol	MGI:94900	Dlk1	delta like non-canonical Notch ligand 1	protein coding gene	ENSMUSG00000040856	13386
+Dll3	current symbol	MGI:1096877	Dll3	delta like canonical Notch ligand 3	protein coding gene	ENSMUSG00000003436	13389
+Dlst	current symbol	MGI:1926170	Dlst	dihydrolipoamide S-succinyltransferase (E2 component of 2-oxo-glutarate complex)	protein coding gene	ENSMUSG00000004789	78920
+Dmac2	current symbol	MGI:1913599	Dmac2	distal membrane arm assembly complex 2	protein coding gene	ENSMUSG00000057229	66349
+Dmtn	current symbol	MGI:99670	Dmtn	dematin actin binding protein	protein coding gene	ENSMUSG00000022099	13829
+Dnah9	current symbol	MGI:1289279	Dnah9	dynein, axonemal, heavy chain 9	protein coding gene	ENSMUSG00000056752	237806
+Dnaja3	current symbol	MGI:1933786	Dnaja3	DnaJ heat shock protein family (Hsp40) member A3	protein coding gene	ENSMUSG00000004069	83945
+Dnaja4	current symbol	MGI:1927638	Dnaja4	DnaJ heat shock protein family (Hsp40) member A4	protein coding gene	ENSMUSG00000032285	58233
+Dnajc16	current symbol	MGI:2442146	Dnajc16	DnaJ heat shock protein family (Hsp40) member C16	protein coding gene	ENSMUSG00000040697	214063
+Dnajc27	current symbol	MGI:2443036	Dnajc27	DnaJ heat shock protein family (Hsp40) member C27	protein coding gene	ENSMUSG00000020657	217378
+Doc2a	current symbol	MGI:109446	Doc2a	double C2, alpha	protein coding gene	ENSMUSG00000052301	13446
+Dok4	current symbol	MGI:2148865	Dok4	docking protein 4	protein coding gene	ENSMUSG00000040631	114255
+Dok5	current symbol	MGI:1924079	Dok5	docking protein 5	protein coding gene	ENSMUSG00000027560	76829
+Dolk	current symbol	MGI:2677836	Dolk	dolichol kinase	protein coding gene	ENSMUSG00000075419	227697
+Dop1b	current symbol	MGI:1917278	Dop1b	DOP1 leucine zipper like protein B	protein coding gene	ENSMUSG00000022946	70028
+Dpf1	current symbol	MGI:1352748	Dpf1	D4, zinc and double PHD fingers family 1	protein coding gene	ENSMUSG00000030584	29861
+Dpf3	current symbol	MGI:1917377	Dpf3	D4, zinc and double PHD fingers, family 3	protein coding gene	ENSMUSG00000021221	70127
+Dph3	current symbol	MGI:1922658	Dph3	diphthamine biosynthesis 3	protein coding gene	ENSMUSG00000021905	105638
+Dpp6	current symbol	MGI:94921	Dpp6	dipeptidylpeptidase 6	protein coding gene	ENSMUSG00000061576	13483
+Dpy19l1	current symbol	MGI:1915685	Dpy19l1	dpy-19-like 1 (C. elegans)	protein coding gene	ENSMUSG00000043067	244745
+Draxin	current symbol	MGI:1917683	Draxin	dorsal inhibitory axon guidance protein	protein coding gene	ENSMUSG00000029005	70433
+Drd2	current symbol	MGI:94924	Drd2	dopamine receptor D2	protein coding gene	ENSMUSG00000032259	13489
+Dsc1	current symbol	MGI:109173	Dsc1	desmocollin 1	protein coding gene	ENSMUSG00000044322	13505
+Dsc3	current symbol	MGI:1194993	Dsc3	desmocollin 3	protein coding gene	ENSMUSG00000059898	13507
+Dsp	current symbol	MGI:109611	Dsp	desmoplakin	protein coding gene	ENSMUSG00000054889	109620
+Dtnb	current symbol	MGI:1203728	Dtnb	dystrobrevin, beta	protein coding gene	ENSMUSG00000071454	13528
+Dusp15	current symbol	MGI:1934928	Dusp15	dual specificity phosphatase-like 15	protein coding gene	ENSMUSG00000042662	252864
+Dusp18	current symbol	MGI:1922469	Dusp18	dual specificity phosphatase 18	protein coding gene	ENSMUSG00000047205	75219
+Dusp4	current symbol	MGI:2442191	Dusp4	dual specificity phosphatase 4	protein coding gene	ENSMUSG00000031530	319520
+Dusp7	current symbol	MGI:2387100	Dusp7	dual specificity phosphatase 7	protein coding gene	ENSMUSG00000053716	235584
+Dynlt3	current symbol	MGI:1914367	Dynlt3	dynein light chain Tctex-type 3	protein coding gene	ENSMUSG00000031176	67117
+E2f1	current symbol	MGI:101941	E2f1	E2F transcription factor 1	protein coding gene	ENSMUSG00000027490	13555
+Efhd1	current symbol	MGI:1921607	Efhd1	EF hand domain containing 1	protein coding gene	ENSMUSG00000026255	98363
+Efnb1	current symbol	MGI:102708	Efnb1	ephrin B1	protein coding gene	ENSMUSG00000031217	13641
+Efnb3	current symbol	MGI:109196	Efnb3	ephrin B3	protein coding gene	ENSMUSG00000003934	13643
+Egln3	current symbol	MGI:1932288	Egln3	egl-9 family hypoxia-inducible factor 3	protein coding gene	ENSMUSG00000035105	112407
+Ehmt2	current symbol	MGI:2148922	Ehmt2	euchromatic histone lysine N-methyltransferase 2	protein coding gene	ENSMUSG00000013787	110147
+Eif2b5	current symbol	MGI:2446176	Eif2b5	eukaryotic translation initiation factor 2B, subunit 5 epsilon	protein coding gene	ENSMUSG00000003235	224045
+Eif4ebp1	current symbol	MGI:103267	Eif4ebp1	eukaryotic translation initiation factor 4E binding protein 1	protein coding gene	ENSMUSG00000031490	13685
+Elfn2	current symbol	MGI:3608416	Elfn2	leucine rich repeat and fibronectin type III, extracellular 2	protein coding gene	ENSMUSG00000043460	207393
+Elmo1	current symbol	MGI:2153044	Elmo1	engulfment and cell motility 1	protein coding gene	ENSMUSG00000041112	140580
+Elmo2	current symbol	MGI:2153045	Elmo2	engulfment and cell motility 2	protein coding gene	ENSMUSG00000017670	140579
+Eln	current symbol	MGI:95317	Eln	elastin	protein coding gene	ENSMUSG00000029675	13717
+Elovl4	current symbol	MGI:1933331	Elovl4	elongation of very long chain fatty acids (FEN1/Elo2, SUR4/Elo3, yeast)-like 4	protein coding gene	ENSMUSG00000032262	83603
+Elovl6	current symbol	MGI:2156528	Elovl6	ELOVL family member 6, elongation of long chain fatty acids (yeast)	protein coding gene	ENSMUSG00000041220	170439
+Elovl7	current symbol	MGI:1921809	Elovl7	ELOVL family member 7, elongation of long chain fatty acids (yeast)	protein coding gene	ENSMUSG00000021696	74559
+Emid1	current symbol	MGI:2155091	Emid1	EMI domain containing 1	protein coding gene	ENSMUSG00000034164	140703
+Eml2	current symbol	MGI:1919455	Eml2	echinoderm microtubule associated protein like 2	protein coding gene	ENSMUSG00000040811	72205
+Emx1	current symbol	MGI:95387	Emx1	empty spiracles homeobox 1	protein coding gene	ENSMUSG00000033726	13796
+Enpp2	current symbol	MGI:1321390	Enpp2	ectonucleotide pyrophosphatase/phosphodiesterase 2	protein coding gene	ENSMUSG00000022425	18606
+Entpd2	current symbol	MGI:1096863	Entpd2	ectonucleoside triphosphate diphosphohydrolase 2	protein coding gene	ENSMUSG00000015085	12496
+Entpd3	current symbol	MGI:1321386	Entpd3	ectonucleoside triphosphate diphosphohydrolase 3	protein coding gene	ENSMUSG00000041608	215446
+Epas1	current symbol	MGI:109169	Epas1	endothelial PAS domain protein 1	protein coding gene	ENSMUSG00000024140	13819
+Epb41l1	current symbol	MGI:103010	Epb41l1	erythrocyte membrane protein band 4.1 like 1	protein coding gene	ENSMUSG00000027624	13821
+Epb41l2	current symbol	MGI:103009	Epb41l2	erythrocyte membrane protein band 4.1 like 2	protein coding gene	ENSMUSG00000019978	13822
+Epb41l4a	current symbol	MGI:103007	Epb41l4a	erythrocyte membrane protein band 4.1 like 4a	protein coding gene	ENSMUSG00000024376	13824
+Epdr1	current symbol	MGI:2145369	Epdr1	ependymin related protein 1 (zebrafish)	protein coding gene	ENSMUSG00000002808	105298
+Epha4	current symbol	MGI:98277	Epha4	Eph receptor A4	protein coding gene	ENSMUSG00000026235	13838
+Epha8	current symbol	MGI:109378	Epha8	Eph receptor A8	protein coding gene	ENSMUSG00000028661	13842
+Ephb3	current symbol	MGI:104770	Ephb3	Eph receptor B3	protein coding gene	ENSMUSG00000005958	13845
+Ephx1	current symbol	MGI:95405	Ephx1	epoxide hydrolase 1, microsomal	protein coding gene	ENSMUSG00000038776	13849
+Epm2a	current symbol	MGI:1341085	Epm2a	epilepsy, progressive myoclonic epilepsy, type 2 gene alpha	protein coding gene	ENSMUSG00000055493	13853
+Epop	current symbol	MGI:2143991	Epop	elongin BC and polycomb repressive complex 2 associated protein	protein coding gene	ENSMUSG00000043439	103551
+Esr1	current symbol	MGI:1352467	Esr1	estrogen receptor 1 (alpha)	protein coding gene	ENSMUSG00000019768	13982
+Etl4	current symbol	MGI:95454	Etl4	enhancer trap locus 4	protein coding gene	ENSMUSG00000036617	208618
+Etnk2	current symbol	MGI:2443760	Etnk2	ethanolamine kinase 2	protein coding gene	ENSMUSG00000070644	214253
+Extl1	current symbol	MGI:1888742	Extl1	exostosin-like glycosyltransferase 1	protein coding gene	ENSMUSG00000028838	56219
+F730043M19Rik	current symbol	MGI:2443237	F730043M19Rik	RIKEN cDNA F730043M19 gene	lncRNA gene	ENSMUSG00000052125	320046
+Fads1	current symbol	MGI:1923517	Fads1	fatty acid desaturase 1	protein coding gene	ENSMUSG00000010663	76267
+Faim2	current symbol	MGI:1919643	Faim2	Fas apoptotic inhibitory molecule 2	protein coding gene	ENSMUSG00000023011	72393
+Fam107b	current symbol	MGI:1913790	Fam107b	family with sequence similarity 107, member B	protein coding gene	ENSMUSG00000026655	66540
+Fam118a	current symbol	MGI:1920475	Fam118a	family with sequence similarity 118, member A	protein coding gene	ENSMUSG00000022434	73225
+Fam129a		No associated gene					
+Fam131c	current symbol	MGI:2685539	Fam131c	family with sequence similarity 131, member C	protein coding gene	ENSMUSG00000006218	277743
+Fam136a	current symbol	MGI:1913738	Fam136a	family with sequence similarity 136, member A	protein coding gene	ENSMUSG00000057497	66488
+Fam163b	current symbol	MGI:1926106	Fam163b	family with sequence similarity 163, member B	protein coding gene	ENSMUSG00000009216	109349
+Fam171a1	current symbol	MGI:2442917	Fam171a1	family with sequence similarity 171, member A1	protein coding gene	ENSMUSG00000050530	269233
+Fam184b	current symbol	MGI:2442958	Fam184b	family with sequence similarity 184, member B	protein coding gene	ENSMUSG00000015879	58227
+Fam189a1	current symbol	MGI:1917888	Fam189a1	family with sequence similarity 189, member A1	protein coding gene	ENSMUSG00000030518	70638
+Fam196b		No associated gene					
+Fam198a		No associated gene					
+Fam198b		No associated gene					
+Fam210b	current symbol	MGI:1914267	Fam210b	family with sequence similarity 210, member B	protein coding gene	ENSMUSG00000027495	67017
+Fam57b		No associated gene					
+Fam98a	current symbol	MGI:1919972	Fam98a	family with sequence similarity 98, member A	protein coding gene	ENSMUSG00000002017	72722
+Fank1	current symbol	MGI:1914180	Fank1	fibronectin type 3 and ankyrin repeat domains 1	protein coding gene	ENSMUSG00000053111	66930
+Fblim1	current symbol	MGI:1921452	Fblim1	filamin binding LIM protein 1	protein coding gene	ENSMUSG00000006219	74202
+Fbln1	current symbol	MGI:95487	Fbln1	fibulin 1	protein coding gene	ENSMUSG00000006369	14114
+Fbxl2	current symbol	MGI:1919429	Fbxl2	F-box and leucine-rich repeat protein 2	protein coding gene	ENSMUSG00000032507	72179
+Fbxo11	current symbol	MGI:2147134	Fbxo11	F-box protein 11	protein coding gene	ENSMUSG00000005371	225055
+Fbxo7	current symbol	MGI:1917004	Fbxo7	F-box protein 7	protein coding gene	ENSMUSG00000001786	69754
+Fbxw5	current symbol	MGI:1354731	Fbxw5	F-box and WD-40 domain protein 5	protein coding gene	ENSMUSG00000015095	30839
+Fcgrt	current symbol	MGI:103017	Fcgrt	Fc fragment of IgG receptor and transporter	protein coding gene	ENSMUSG00000003420	14132
+Fer1l5	current symbol	MGI:3616091	Fer1l5	fer-1-like 5 (C. elegans)	protein coding gene	ENSMUSG00000037432	100534273
+Fgd5	current symbol	MGI:2443369	Fgd5	FYVE, RhoGEF and PH domain containing 5	protein coding gene	ENSMUSG00000034037	232237
+Fgfr3	current symbol	MGI:95524	Fgfr3	fibroblast growth factor receptor 3	protein coding gene	ENSMUSG00000054252	14184
+Fgfrl1	current symbol	MGI:2150920	Fgfrl1	fibroblast growth factor receptor-like 1	protein coding gene	ENSMUSG00000008090	116701
+Fibcd1	current symbol	MGI:2138953	Fibcd1	fibrinogen C domain containing 1	protein coding gene	ENSMUSG00000026841	98970
+Fibin	current symbol	MGI:1914856	Fibin	fin bud initiation factor homolog (zebrafish)	protein coding gene	ENSMUSG00000074971	67606
+Flot2	current symbol	MGI:103309	Flot2	flotillin 2	protein coding gene	ENSMUSG00000061981	14252
+Fn1	current symbol	MGI:95566	Fn1	fibronectin 1	protein coding gene	ENSMUSG00000026193	14268
+Fndc1	current symbol	MGI:1915905	Fndc1	fibronectin type III domain containing 1	protein coding gene	ENSMUSG00000071984	68655
+Fndc10	current symbol	MGI:2444790	Fndc10	fibronectin type III domain containing 10	protein coding gene	ENSMUSG00000074738	230991
+Fndc3a	current symbol	MGI:1196463	Fndc3a	fibronectin type III domain containing 3A	protein coding gene	ENSMUSG00000033487	319448
+Fndc3b	current symbol	MGI:1919257	Fndc3b	fibronectin type III domain containing 3B	protein coding gene	ENSMUSG00000039286	72007
+Fndc4	current symbol	MGI:1917195	Fndc4	fibronectin type III domain containing 4	protein coding gene	ENSMUSG00000038552	64339
+Fndc5	current symbol	MGI:1917614	Fndc5	fibronectin type III domain containing 5	protein coding gene	ENSMUSG00000001334	384061
+Foxk2	current symbol	MGI:1916087	Foxk2	forkhead box K2	protein coding gene	ENSMUSG00000039275	68837
+Foxo6	current symbol	MGI:2676586	Foxo6	forkhead box O6	protein coding gene	ENSMUSG00000052135	329934
+Frmd4b	current symbol	MGI:2141794	Frmd4b	FERM domain containing 4B	protein coding gene	ENSMUSG00000030064	232288
+Frmpd3	current symbol	MGI:3646547	Frmpd3	FERM and PDZ domain containing 3	protein coding gene	ENSMUSG00000042425	245643
+Fscn1	current symbol	MGI:1352745	Fscn1	fascin actin-bundling protein 1	protein coding gene	ENSMUSG00000029581	14086
+Fst	current symbol	MGI:95586	Fst	follistatin	protein coding gene	ENSMUSG00000021765	14313
+Fth1	current symbol	MGI:95588	Fth1	ferritin heavy polypeptide 1	protein coding gene	ENSMUSG00000024661	14319
+Fut8	current symbol	MGI:1858901	Fut8	fucosyltransferase 8	protein coding gene	ENSMUSG00000021065	53618
+Fxyd7	current symbol	MGI:1889006	Fxyd7	FXYD domain-containing ion transport regulator 7	protein coding gene	ENSMUSG00000036578	57780
+Fzd1	current symbol	MGI:1196625	Fzd1	frizzled class receptor 1	protein coding gene	ENSMUSG00000044674	14362
+Fzd4	current symbol	MGI:108520	Fzd4	frizzled class receptor 4	protein coding gene	ENSMUSG00000049791	14366
+G3bp2	current symbol	MGI:2442040	G3bp2	GTPase activating protein (SH3 domain) binding protein 2	protein coding gene	ENSMUSG00000029405	23881
+Gab2	current symbol	MGI:1333854	Gab2	growth factor receptor bound protein 2-associated protein 2	protein coding gene	ENSMUSG00000004508	14389
+Gabbr2	current symbol	MGI:2386030	Gabbr2	gamma-aminobutyric acid (GABA) B receptor, 2	protein coding gene	ENSMUSG00000039809	242425
+Gabra2	current symbol	MGI:95614	Gabra2	gamma-aminobutyric acid (GABA) A receptor, subunit alpha 2	protein coding gene	ENSMUSG00000000560	14395
+Gabra5	current symbol	MGI:95617	Gabra5	gamma-aminobutyric acid (GABA) A receptor, subunit alpha 5	protein coding gene	ENSMUSG00000055078	110886
+Gabrd	current symbol	MGI:95622	Gabrd	gamma-aminobutyric acid (GABA) A receptor, subunit delta	protein coding gene	ENSMUSG00000029054	14403
+Gabrg2	current symbol	MGI:95623	Gabrg2	gamma-aminobutyric acid (GABA) A receptor, subunit gamma 2	protein coding gene	ENSMUSG00000020436	14406
+Gabrg3	current symbol	MGI:95624	Gabrg3	gamma-aminobutyric acid (GABA) A receptor, subunit gamma 3	protein coding gene	ENSMUSG00000055026	14407
+Gad1	current symbol	MGI:95632	Gad1	glutamate decarboxylase 1	protein coding gene	ENSMUSG00000070880	14415
+Gad2	current symbol	MGI:95634	Gad2	glutamic acid decarboxylase 2	protein coding gene	ENSMUSG00000026787	14417
+Gadd45g	current symbol	MGI:1346325	Gadd45g	growth arrest and DNA-damage-inducible 45 gamma	protein coding gene	ENSMUSG00000021453	23882
+Galnt3	current symbol	MGI:894695	Galnt3	polypeptide N-acetylgalactosaminyltransferase 3	protein coding gene	ENSMUSG00000026994	14425
+Galntl6	current symbol	MGI:1913581	Galntl6	UDP-N-acetyl-alpha-D-galactosamine:polypeptide N-acetylgalactosaminyltransferase-like 6	protein coding gene	ENSMUSG00000096914	270049
+Galt	current symbol	MGI:95638	Galt	galactose-1-phosphate uridyl transferase	protein coding gene	ENSMUSG00000036073	14430
+Gamt	current symbol	MGI:1098221	Gamt	guanidinoacetate methyltransferase	protein coding gene	ENSMUSG00000020150	14431
+Gas7	current symbol	MGI:1202388	Gas7	growth arrest specific 7	protein coding gene	ENSMUSG00000033066	14457
+Gatm	current symbol	MGI:1914342	Gatm	glycine amidinotransferase (L-arginine:glycine amidinotransferase)	protein coding gene	ENSMUSG00000027199	67092
+Gcat	current symbol	MGI:1349389	Gcat	glycine C-acetyltransferase (2-amino-3-ketobutyrate-coenzyme A ligase)	protein coding gene	ENSMUSG00000006378	26912
+Gcat	current symbol	MGI:1349389	Gcat	glycine C-acetyltransferase (2-amino-3-ketobutyrate-coenzyme A ligase)	protein coding gene	ENSMUSG00000116378	26912
+Gch1	current symbol	MGI:95675	Gch1	GTP cyclohydrolase 1	protein coding gene	ENSMUSG00000037580	14528
+Gda	current symbol	MGI:95678	Gda	guanine deaminase	protein coding gene	ENSMUSG00000058624	14544
+Gdf1	current symbol	MGI:95683	Gdf1	growth differentiation factor 1	protein coding gene	ENSMUSG00000109523	14559
+Gdf10	current symbol	MGI:95684	Gdf10	growth differentiation factor 10	protein coding gene	ENSMUSG00000021943	14560
+Gdf15	current symbol	MGI:1346047	Gdf15	growth differentiation factor 15	protein coding gene	ENSMUSG00000038508	23886
+Gfra2	current symbol	MGI:1195462	Gfra2	glial cell line derived neurotrophic factor family receptor alpha 2	protein coding gene	ENSMUSG00000022103	14586
+Gga2	current symbol	MGI:1921355	Gga2	golgi associated, gamma adaptin ear containing, ARF binding protein 2	protein coding gene	ENSMUSG00000030872	74105
+Gjd2	current symbol	MGI:1334209	Gjd2	gap junction protein, delta 2	protein coding gene	ENSMUSG00000068615	14617
+Glce	current symbol	MGI:2136405	Glce	glucuronyl C5-epimerase	protein coding gene	ENSMUSG00000032252	93683
+Glp1r	current symbol	MGI:99571	Glp1r	glucagon-like peptide 1 receptor	protein coding gene	ENSMUSG00000024027	14652
+Gm19410	current symbol	MGI:5011595	Gm19410	predicted gene, 19410	protein coding gene	ENSMUSG00000109372	100502846
+Gm2061	current symbol	MGI:3780228	Gm2061	predicted gene 2061	lncRNA gene	ENSMUSG00000097615	100039138
+Gm2a	current symbol	MGI:95762	Gm2a	GM2 ganglioside activator protein	protein coding gene	ENSMUSG00000000594	14667
+Gm3558	current symbol	MGI:3781735	Gm3558	predicted gene 3558	protein coding gene	ENSMUSG00000079364	100041874
+Gm36251	current symbol	MGI:5595410	Gm36251	predicted gene, 36251	lncRNA gene	ENSMUSG00000110996	102640100
+Gm36529	current symbol	MGI:5595688	Gm36529	predicted gene, 36529	lncRNA gene	ENSMUSG00000113771	102640479
+Gm38403	current symbol	MGI:5621288	Gm38403	predicted gene, 38403	lncRNA gene	ENSMUSG00000112854	216377
+Gm4841	current symbol	MGI:3643814	Gm4841	predicted gene 4841	protein coding gene	ENSMUSG00000068606	225594
+Gm4969		No associated gene					
+Gm5148	current symbol	MGI:3646006	Gm5148	predicted gene 5148	protein coding gene	ENSMUSG00000058174	381438
+Gmppa	current symbol	MGI:1916330	Gmppa	GDP-mannose pyrophosphorylase A	protein coding gene	ENSMUSG00000033021	69080
+Gna12	current symbol	MGI:95767	Gna12	guanine nucleotide binding protein, alpha 12	protein coding gene	ENSMUSG00000000149	14673
+Gnai3	current symbol	MGI:95773	Gnai3	guanine nucleotide binding protein (G protein), alpha inhibiting 3	protein coding gene	ENSMUSG00000000001	14679
+Gnb2	current symbol	MGI:95784	Gnb2	guanine nucleotide binding protein (G protein), beta 2	protein coding gene	ENSMUSG00000029713	14693
+Gng4	current symbol	MGI:102703	Gng4	guanine nucleotide binding protein (G protein), gamma 4	protein coding gene	ENSMUSG00000021303	14706
+Gng5	current symbol	MGI:109164	Gng5	guanine nucleotide binding protein (G protein), gamma 5	protein coding gene	ENSMUSG00000068523	14707
+Gnptab	current symbol	MGI:3643902	Gnptab	N-acetylglucosamine-1-phosphate transferase, alpha and beta subunits	protein coding gene	ENSMUSG00000035311	432486
+Golph3	current symbol	MGI:1913879	Golph3	golgi phosphoprotein 3	protein coding gene	ENSMUSG00000022200	66629
+Gpc3	current symbol	MGI:104903	Gpc3	glypican 3	protein coding gene	ENSMUSG00000055653	14734
+Gpc6	current symbol	MGI:1346322	Gpc6	glypican 6	protein coding gene	ENSMUSG00000058571	23888
+Gphn	current symbol	MGI:109602	Gphn	gephyrin	protein coding gene	ENSMUSG00000047454	268566
+Gpr12	current symbol	MGI:101909	Gpr12	G-protein coupled receptor 12	protein coding gene	ENSMUSG00000041468	14738
+Gpr137c	current symbol	MGI:1917963	Gpr137c	G protein-coupled receptor 137C	protein coding gene	ENSMUSG00000049092	70713
+Gpr139	current symbol	MGI:2685341	Gpr139	G protein-coupled receptor 139	protein coding gene	ENSMUSG00000066197	209776
+Gpr155	current symbol	MGI:1915776	Gpr155	G protein-coupled receptor 155	protein coding gene	ENSMUSG00000041762	68526
+Gpr4	current symbol	MGI:2441992	Gpr4	G protein-coupled receptor 4	protein coding gene	ENSMUSG00000044317	319197
+Gpr6	current symbol	MGI:2155249	Gpr6	G protein-coupled receptor 6	protein coding gene	ENSMUSG00000046922	140741
+Gpr61	current symbol	MGI:2441719	Gpr61	G protein-coupled receptor 61	protein coding gene	ENSMUSG00000046793	229714
+Gpr88	current symbol	MGI:1927653	Gpr88	G-protein coupled receptor 88	protein coding gene	ENSMUSG00000068696	64378
+Grem2	current symbol	MGI:1344367	Grem2	gremlin 2, DAN family BMP antagonist	protein coding gene	ENSMUSG00000050069	23893
+Gria2	current symbol	MGI:95809	Gria2	glutamate receptor, ionotropic, AMPA2 (alpha 2)	protein coding gene	ENSMUSG00000033981	14800
+Grik1	current symbol	MGI:95814	Grik1	glutamate receptor, ionotropic, kainate 1	protein coding gene	ENSMUSG00000022935	14805
+Grik4	current symbol	MGI:95817	Grik4	glutamate receptor, ionotropic, kainate 4	protein coding gene	ENSMUSG00000032017	110637
+Grin2d	current symbol	MGI:95823	Grin2d	glutamate receptor, ionotropic, NMDA2D (epsilon 4)	protein coding gene	ENSMUSG00000002771	14814
+Grin3a	current symbol	MGI:1933206	Grin3a	glutamate receptor ionotropic, NMDA3A	protein coding gene	ENSMUSG00000039579	242443
+Grk5	current symbol	MGI:109161	Grk5	G protein-coupled receptor kinase 5	protein coding gene	ENSMUSG00000003228	14773
+Grm4	current symbol	MGI:1351341	Grm4	glutamate receptor, metabotropic 4	protein coding gene	ENSMUSG00000063239	268934
+Grp	current symbol	MGI:95833	Grp	gastrin releasing peptide	protein coding gene	ENSMUSG00000024517	225642
+Gsdme	current symbol	MGI:1889850	Gsdme	gasdermin E	protein coding gene	ENSMUSG00000029821	54722
+Gse1	current symbol	MGI:1098275	Gse1	genetic suppressor element 1, coiled-coil protein	protein coding gene	ENSMUSG00000031822	382034
+Gsg1l	current symbol	MGI:2685483	Gsg1l	GSG1-like	protein coding gene	ENSMUSG00000046182	269994
+Gstm1	current symbol	MGI:95860	Gstm1	glutathione S-transferase, mu 1	protein coding gene	ENSMUSG00000058135	14862
+Gucy1b1	current symbol	MGI:1860604	Gucy1b1	guanylate cyclase 1, soluble, beta 1	protein coding gene	ENSMUSG00000028005	54195
+Gypc	current symbol	MGI:1098566	Gypc	glycophorin C	protein coding gene	ENSMUSG00000090523	71683
+Gys1	current symbol	MGI:101805	Gys1	glycogen synthase 1, muscle	protein coding gene	ENSMUSG00000003865	14936
+H2-K1	current symbol	MGI:95904	H2-K1	histocompatibility 2, K1, K region	protein coding gene	ENSMUSG00000061232	14972
+H2-M5	current symbol	MGI:95917	H2-M5	histocompatibility 2, M region locus 5	protein coding gene	ENSMUSG00000024459	240095
+H2-Q2	current symbol	MGI:95931	H2-Q2	histocompatibility 2, Q region locus 2	protein coding gene	ENSMUSG00000091705	15013
+H2-Q7	current symbol	MGI:95936	H2-Q7	histocompatibility 2, Q region locus 7	protein coding gene	ENSMUSG00000060550	15018
+H6pd	current symbol	MGI:2140356	H6pd	hexose-6-phosphate dehydrogenase (glucose 1-dehydrogenase)	protein coding gene	ENSMUSG00000028980	100198
+Hadh	current symbol	MGI:96009	Hadh	hydroxyacyl-Coenzyme A dehydrogenase	protein coding gene	ENSMUSG00000027984	15107
+Hap1	current symbol	MGI:1261831	Hap1	huntingtin-associated protein 1	protein coding gene	ENSMUSG00000006930	15114
+Has3	current symbol	MGI:109599	Has3	hyaluronan synthase 3	protein coding gene	ENSMUSG00000031910	15118
+Hck	current symbol	MGI:96052	Hck	hemopoietic cell kinase	protein coding gene	ENSMUSG00000003283	15162
+Hcn4	current symbol	MGI:1298209	Hcn4	hyperpolarization-activated, cyclic nucleotide-gated K+ 4	protein coding gene	ENSMUSG00000032338	330953
+Hcrtr1	current symbol	MGI:2385650	Hcrtr1	hypocretin (orexin) receptor 1	protein coding gene	ENSMUSG00000028778	230777
+Heg1	current symbol	MGI:1924696	Heg1	heart development protein with EGF-like domains 1	protein coding gene	ENSMUSG00000075254	77446
+Hfe	current symbol	MGI:109191	Hfe	homeostatic iron regulator	protein coding gene	ENSMUSG00000006611	15216
+Hk2	current symbol	MGI:1315197	Hk2	hexokinase 2	protein coding gene	ENSMUSG00000000628	15277
+Hkdc1	current symbol	MGI:2384910	Hkdc1	hexokinase domain containing 1	protein coding gene	ENSMUSG00000020080	216019
+Hlf	current symbol	MGI:96108	Hlf	hepatic leukemia factor	protein coding gene	ENSMUSG00000003949	217082
+Hmgcll1	current symbol	MGI:2446108	Hmgcll1	3-hydroxymethyl-3-methylglutaryl-Coenzyme A lyase-like 1	protein coding gene	ENSMUSG00000007908	208982
+Hmx1	current symbol	MGI:107178	Hmx1	H6 homeobox 1	protein coding gene	ENSMUSG00000067438	15371
+Hpca	current symbol	MGI:1336200	Hpca	hippocalcin	protein coding gene	ENSMUSG00000028785	15444
+Hpcal1	current symbol	MGI:1855689	Hpcal1	hippocalcin-like 1	protein coding gene	ENSMUSG00000071379	53602
+Hrh1	current symbol	MGI:107619	Hrh1	histamine receptor H1	protein coding gene	ENSMUSG00000053004	15465
+Hrh2	current symbol	MGI:108482	Hrh2	histamine receptor H2	protein coding gene	ENSMUSG00000034987	15466
+Hrh3	current symbol	MGI:2139279	Hrh3	histamine receptor H3	protein coding gene	ENSMUSG00000039059	99296
+Hs6st1	current symbol	MGI:1354958	Hs6st1	heparan sulfate 6-O-sulfotransferase 1	protein coding gene	ENSMUSG00000045216	50785
+Hs6st3	current symbol	MGI:1354960	Hs6st3	heparan sulfate 6-O-sulfotransferase 3	protein coding gene	ENSMUSG00000053465	50787
+Hsd17b7	current symbol	MGI:1330808	Hsd17b7	hydroxysteroid (17-beta) dehydrogenase 7	protein coding gene	ENSMUSG00000026675	15490
+Hspa12a	current symbol	MGI:1920692	Hspa12a	heat shock protein 12A	protein coding gene	ENSMUSG00000025092	73442
+Hspa2	current symbol	MGI:96243	Hspa2	heat shock protein 2	protein coding gene	ENSMUSG00000059970	15512
+Hspb8	current symbol	MGI:2135756	Hspb8	heat shock protein 8	protein coding gene	ENSMUSG00000041548	80888
+Htr3a	current symbol	MGI:96282	Htr3a	5-hydroxytryptamine (serotonin) receptor 3A	protein coding gene	ENSMUSG00000032269	15561
+Htr6	current symbol	MGI:1196627	Htr6	5-hydroxytryptamine (serotonin) receptor 6	protein coding gene	ENSMUSG00000028747	15565
+Htra1	current symbol	MGI:1929076	Htra1	HtrA serine peptidase 1	protein coding gene	ENSMUSG00000006205	56213
+Htra2	current symbol	MGI:1928676	Htra2	HtrA serine peptidase 2	protein coding gene	ENSMUSG00000068329	64704
+Icam5	current symbol	MGI:109430	Icam5	intercellular adhesion molecule 5, telencephalin	protein coding gene	ENSMUSG00000032174	15898
+Ice1	current symbol	MGI:2385865	Ice1	interactor of little elongation complex ELL subunit 1	protein coding gene	ENSMUSG00000034525	218333
+Id2	current symbol	MGI:96397	Id2	inhibitor of DNA binding 2	protein coding gene	ENSMUSG00000020644	15902
+Idh3b	current symbol	MGI:2158650	Idh3b	isocitrate dehydrogenase 3 (NAD+) beta	protein coding gene	ENSMUSG00000027406	170718
+Idh3g	current symbol	MGI:1099463	Idh3g	isocitrate dehydrogenase 3 (NAD+), gamma	protein coding gene	ENSMUSG00000002010	15929
+Idua	current symbol	MGI:96418	Idua	iduronidase, alpha-L	protein coding gene	ENSMUSG00000033540	15932
+Ier5l	current symbol	MGI:1919750	Ier5l	immediate early response 5-like	protein coding gene	ENSMUSG00000089762	72500
+Igf1	current symbol	MGI:96432	Igf1	insulin-like growth factor 1	protein coding gene	ENSMUSG00000020053	16000
+Igfbp2	current symbol	MGI:96437	Igfbp2	insulin-like growth factor binding protein 2	protein coding gene	ENSMUSG00000039323	16008
+Igfbp4	current symbol	MGI:96439	Igfbp4	insulin-like growth factor binding protein 4	protein coding gene	ENSMUSG00000017493	16010
+Igfbp5	current symbol	MGI:96440	Igfbp5	insulin-like growth factor binding protein 5	protein coding gene	ENSMUSG00000026185	16011
+Igfbp7	current symbol	MGI:1352480	Igfbp7	insulin-like growth factor binding protein 7	protein coding gene	ENSMUSG00000036256	29817
+Igsf21	current symbol	MGI:2681842	Igsf21	immunoglobulin superfamily, member 21	protein coding gene	ENSMUSG00000040972	230868
+Igsf3	current symbol	MGI:1926158	Igsf3	immunoglobulin superfamily, member 3	protein coding gene	ENSMUSG00000042035	78908
+Igsf8	current symbol	MGI:2154090	Igsf8	immunoglobulin superfamily, member 8	protein coding gene	ENSMUSG00000038034	140559
+Igsf9b	current symbol	MGI:2685354	Igsf9b	immunoglobulin superfamily, member 9B	protein coding gene	ENSMUSG00000034275	235086
+Il16	current symbol	MGI:1270855	Il16	interleukin 16	protein coding gene	ENSMUSG00000001741	16170
+Il4ra	current symbol	MGI:105367	Il4ra	interleukin 4 receptor, alpha	protein coding gene	ENSMUSG00000030748	16190
+Ildr2	current symbol	MGI:1196370	Ildr2	immunoglobulin-like domain containing receptor 2	protein coding gene	ENSMUSG00000040612	100039795
+Impa2	current symbol	MGI:2149728	Impa2	inositol monophosphatase 2	protein coding gene	ENSMUSG00000024525	114663
+Inf2	current symbol	MGI:1917685	Inf2	inverted formin, FH2 and WH2 domain containing	protein coding gene	ENSMUSG00000037679	70435
+Inpp4b	current symbol	MGI:2158925	Inpp4b	inositol polyphosphate-4-phosphatase, type II	protein coding gene	ENSMUSG00000037940	234515
+Inpp5a	current symbol	MGI:2686961	Inpp5a	inositol polyphosphate-5-phosphatase A	protein coding gene	ENSMUSG00000025477	212111
+Inpp5j	current symbol	MGI:2158663	Inpp5j	inositol polyphosphate 5-phosphatase J	protein coding gene	ENSMUSG00000034570	170835
+Iqsec1	current symbol	MGI:1196356	Iqsec1	IQ motif and Sec7 domain 1	protein coding gene	ENSMUSG00000034312	232227
+Iqsec3	current symbol	MGI:2677208	Iqsec3	IQ motif and Sec7 domain 3	protein coding gene	ENSMUSG00000040797	243621
+Islr2	current symbol	MGI:2444277	Islr2	immunoglobulin superfamily containing leucine-rich repeat 2	protein coding gene	ENSMUSG00000051243	320563
+Isoc1	current symbol	MGI:1913557	Isoc1	isochorismatase domain containing 1	protein coding gene	ENSMUSG00000024601	66307
+Itga3	current symbol	MGI:96602	Itga3	integrin alpha 3	protein coding gene	ENSMUSG00000001507	16400
+Itga4	current symbol	MGI:96603	Itga4	integrin alpha 4	protein coding gene	ENSMUSG00000027009	16401
+Itga5	current symbol	MGI:96604	Itga5	integrin alpha 5 (fibronectin receptor alpha)	protein coding gene	ENSMUSG00000000555	16402
+Itga6	current symbol	MGI:96605	Itga6	integrin alpha 6	protein coding gene	ENSMUSG00000027111	16403
+Itga7	current symbol	MGI:102700	Itga7	integrin alpha 7	protein coding gene	ENSMUSG00000025348	16404
+Itgav	current symbol	MGI:96608	Itgav	integrin alpha V	protein coding gene	ENSMUSG00000027087	16410
+Itgb3	current symbol	MGI:96612	Itgb3	integrin beta 3	protein coding gene	ENSMUSG00000020689	16416
+Itpka	current symbol	MGI:1333822	Itpka	inositol 1,4,5-trisphosphate 3-kinase A	protein coding gene	ENSMUSG00000027296	228550
+Izumo4	current symbol	MGI:1918814	Izumo4	IZUMO family member 4	protein coding gene	ENSMUSG00000055862	71564
+Jak3	current symbol	MGI:99928	Jak3	Janus kinase 3	protein coding gene	ENSMUSG00000031805	16453
+Jph4	current symbol	MGI:2443113	Jph4	junctophilin 4	protein coding gene	ENSMUSG00000022208	319984
+Kalrn	current symbol	MGI:2685385	Kalrn	kalirin, RhoGEF kinase	protein coding gene	ENSMUSG00000061751	545156
+Kcmf1	current symbol	MGI:1921537	Kcmf1	potassium channel modulatory factor 1	protein coding gene	ENSMUSG00000055239	74287
+Kcna1	current symbol	MGI:96654	Kcna1	potassium voltage-gated channel, shaker-related subfamily, member 1	protein coding gene	ENSMUSG00000047976	16485
+Kcna6	current symbol	MGI:96663	Kcna6	potassium voltage-gated channel, shaker-related, subfamily, member 6	protein coding gene	ENSMUSG00000038077	16494
+Kcnab1	current symbol	MGI:109155	Kcnab1	potassium voltage-gated channel, shaker-related subfamily, beta member 1	protein coding gene	ENSMUSG00000027827	16497
+Kcnc4	current symbol	MGI:96670	Kcnc4	potassium voltage gated channel, Shaw-related subfamily, member 4	protein coding gene	ENSMUSG00000027895	99738
+Kcng1	current symbol	MGI:3616086	Kcng1	potassium voltage-gated channel, subfamily G, member 1	protein coding gene	ENSMUSG00000074575	241794
+Kcnh1	current symbol	MGI:1341721	Kcnh1	potassium voltage-gated channel, subfamily H (eag-related), member 1	protein coding gene	ENSMUSG00000058248	16510
+Kcnh2	current symbol	MGI:1341722	Kcnh2	potassium voltage-gated channel, subfamily H (eag-related), member 2	protein coding gene	ENSMUSG00000038319	16511
+Kcnip1	current symbol	MGI:1917607	Kcnip1	Kv channel-interacting protein 1	protein coding gene	ENSMUSG00000053519	70357
+Kcnip2	current symbol	MGI:2135916	Kcnip2	Kv channel-interacting protein 2	protein coding gene	ENSMUSG00000025221	80906
+Kcnj4	current symbol	MGI:104743	Kcnj4	potassium inwardly-rectifying channel, subfamily J, member 4	protein coding gene	ENSMUSG00000044216	16520
+Kcnj9	current symbol	MGI:108007	Kcnj9	potassium inwardly-rectifying channel, subfamily J, member 9	protein coding gene	ENSMUSG00000038026	16524
+Kcnk9	current symbol	MGI:3521816	Kcnk9	potassium channel, subfamily K, member 9	protein coding gene	ENSMUSG00000036760	223604
+Kcns2	current symbol	MGI:1197011	Kcns2	K+ voltage-gated channel, subfamily S, 2	protein coding gene	ENSMUSG00000050963	16539
+Kcnt1	current symbol	MGI:1924627	Kcnt1	potassium channel, subfamily T, member 1	protein coding gene	ENSMUSG00000058740	227632
+Kcnv1	current symbol	MGI:1914748	Kcnv1	potassium channel, subfamily V, member 1	protein coding gene	ENSMUSG00000022342	67498
+Kctd13	current symbol	MGI:1923739	Kctd13	potassium channel tetramerisation domain containing 13	protein coding gene	ENSMUSG00000030685	233877
+Kif17	current symbol	MGI:1098229	Kif17	kinesin family member 17	protein coding gene	ENSMUSG00000028758	16559
+Kif3c	current symbol	MGI:107979	Kif3c	kinesin family member 3C	protein coding gene	ENSMUSG00000020668	16570
+Kif6	current symbol	MGI:1098238	Kif6	kinesin family member 6	protein coding gene	ENSMUSG00000023999	319991
+Kifc2	current symbol	MGI:109187	Kifc2	kinesin family member C2	protein coding gene	ENSMUSG00000004187	16581
+Klf4	current symbol	MGI:1342287	Klf4	Kruppel-like factor 4 (gut)	protein coding gene	ENSMUSG00000003032	16600
+Klf9	current symbol	MGI:1333856	Klf9	Kruppel-like factor 9	protein coding gene	ENSMUSG00000033863	16601
+Klhl33	current symbol	MGI:3644593	Klhl33	kelch-like 33	protein coding gene	ENSMUSG00000090799	546611
+Klhl42	current symbol	MGI:2444786	Klhl42	kelch-like 42	protein coding gene	ENSMUSG00000040102	232539
+Klhl5	current symbol	MGI:1919028	Klhl5	kelch-like 5	protein coding gene	ENSMUSG00000054920	71778
+Kndc1	current symbol	MGI:1923734	Kndc1	kinase non-catalytic C-lobe domain (KIND) containing 1	protein coding gene	ENSMUSG00000066129	76484
+Krt77	current symbol	MGI:3588209	Krt77	keratin 77	protein coding gene	ENSMUSG00000067594	406220
+Krt9	current symbol	MGI:96696	Krt9	keratin 9	protein coding gene	ENSMUSG00000051617	107656
+L1cam	current symbol	MGI:96721	L1cam	L1 cell adhesion molecule	protein coding gene	ENSMUSG00000031391	16728
+L3mbtl4	current symbol	MGI:2444889	L3mbtl4	L3MBTL4 histone methyl-lysine binding protein	protein coding gene	ENSMUSG00000041565	320858
+Lama1	current symbol	MGI:99892	Lama1	laminin, alpha 1	protein coding gene	ENSMUSG00000032796	16772
+Lama5	current symbol	MGI:105382	Lama5	laminin, alpha 5	protein coding gene	ENSMUSG00000015647	16776
+Lamb1	current symbol	MGI:96743	Lamb1	laminin B1	protein coding gene	ENSMUSG00000002900	16777
+Lancl2	current symbol	MGI:1919085	Lancl2	LanC (bacterial lantibiotic synthetase component C)-like 2	protein coding gene	ENSMUSG00000062190	71835
+Lancl3	current symbol	MGI:2443335	Lancl3	LanC lantibiotic synthetase component C-like 3 (bacterial)	protein coding gene	ENSMUSG00000047344	236285
+Large1	current symbol	MGI:1342270	Large1	LARGE xylosyl- and glucuronyltransferase 1	protein coding gene	ENSMUSG00000004383	16795
+Larp1b	current symbol	MGI:1914604	Larp1b	La ribonucleoprotein domain family, member 1B	protein coding gene	ENSMUSG00000025762	214048
+Layn	current symbol	MGI:2685357	Layn	layilin	protein coding gene	ENSMUSG00000060594	244864
+Ldb2	current symbol	MGI:894670	Ldb2	LIM domain binding 2	protein coding gene	ENSMUSG00000039706	16826
+Ldlrad3	current symbol	MGI:2138856	Ldlrad3	low density lipoprotein receptor class A domain containing 3	protein coding gene	ENSMUSG00000048058	241576
+Leprotl1	current symbol	MGI:1915442	Leprotl1	leptin receptor overlapping transcript-like 1	protein coding gene	ENSMUSG00000031513	68192
+Letmd1	current symbol	MGI:1915864	Letmd1	LETM1 domain containing 1	protein coding gene	ENSMUSG00000037353	68614
+Lgi2	current symbol	MGI:2180196	Lgi2	leucine-rich repeat LGI family, member 2	protein coding gene	ENSMUSG00000039252	246316
+Lgi3	current symbol	MGI:2182619	Lgi3	leucine-rich repeat LGI family, member 3	protein coding gene	ENSMUSG00000033595	213469
+Lhfpl1	current symbol	MGI:1891214	Lhfpl1	lipoma HMGIC fusion partner-like 1	protein coding gene	ENSMUSG00000041700	237091
+Lhfpl2	current symbol	MGI:2145236	Lhfpl2	lipoma HMGIC fusion partner-like 2	protein coding gene	ENSMUSG00000045312	218454
+Lhx6	current symbol	MGI:1306803	Lhx6	LIM homeobox protein 6	protein coding gene	ENSMUSG00000026890	16874
+Lin7a	current symbol	MGI:2135609	Lin7a	lin-7 homolog A (C. elegans)	protein coding gene	ENSMUSG00000019906	108030
+Lin7b	current symbol	MGI:1330858	Lin7b	lin-7 homolog B (C. elegans)	protein coding gene	ENSMUSG00000003872	22342
+Lingo1	current symbol	MGI:1915522	Lingo1	leucine rich repeat and Ig domain containing 1	protein coding gene	ENSMUSG00000049556	235402
+Lix1	current symbol	MGI:1913893	Lix1	limb and CNS expressed 1	protein coding gene	ENSMUSG00000047786	66643
+Lman2l	current symbol	MGI:2443010	Lman2l	lectin, mannose-binding 2-like	protein coding gene	ENSMUSG00000001143	214895
+Lmo2	current symbol	MGI:102811	Lmo2	LIM domain only 2	protein coding gene	ENSMUSG00000032698	16909
+Lmo4	current symbol	MGI:109360	Lmo4	LIM domain only 4	protein coding gene	ENSMUSG00000028266	16911
+Lpl	current symbol	MGI:96820	Lpl	lipoprotein lipase	protein coding gene	ENSMUSG00000015568	16956
+Lrfn2	current symbol	MGI:1917780	Lrfn2	leucine rich repeat and fibronectin type III domain containing 2	protein coding gene	ENSMUSG00000040490	70530
+Lrp4	current symbol	MGI:2442252	Lrp4	low density lipoprotein receptor-related protein 4	protein coding gene	ENSMUSG00000027253	228357
+Lrrc2	current symbol	MGI:1921499	Lrrc2	leucine rich repeat containing 2	protein coding gene	ENSMUSG00000032495	74249
+Lrrc20	current symbol	MGI:2387182	Lrrc20	leucine rich repeat containing 20	protein coding gene	ENSMUSG00000037151	216011
+Lrrc27	current symbol	MGI:1923862	Lrrc27	leucine rich repeat containing 27	protein coding gene	ENSMUSG00000015980	76612
+Lrrc3	current symbol	MGI:2447899	Lrrc3	leucine rich repeat containing 3	protein coding gene	ENSMUSG00000051652	237387
+Lrrc4	current symbol	MGI:2182081	Lrrc4	leucine rich repeat containing 4	protein coding gene	ENSMUSG00000049939	192198
+Lrrc55	current symbol	MGI:2685197	Lrrc55	leucine rich repeat containing 55	protein coding gene	ENSMUSG00000075224	241528
+Lrrc59	current symbol	MGI:2138133	Lrrc59	leucine rich repeat containing 59	protein coding gene	ENSMUSG00000020869	98238
+Lrrc75b	current symbol	MGI:2143657	Lrrc75b	leucine rich repeat containing 75B	protein coding gene	ENSMUSG00000046807	192734
+Lrrc8a	current symbol	MGI:2652847	Lrrc8a	leucine rich repeat containing 8A VRAC subunit A	protein coding gene	ENSMUSG00000007476	241296
+Lrrc8b	current symbol	MGI:2141353	Lrrc8b	leucine rich repeat containing 8 family, member B	protein coding gene	ENSMUSG00000070639	433926
+Lrrn1	current symbol	MGI:106038	Lrrn1	leucine rich repeat protein 1, neuronal	protein coding gene	ENSMUSG00000034648	16979
+Lrrtm3	current symbol	MGI:2389177	Lrrtm3	leucine rich repeat transmembrane neuronal 3	protein coding gene	ENSMUSG00000042846	216028
+Lrtm2	current symbol	MGI:2141485	Lrtm2	leucine-rich repeats and transmembrane domains 2	protein coding gene	ENSMUSG00000055003	211187
+Lsm11	current symbol	MGI:1919540	Lsm11	U7 snRNP-specific Sm-like protein LSM11	protein coding gene	ENSMUSG00000044847	72290
+Lss	current symbol	MGI:1336155	Lss	lanosterol synthase	protein coding gene	ENSMUSG00000033105	16987
+Lynx1	current symbol	MGI:1345180	Lynx1	Ly6/neurotoxin 1	protein coding gene	ENSMUSG00000022594	23936
+Lypd1	current symbol	MGI:1919835	Lypd1	Ly6/Plaur domain containing 1	protein coding gene	ENSMUSG00000026344	72585
+Lypd6	current symbol	MGI:2443848	Lypd6	LY6/PLAUR domain containing 6	protein coding gene	ENSMUSG00000050447	320343
+Lypd6b	current symbol	MGI:1919147	Lypd6b	LY6/PLAUR domain containing 6B	protein coding gene	ENSMUSG00000026765	71897
+Lyrm9	current symbol	MGI:1913524	Lyrm9	LYR motif containing 9	protein coding gene	ENSMUSG00000072640	66274
+Lztfl1	current symbol	MGI:1934860	Lztfl1	leucine zipper transcription factor-like 1	protein coding gene	ENSMUSG00000025245	93730
+Maf	current symbol	MGI:96909	Maf	avian musculoaponeurotic fibrosarcoma oncogene homolog	protein coding gene	ENSMUSG00000055435	17132
+Mafb	current symbol	MGI:104555	Mafb	v-maf musculoaponeurotic fibrosarcoma oncogene family, protein B (avian)	protein coding gene	ENSMUSG00000074622	16658
+Magel2	current symbol	MGI:1351648	Magel2	MAGE family member L2	protein coding gene	ENSMUSG00000056972	27385
+Magi3	current symbol	MGI:1923484	Magi3	membrane associated guanylate kinase, WW and PDZ domain containing 3	protein coding gene	ENSMUSG00000052539	99470
+Mal2	current symbol	MGI:2146021	Mal2	mal, T cell differentiation protein 2	protein coding gene	ENSMUSG00000024479	105853
+Maml3	current symbol	MGI:2389461	Maml3	mastermind like transcriptional coactivator 3	protein coding gene	ENSMUSG00000061143	433586
+Mamld1	current symbol	MGI:3045303	Mamld1	mastermind-like domain containing 1	protein coding gene	ENSMUSG00000059401	333639
+Man1c1	current symbol	MGI:2446214	Man1c1	mannosidase, alpha, class 1C, member 1	protein coding gene	ENSMUSG00000037306	230815
+Man2a1	current symbol	MGI:104669	Man2a1	mannosidase 2, alpha 1	protein coding gene	ENSMUSG00000024085	17158
+Maneal	current symbol	MGI:2684896	Maneal	mannosidase, endo-alpha-like	protein coding gene	ENSMUSG00000042763	215090
+Map6d1	current symbol	MGI:3607784	Map6d1	MAP6 domain containing 1	protein coding gene	ENSMUSG00000041205	208158
+Map7d2	current symbol	MGI:1917474	Map7d2	MAP7 domain containing 2	protein coding gene	ENSMUSG00000041020	78283
+Mapk3	current symbol	MGI:1346859	Mapk3	mitogen-activated protein kinase 3	protein coding gene	ENSMUSG00000063065	26417
+Mapk8ip1	current symbol	MGI:1309464	Mapk8ip1	mitogen-activated protein kinase 8 interacting protein 1	protein coding gene	ENSMUSG00000027223	19099
+Mapre1	current symbol	MGI:891995	Mapre1	microtubule-associated protein, RP/EB family, member 1	protein coding gene	ENSMUSG00000027479	13589
+Mars		No associated gene					
+Masp1	current symbol	MGI:88492	Masp1	mannan-binding lectin serine peptidase 1	protein coding gene	ENSMUSG00000022887	17174
+Matk	current symbol	MGI:99259	Matk	megakaryocyte-associated tyrosine kinase	protein coding gene	ENSMUSG00000004933	17179
+Matn2	current symbol	MGI:109613	Matn2	matrilin 2	protein coding gene	ENSMUSG00000022324	17181
+Mb21d2	current symbol	MGI:1917028	Mb21d2	Mab-21 domain containing 2	protein coding gene	ENSMUSG00000051065	239796
+Mc4r	current symbol	MGI:99457	Mc4r	melanocortin 4 receptor	protein coding gene	ENSMUSG00000047259	17202
+Mdga1	current symbol	MGI:1922012	Mdga1	MAM domain containing glycosylphosphatidylinositol anchor 1	protein coding gene	ENSMUSG00000043557	74762
+Mdh1b	current symbol	MGI:1923918	Mdh1b	malate dehydrogenase 1B, NAD (soluble)	protein coding gene	ENSMUSG00000025963	76668
+Me3	current symbol	MGI:1916679	Me3	malic enzyme 3, NADP(+)-dependent, mitochondrial	protein coding gene	ENSMUSG00000030621	109264
+Med14	current symbol	MGI:1349442	Med14	mediator complex subunit 14	protein coding gene	ENSMUSG00000064127	26896
+Megf11	current symbol	MGI:1920951	Megf11	multiple EGF-like-domains 11	protein coding gene	ENSMUSG00000036466	214058
+Megf8	current symbol	MGI:2446294	Megf8	multiple EGF-like-domains 8	protein coding gene	ENSMUSG00000045039	269878
+Mertk	current symbol	MGI:96965	Mertk	MER proto-oncogene tyrosine kinase	protein coding gene	ENSMUSG00000014361	17289
+Met	current symbol	MGI:96969	Met	met proto-oncogene	protein coding gene	ENSMUSG00000009376	17295
+Metap1	current symbol	MGI:1922874	Metap1	methionyl aminopeptidase 1	protein coding gene	ENSMUSG00000005813	75624
+Metrn	current symbol	MGI:1917333	Metrn	meteorin, glial cell differentiation regulator	protein coding gene	ENSMUSG00000002274	70083
+Mettl9	current symbol	MGI:1914862	Mettl9	methyltransferase like 9	protein coding gene	ENSMUSG00000030876	59052
+Mfge8	current symbol	MGI:102768	Mfge8	milk fat globule EGF and factor V/VIII domain containing	protein coding gene	ENSMUSG00000030605	17304
+Mfsd3	current symbol	MGI:1916822	Mfsd3	major facilitator superfamily domain containing 3	protein coding gene	ENSMUSG00000019080	69572
+Mfsd6	current symbol	MGI:1922925	Mfsd6	major facilitator superfamily domain containing 6	protein coding gene	ENSMUSG00000041439	98682
+Mfsd9	current symbol	MGI:2443548	Mfsd9	major facilitator superfamily domain containing 9	protein coding gene	ENSMUSG00000041945	211798
+Mgat5b	current symbol	MGI:3606200	Mgat5b	mannoside acetylglucosaminyltransferase 5, isoenzyme B	protein coding gene	ENSMUSG00000043857	268510
+Mgll	current symbol	MGI:1346042	Mgll	monoglyceride lipase	protein coding gene	ENSMUSG00000033174	23945
+Mgrn1	current symbol	MGI:2447670	Mgrn1	mahogunin, ring finger 1	protein coding gene	ENSMUSG00000022517	17237
+Mib1	current symbol	MGI:2443157	Mib1	mindbomb E3 ubiquitin protein ligase 1	protein coding gene	ENSMUSG00000024294	225164
+Mical2	current symbol	MGI:2444947	Mical2	microtubule associated monooxygenase, calponin and LIM domain containing 2	protein coding gene	ENSMUSG00000038244	320878
+Micall2	current symbol	MGI:2444818	Micall2	MICAL-like 2	protein coding gene	ENSMUSG00000036718	231830
+Minar1	current symbol	MGI:2667167	Minar1	membrane integral NOTCH2 associated receptor 1	protein coding gene	ENSMUSG00000039313	209743
+Mindy2	current symbol	MGI:2443086	Mindy2	MINDY lysine 48 deubiquitinase 2	protein coding gene	ENSMUSG00000042444	235461
+Mir124-2hg	current symbol	MGI:1917691	Mir124-2hg	Mir124-2 host gene (non-protein coding)	lncRNA gene	ENSMUSG00000100252	70441
+Mlxip	current symbol	MGI:2141183	Mlxip	MLX interacting protein	protein coding gene	ENSMUSG00000038342	208104
+Mmd2	current symbol	MGI:1922354	Mmd2	monocyte to macrophage differentiation-associated 2	protein coding gene	ENSMUSG00000039533	75104
+Mmp17	current symbol	MGI:1346076	Mmp17	matrix metallopeptidase 17	protein coding gene	ENSMUSG00000029436	23948
+Mmp2	current symbol	MGI:97009	Mmp2	matrix metallopeptidase 2	protein coding gene	ENSMUSG00000031740	17390
+Mmp24	current symbol	MGI:1341867	Mmp24	matrix metallopeptidase 24	protein coding gene	ENSMUSG00000027612	17391
+Mpp2	current symbol	MGI:1858257	Mpp2	membrane protein, palmitoylated 2 (MAGUK p55 subfamily member 2)	protein coding gene	ENSMUSG00000017314	50997
+Mpp6	current symbol	MGI:1927340	Mpp6	membrane protein, palmitoylated 6 (MAGUK p55 subfamily member 6)	protein coding gene	ENSMUSG00000038388	56524
+Mpped1	current symbol	MGI:106316	Mpped1	metallophosphoesterase domain containing 1	protein coding gene	ENSMUSG00000041708	223726
+Mprip	current symbol	MGI:1349438	Mprip	myosin phosphatase Rho interacting protein	protein coding gene	ENSMUSG00000005417	26936
+Mras	current symbol	MGI:1100856	Mras	muscle and microspikes RAS	protein coding gene	ENSMUSG00000032470	17532
+Mrpl35	current symbol	MGI:1913473	Mrpl35	mitochondrial ribosomal protein L35	protein coding gene	ENSMUSG00000052962	66223
+Msn	current symbol	MGI:97167	Msn	moesin	protein coding gene	ENSMUSG00000031207	17698
+Mtch1	current symbol	MGI:1929261	Mtch1	mitochondrial carrier 1	protein coding gene	ENSMUSG00000024012	56462
+Mtch2	current symbol	MGI:1929260	Mtch2	mitochondrial carrier 2	protein coding gene	ENSMUSG00000027282	56428
+Mthfd1l	current symbol	MGI:1924836	Mthfd1l	methylenetetrahydrofolate dehydrogenase (NADP+ dependent) 1-like	protein coding gene	ENSMUSG00000040675	270685
+Mtmr2	current symbol	MGI:1924366	Mtmr2	myotubularin related protein 2	protein coding gene	ENSMUSG00000031918	77116
+Mtmr4	current symbol	MGI:2180699	Mtmr4	myotubularin related protein 4	protein coding gene	ENSMUSG00000018401	170749
+Mvd	current symbol	MGI:2179327	Mvd	mevalonate (diphospho) decarboxylase	protein coding gene	ENSMUSG00000006517	192156
+Myh8	current symbol	MGI:1339712	Myh8	myosin, heavy polypeptide 8, skeletal muscle, perinatal	protein coding gene	ENSMUSG00000055775	17885
+Myo5b	current symbol	MGI:106598	Myo5b	myosin VB	protein coding gene	ENSMUSG00000025885	17919
+Myrip	current symbol	MGI:2384407	Myrip	myosin VIIA and Rab interacting protein	protein coding gene	ENSMUSG00000041794	245049
+N4bp2l1	current symbol	MGI:2140872	N4bp2l1	NEDD4 binding protein 2-like 1	protein coding gene	ENSMUSG00000041132	100637
+N4bp3	current symbol	MGI:2442218	N4bp3	NEDD4 binding protein 3	protein coding gene	ENSMUSG00000001053	212706
+Naa60	current symbol	MGI:1922013	Naa60	N(alpha)-acetyltransferase 60, NatF catalytic subunit	protein coding gene	ENSMUSG00000005982	74763
+Nadsyn1	current symbol	MGI:1926164	Nadsyn1	NAD synthetase 1	protein coding gene	ENSMUSG00000031090	78914
+Naga	current symbol	MGI:1261422	Naga	N-acetyl galactosaminidase, alpha	protein coding gene	ENSMUSG00000022453	17939
+Napepld	current symbol	MGI:2140885	Napepld	N-acyl phosphatidylethanolamine phospholipase D	protein coding gene	ENSMUSG00000044968	242864
+Narf	current symbol	MGI:1914858	Narf	nuclear prelamin A recognition factor	protein coding gene	ENSMUSG00000000056	67608
+Nbea	current symbol	MGI:1347075	Nbea	neurobeachin	protein coding gene	ENSMUSG00000027799	26422
+Nbl1	current symbol	MGI:104591	Nbl1	NBL1, DAN family BMP antagonist	protein coding gene	ENSMUSG00000041120	17965
+Ndel1	current symbol	MGI:1932915	Ndel1	nudE neurodevelopment protein 1 like 1	protein coding gene	ENSMUSG00000018736	83431
+Ndrg1	current symbol	MGI:1341799	Ndrg1	N-myc downstream regulated gene 1	protein coding gene	ENSMUSG00000005125	17988
+Nefl	current symbol	MGI:97313	Nefl	neurofilament, light polypeptide	protein coding gene	ENSMUSG00000022055	18039
+Nek6	current symbol	MGI:1891638	Nek6	NIMA (never in mitosis gene a)-related expressed kinase 6	protein coding gene	ENSMUSG00000026749	59126
+Nell1	current symbol	MGI:2443902	Nell1	NEL-like 1	protein coding gene	ENSMUSG00000055409	338352
+Neurl1b	current symbol	MGI:3643092	Neurl1b	neuralized E3 ubiquitin protein ligase 1B	protein coding gene	ENSMUSG00000034413	240055
+Nfe2l3	current symbol	MGI:1339958	Nfe2l3	nuclear factor, erythroid derived 2, like 3	protein coding gene	ENSMUSG00000029832	18025
+Nfil3	current symbol	MGI:109495	Nfil3	nuclear factor, interleukin 3, regulated	protein coding gene	ENSMUSG00000056749	18030
+Nfya	current symbol	MGI:97316	Nfya	nuclear transcription factor-Y alpha	protein coding gene	ENSMUSG00000023994	18044
+Nkd1	current symbol	MGI:2135954	Nkd1	naked cuticle 1	protein coding gene	ENSMUSG00000031661	93960
+Nmbr	current symbol	MGI:1100525	Nmbr	neuromedin B receptor	protein coding gene	ENSMUSG00000019865	18101
+Nog	current symbol	MGI:104327	Nog	noggin	protein coding gene	ENSMUSG00000048616	18121
+Nos1	current symbol	MGI:97360	Nos1	nitric oxide synthase 1, neuronal	protein coding gene	ENSMUSG00000029361	18125
+Nov		No associated gene					
+Npnt	current symbol	MGI:2148811	Npnt	nephronectin	protein coding gene	ENSMUSG00000040998	114249
+Nptx1	current symbol	MGI:107811	Nptx1	neuronal pentraxin 1	protein coding gene	ENSMUSG00000025582	18164
+Nptxr	current symbol	MGI:1920590	Nptxr	neuronal pentraxin receptor	protein coding gene	ENSMUSG00000022421	73340
+Nr1d1	current symbol	MGI:2444210	Nr1d1	nuclear receptor subfamily 1, group D, member 1	protein coding gene	ENSMUSG00000020889	217166
+Nr2f1	current symbol	MGI:1352451	Nr2f1	nuclear receptor subfamily 2, group F, member 1	protein coding gene	ENSMUSG00000069171	13865
+Nr2f2	current symbol	MGI:1352452	Nr2f2	nuclear receptor subfamily 2, group F, member 2	protein coding gene	ENSMUSG00000030551	11819
+Nrbp2	current symbol	MGI:2385017	Nrbp2	nuclear receptor binding protein 2	protein coding gene	ENSMUSG00000075590	223649
+Nrg1	current symbol	MGI:96083	Nrg1	neuregulin 1	protein coding gene	ENSMUSG00000062991	211323
+Nrg1	current symbol	MGI:96083	Nrg1	neuregulin 1	protein coding gene	ENSMUSG00000118541	211323
+Nrg3	current symbol	MGI:1097165	Nrg3	neuregulin 3	protein coding gene	ENSMUSG00000041014	18183
+Nrgn	current symbol	MGI:1927184	Nrgn	neurogranin	protein coding gene	ENSMUSG00000053310	64011
+Nrn1	current symbol	MGI:1915654	Nrn1	neuritin 1	protein coding gene	ENSMUSG00000039114	68404
+Nrp2	current symbol	MGI:1100492	Nrp2	neuropilin 2	protein coding gene	ENSMUSG00000025969	18187
+Nt5dc2	current symbol	MGI:1917271	Nt5dc2	5'-nucleotidase domain containing 2	protein coding gene	ENSMUSG00000071547	70021
+Nt5e	current symbol	MGI:99782	Nt5e	5' nucleotidase, ecto	protein coding gene	ENSMUSG00000032420	23959
+Ntf3	current symbol	MGI:97380	Ntf3	neurotrophin 3	protein coding gene	ENSMUSG00000049107	18205
+Ntm	current symbol	MGI:2446259	Ntm	neurotrimin	protein coding gene	ENSMUSG00000059974	235106
+Ntn1	current symbol	MGI:105088	Ntn1	netrin 1	protein coding gene	ENSMUSG00000020902	18208
+Ntrk1	current symbol	MGI:97383	Ntrk1	neurotrophic tyrosine kinase, receptor, type 1	protein coding gene	ENSMUSG00000028072	18211
+Ntrk3	current symbol	MGI:97385	Ntrk3	neurotrophic tyrosine kinase, receptor, type 3	protein coding gene	ENSMUSG00000059146	18213
+Ntsr1	current symbol	MGI:97386	Ntsr1	neurotensin receptor 1	protein coding gene	ENSMUSG00000027568	18216
+Ntsr2	current symbol	MGI:108018	Ntsr2	neurotensin receptor 2	protein coding gene	ENSMUSG00000020591	18217
+Nuak1	current symbol	MGI:1925226	Nuak1	NUAK family, SNF1-like kinase, 1	protein coding gene	ENSMUSG00000020032	77976
+Nucb2	current symbol	MGI:1858179	Nucb2	nucleobindin 2	protein coding gene	ENSMUSG00000030659	53322
+Nudt11	current symbol	MGI:1930957	Nudt11	nudix (nucleoside diphosphate linked moiety X)-type motif 11	protein coding gene	ENSMUSG00000073295	58242
+Nupr1	current symbol	MGI:1891834	Nupr1	nuclear protein transcription regulator 1	protein coding gene	ENSMUSG00000030717	56312
+Nwd2	current symbol	MGI:1920464	Nwd2	NACHT and WD repeat domain containing 2	protein coding gene	ENSMUSG00000090061	319807
+Nxph1	current symbol	MGI:107492	Nxph1	neurexophilin 1	protein coding gene	ENSMUSG00000046178	18231
+Ociad2	current symbol	MGI:1916377	Ociad2	OCIA domain containing 2	protein coding gene	ENSMUSG00000029153	433904
+Olfm1	current symbol	MGI:1860437	Olfm1	olfactomedin 1	protein coding gene	ENSMUSG00000026833	56177
+Olfr1344	current symbol	MGI:3031178	Olfr1344	olfactory receptor 1344	protein coding gene	ENSMUSG00000090824	257882
+Opn3	current symbol	MGI:1338022	Opn3	opsin 3	protein coding gene	ENSMUSG00000026525	13603
+Oprd1	current symbol	MGI:97438	Oprd1	opioid receptor, delta 1	protein coding gene	ENSMUSG00000050511	18386
+Optc	current symbol	MGI:2151113	Optc	opticin	protein coding gene	ENSMUSG00000010311	269120
+Orai3	current symbol	MGI:3039586	Orai3	ORAI calcium release-activated calcium modulator 3	protein coding gene	ENSMUSG00000043964	269999
+Orc6	current symbol	MGI:1929285	Orc6	origin recognition complex, subunit 6	protein coding gene	ENSMUSG00000031697	56452
+Ormdl1	current symbol	MGI:2181669	Ormdl1	ORM1-like 1 (S. cerevisiae)	protein coding gene	ENSMUSG00000026097	227102
+Osbpl10	current symbol	MGI:1921736	Osbpl10	oxysterol binding protein-like 10	protein coding gene	ENSMUSG00000040875	74486
+Osbpl3	current symbol	MGI:1918970	Osbpl3	oxysterol binding protein-like 3	protein coding gene	ENSMUSG00000029822	71720
+Osmr	current symbol	MGI:1330819	Osmr	oncostatin M receptor	protein coding gene	ENSMUSG00000022146	18414
+Otof	current symbol	MGI:1891247	Otof	otoferlin	protein coding gene	ENSMUSG00000062372	83762
+Otub2	current symbol	MGI:1915399	Otub2	OTU domain, ubiquitin aldehyde binding 2	protein coding gene	ENSMUSG00000021203	68149
+Oxtr	current symbol	MGI:109147	Oxtr	oxytocin receptor	protein coding gene	ENSMUSG00000049112	18430
+P2rx7	current symbol	MGI:1339957	P2rx7	purinergic receptor P2X, ligand-gated ion channel, 7	protein coding gene	ENSMUSG00000029468	18439
+P4ha1	current symbol	MGI:97463	P4ha1	procollagen-proline, 2-oxoglutarate 4-dioxygenase (proline 4-hydroxylase), alpha 1 polypeptide	protein coding gene	ENSMUSG00000019916	18451
+Pacrg	current symbol	MGI:1916560	Pacrg	PARK2 co-regulated	protein coding gene	ENSMUSG00000037196	69310
+Padi2	current symbol	MGI:1338892	Padi2	peptidyl arginine deiminase, type II	protein coding gene	ENSMUSG00000028927	18600
+Pagr1a	current symbol	MGI:1914528	Pagr1a	PAXIP1 associated glutamate rich protein 1A	protein coding gene	ENSMUSG00000030680	67278
+Pak7		No associated gene					
+Panx2	current symbol	MGI:1890615	Panx2	pannexin 2	protein coding gene	ENSMUSG00000058441	406218
+Papola	current symbol	MGI:109301	Papola	poly (A) polymerase alpha	protein coding gene	ENSMUSG00000021111	18789
+Paqr3	current symbol	MGI:2679683	Paqr3	progestin and adipoQ receptor family member III	protein coding gene	ENSMUSG00000055725	231474
+Parm1	current symbol	MGI:2443349	Parm1	prostate androgen-regulated mucin-like protein 1	protein coding gene	ENSMUSG00000034981	231440
+Parp6	current symbol	MGI:1914537	Parp6	poly (ADP-ribose) polymerase family, member 6	protein coding gene	ENSMUSG00000025237	67287
+Parvg	current symbol	MGI:2158329	Parvg	parvin, gamma	protein coding gene	ENSMUSG00000022439	64099
+Pbx2	current symbol	MGI:1341793	Pbx2	pre B cell leukemia homeobox 2	protein coding gene	ENSMUSG00000034673	18515
+Pcdha12	current symbol	MGI:1298370	Pcdha12	protocadherin alpha 12	protein coding gene	ENSMUSG00000103310	192164
+Pcdhac1	current symbol	MGI:1891442	Pcdhac1	protocadherin alpha subfamily C, 1	protein coding gene	ENSMUSG00000103255	353236
+Pcdhgc4	current symbol	MGI:1935203	Pcdhgc4	protocadherin gamma subfamily C, 4	protein coding gene	ENSMUSG00000023036	93707
+Pcgf5	current symbol	MGI:1923505	Pcgf5	polycomb group ring finger 5	protein coding gene	ENSMUSG00000024805	76073
+Pcsk2	current symbol	MGI:97512	Pcsk2	proprotein convertase subtilisin/kexin type 2	protein coding gene	ENSMUSG00000027419	18549
+Pcsk6	current symbol	MGI:102897	Pcsk6	proprotein convertase subtilisin/kexin type 6	protein coding gene	ENSMUSG00000030513	18553
+Pcyox1l	current symbol	MGI:3606062	Pcyox1l	prenylcysteine oxidase 1 like	protein coding gene	ENSMUSG00000024579	240334
+Pdcd4	current symbol	MGI:107490	Pdcd4	programmed cell death 4	protein coding gene	ENSMUSG00000024975	18569
+Pde2a	current symbol	MGI:2446107	Pde2a	phosphodiesterase 2A, cGMP-stimulated	protein coding gene	ENSMUSG00000110195	207728
+Pde4b	current symbol	MGI:99557	Pde4b	phosphodiesterase 4B, cAMP specific	protein coding gene	ENSMUSG00000028525	18578
+Pde4dip	current symbol	MGI:1891434	Pde4dip	phosphodiesterase 4D interacting protein (myomegalin)	protein coding gene	ENSMUSG00000038170	83679
+Pde8a	current symbol	MGI:1277116	Pde8a	phosphodiesterase 8A	protein coding gene	ENSMUSG00000025584	18584
+Pde8b	current symbol	MGI:2443999	Pde8b	phosphodiesterase 8B	protein coding gene	ENSMUSG00000021684	218461
+Pdgfb	current symbol	MGI:97528	Pdgfb	platelet derived growth factor, B polypeptide	protein coding gene	ENSMUSG00000000489	18591
+Pdlim4	current symbol	MGI:1353470	Pdlim4	PDZ and LIM domain 4	protein coding gene	ENSMUSG00000020388	30794
+Pdpr	current symbol	MGI:2442188	Pdpr	pyruvate dehydrogenase phosphatase regulatory subunit	protein coding gene	ENSMUSG00000033624	319518
+Pdxk	current symbol	MGI:1351869	Pdxk	pyridoxal (pyridoxine, vitamin B6) kinase	protein coding gene	ENSMUSG00000032788	216134
+Pdyn	current symbol	MGI:97535	Pdyn	prodynorphin	protein coding gene	ENSMUSG00000027400	18610
+Pdzd11	current symbol	MGI:1919871	Pdzd11	PDZ domain containing 11	protein coding gene	ENSMUSG00000015668	72621
+Pdzrn3	current symbol	MGI:1933157	Pdzrn3	PDZ domain containing RING finger 3	protein coding gene	ENSMUSG00000035357	55983
+Pea15a	current symbol	MGI:104799	Pea15a	phosphoprotein enriched in astrocytes 15A	protein coding gene	ENSMUSG00000013698	18611
+Peg3	current symbol	MGI:104748	Peg3	paternally expressed 3	protein coding gene	ENSMUSG00000002265	18616
+Peli1	current symbol	MGI:1914495	Peli1	pellino 1	protein coding gene	ENSMUSG00000020134	67245
+Pex26	current symbol	MGI:1921293	Pex26	peroxisomal biogenesis factor 26	protein coding gene	ENSMUSG00000067825	74043
+Pfkfb3	current symbol	MGI:2181202	Pfkfb3	6-phosphofructo-2-kinase/fructose-2,6-biphosphatase 3	protein coding gene	ENSMUSG00000026773	170768
+Pgap2	current symbol	MGI:2385286	Pgap2	post-GPI attachment to proteins 2	protein coding gene	ENSMUSG00000030990	233575
+Pgbd5	current symbol	MGI:2429955	Pgbd5	piggyBac transposable element derived 5	protein coding gene	ENSMUSG00000050751	209966
+Pgm1	current symbol	MGI:97565	Pgm1	phosphoglucomutase 1	protein coding gene	ENSMUSG00000025791	72157
+Pgm2	current symbol	MGI:97564	Pgm2	phosphoglucomutase 2	protein coding gene	ENSMUSG00000029171	66681
+Phf24	current symbol	MGI:2140712	Phf24	PHD finger protein 24	protein coding gene	ENSMUSG00000036062	230085
+Phyhip	current symbol	MGI:1860417	Phyhip	phytanoyl-CoA hydroxylase interacting protein	protein coding gene	ENSMUSG00000003469	105653
+Phyhipl	current symbol	MGI:1918161	Phyhipl	phytanoyl-CoA hydroxylase interacting protein-like	protein coding gene	ENSMUSG00000037747	70911
+Pi4ka	current symbol	MGI:2448506	Pi4ka	phosphatidylinositol 4-kinase alpha	protein coding gene	ENSMUSG00000041720	224020
+Piezo1	current symbol	MGI:3603204	Piezo1	piezo-type mechanosensitive ion channel component 1	protein coding gene	ENSMUSG00000014444	234839
+Piezo2	current symbol	MGI:1918781	Piezo2	piezo-type mechanosensitive ion channel component 2	protein coding gene	ENSMUSG00000041482	667742
+Piga	current symbol	MGI:99461	Piga	phosphatidylinositol glycan anchor biosynthesis, class A	protein coding gene	ENSMUSG00000031381	18700
+Pigq	current symbol	MGI:1333114	Pigq	phosphatidylinositol glycan anchor biosynthesis, class Q	protein coding gene	ENSMUSG00000025728	14755
+Pik3r5	current symbol	MGI:2443588	Pik3r5	phosphoinositide-3-kinase regulatory subunit 5	protein coding gene	ENSMUSG00000020901	320207
+Pip4k2a	current symbol	MGI:1298206	Pip4k2a	phosphatidylinositol-5-phosphate 4-kinase, type II, alpha	protein coding gene	ENSMUSG00000026737	18718
+Pip5k1c	current symbol	MGI:1298224	Pip5k1c	phosphatidylinositol-4-phosphate 5-kinase, type 1 gamma	protein coding gene	ENSMUSG00000034902	18717
+Pitpnm2	current symbol	MGI:1336192	Pitpnm2	phosphatidylinositol transfer protein, membrane-associated 2	protein coding gene	ENSMUSG00000029406	19679
+Pitpnm3	current symbol	MGI:2685726	Pitpnm3	PITPNM family member 3	protein coding gene	ENSMUSG00000040543	327958
+Pkn1	current symbol	MGI:108022	Pkn1	protein kinase N1	protein coding gene	ENSMUSG00000057672	320795
+Pknox2	current symbol	MGI:2445415	Pknox2	Pbx/knotted 1 homeobox 2	protein coding gene	ENSMUSG00000035934	208076
+Plcb3	current symbol	MGI:104778	Plcb3	phospholipase C, beta 3	protein coding gene	ENSMUSG00000024960	18797
+Plch1	current symbol	MGI:2683547	Plch1	phospholipase C, eta 1	protein coding gene	ENSMUSG00000036834	269437
+Plch2	current symbol	MGI:2443078	Plch2	phospholipase C, eta 2	protein coding gene	ENSMUSG00000029055	269615
+Pld1	current symbol	MGI:109585	Pld1	phospholipase D1	protein coding gene	ENSMUSG00000027695	18805
+Plekho2	current symbol	MGI:2143132	Plekho2	pleckstrin homology domain containing, family O member 2	protein coding gene	ENSMUSG00000050721	102595
+Plk2	current symbol	MGI:1099790	Plk2	polo like kinase 2	protein coding gene	ENSMUSG00000021701	20620
+Plk5	current symbol	MGI:3026984	Plk5	polo like kinase 5	protein coding gene	ENSMUSG00000035486	216166
+Pllp	current symbol	MGI:1915051	Pllp	plasma membrane proteolipid	protein coding gene	ENSMUSG00000031775	67801
+Plp2	current symbol	MGI:1298382	Plp2	proteolipid protein 2	protein coding gene	ENSMUSG00000031146	18824
+Plpp4	current symbol	MGI:2685936	Plpp4	phospholipid phosphatase 4	protein coding gene	ENSMUSG00000070366	381925
+Plpp5	current symbol	MGI:1919160	Plpp5	phospholipid phosphatase 5	protein coding gene	ENSMUSG00000031570	71910
+Plppr4	current symbol	MGI:106530	Plppr4	phospholipid phosphatase related 4	protein coding gene	ENSMUSG00000044667	229791
+Plxdc1	current symbol	MGI:1919574	Plxdc1	plexin domain containing 1	protein coding gene	ENSMUSG00000017417	72324
+Plxna2	current symbol	MGI:107684	Plxna2	plexin A2	protein coding gene	ENSMUSG00000026640	18845
+Plxna4	current symbol	MGI:2179061	Plxna4	plexin A4	protein coding gene	ENSMUSG00000029765	243743
+Plxnc1	current symbol	MGI:1890127	Plxnc1	plexin C1	protein coding gene	ENSMUSG00000074785	54712
+Plxnd1	current symbol	MGI:2154244	Plxnd1	plexin D1	protein coding gene	ENSMUSG00000030123	67784
+Pmp22	current symbol	MGI:97631	Pmp22	peripheral myelin protein 22	protein coding gene	ENSMUSG00000018217	18858
+Pmvk	current symbol	MGI:1915853	Pmvk	phosphomevalonate kinase	protein coding gene	ENSMUSG00000027952	68603
+Pnmal1	current symbol	MGI:1918941	Pnmal1	PNMA-like 1	protein coding gene	ENSMUSG00000041141	71691
+Pnmal2	current symbol	MGI:3645856	Pnmal2	PNMA-like 2	protein coding gene	ENSMUSG00000070802	434128
+Pnoc	current symbol	MGI:105308	Pnoc	prepronociceptin	protein coding gene	ENSMUSG00000045731	18155
+Podxl	current symbol	MGI:1351317	Podxl	podocalyxin-like	protein coding gene	ENSMUSG00000025608	27205
+Pomgnt2	current symbol	MGI:2143424	Pomgnt2	protein O-linked mannose beta 1,4-N-acetylglucosaminyltransferase 2	protein coding gene	ENSMUSG00000066235	215494
+Ppa1	current symbol	MGI:97831	Ppa1	pyrophosphatase (inorganic) 1	protein coding gene	ENSMUSG00000020089	67895
+Ppa2	current symbol	MGI:1922026	Ppa2	pyrophosphatase (inorganic) 2	protein coding gene	ENSMUSG00000028013	74776
+Ppfibp2	current symbol	MGI:894649	Ppfibp2	PTPRF interacting protein, binding protein 2 (liprin beta 2)	protein coding gene	ENSMUSG00000036528	19024
+Pphln1	current symbol	MGI:1917029	Pphln1	periphilin 1	protein coding gene	ENSMUSG00000036167	223828
+Ppif	current symbol	MGI:2145814	Ppif	peptidylprolyl isomerase F (cyclophilin F)	protein coding gene	ENSMUSG00000021868	105675
+Ppm1k	current symbol	MGI:2442111	Ppm1k	protein phosphatase 1K (PP2C domain containing)	protein coding gene	ENSMUSG00000037826	243382
+Ppp1r12b	current symbol	MGI:1916417	Ppp1r12b	protein phosphatase 1, regulatory subunit 12B	protein coding gene	ENSMUSG00000073557	329251
+Ppp1r16b	current symbol	MGI:2151841	Ppp1r16b	protein phosphatase 1, regulatory subunit 16B	protein coding gene	ENSMUSG00000037754	228852
+Ppp1r1b	current symbol	MGI:94860	Ppp1r1b	protein phosphatase 1, regulatory inhibitor subunit 1B	protein coding gene	ENSMUSG00000061718	19049
+Ppp1r3c	current symbol	MGI:1858229	Ppp1r3c	protein phosphatase 1, regulatory subunit 3C	protein coding gene	ENSMUSG00000067279	53412
+Ppp1r3e	current symbol	MGI:2145790	Ppp1r3e	protein phosphatase 1, regulatory subunit 3E	protein coding gene	ENSMUSG00000072494	105651
+Ppp1r3g	current symbol	MGI:1923737	Ppp1r3g	protein phosphatase 1, regulatory subunit 3G	protein coding gene	ENSMUSG00000050423	76487
+Ppp2r5a	current symbol	MGI:2388479	Ppp2r5a	protein phosphatase 2, regulatory subunit B', alpha	protein coding gene	ENSMUSG00000026626	226849
+Ppp4r4	current symbol	MGI:1921771	Ppp4r4	protein phosphatase 4, regulatory subunit 4	protein coding gene	ENSMUSG00000021209	74521
+Prag1	current symbol	MGI:1196223	Prag1	PEAK1 related kinase activating pseudokinase 1	protein coding gene	ENSMUSG00000050271	244418
+Prdm8	current symbol	MGI:1924880	Prdm8	PR domain containing 8	protein coding gene	ENSMUSG00000035456	77630
+Prex1	current symbol	MGI:3040696	Prex1	phosphatidylinositol-3,4,5-trisphosphate-dependent Rac exchange factor 1	protein coding gene	ENSMUSG00000039621	277360
+Prkce	current symbol	MGI:97599	Prkce	protein kinase C, epsilon	protein coding gene	ENSMUSG00000045038	18754
+Prkcq	current symbol	MGI:97601	Prkcq	protein kinase C, theta	protein coding gene	ENSMUSG00000026778	18761
+Prkd1	current symbol	MGI:99879	Prkd1	protein kinase D1	protein coding gene	ENSMUSG00000002688	18760
+Prmt7	current symbol	MGI:2384879	Prmt7	protein arginine N-methyltransferase 7	protein coding gene	ENSMUSG00000060098	214572
+Prmt8	current symbol	MGI:3043083	Prmt8	protein arginine N-methyltransferase 8	protein coding gene	ENSMUSG00000030350	381813
+Prnp	current symbol	MGI:97769	Prnp	prion protein	protein coding gene	ENSMUSG00000079037	19122
+Prom1	current symbol	MGI:1100886	Prom1	prominin 1	protein coding gene	ENSMUSG00000029086	19126
+Proser1	current symbol	MGI:1919933	Proser1	proline and serine rich 1	protein coding gene	ENSMUSG00000049504	212127
+Prr14	current symbol	MGI:2384565	Prr14	proline rich 14	protein coding gene	ENSMUSG00000030822	233895
+Prr5	current symbol	MGI:1924714	Prr5	proline rich 5 (renal)	protein coding gene	ENSMUSG00000036106	109270
+Prr5l	current symbol	MGI:1919696	Prr5l	proline rich 5 like	protein coding gene	ENSMUSG00000032841	72446
+Prrc1	current symbol	MGI:1916106	Prrc1	proline-rich coiled-coil 1	protein coding gene	ENSMUSG00000024594	73137
+Prrt1	current symbol	MGI:1932118	Prrt1	proline-rich transmembrane protein 1	protein coding gene	ENSMUSG00000015476	260297
+Prrt2	current symbol	MGI:1916267	Prrt2	proline-rich transmembrane protein 2	protein coding gene	ENSMUSG00000045114	69017
+Prrt4	current symbol	MGI:2141677	Prrt4	proline-rich transmembrane protein 4	protein coding gene	ENSMUSG00000079654	101359
+Prss35	current symbol	MGI:2444800	Prss35	protease, serine 35	protein coding gene	ENSMUSG00000033491	244954
+Psat1	current symbol	MGI:2183441	Psat1	phosphoserine aminotransferase 1	protein coding gene	ENSMUSG00000024640	107272
+Psme3	current symbol	MGI:1096366	Psme3	proteaseome (prosome, macropain) activator subunit 3 (PA28 gamma, Ki)	protein coding gene	ENSMUSG00000078652	19192
+Psph	current symbol	MGI:97788	Psph	phosphoserine phosphatase	protein coding gene	ENSMUSG00000029446	100678
+Ptger3	current symbol	MGI:97795	Ptger3	prostaglandin E receptor 3 (subtype EP3)	protein coding gene	ENSMUSG00000040016	19218
+Ptpn5	current symbol	MGI:97807	Ptpn5	protein tyrosine phosphatase, non-receptor type 5	protein coding gene	ENSMUSG00000030854	19259
+Ptprd	current symbol	MGI:97812	Ptprd	protein tyrosine phosphatase, receptor type, D	protein coding gene	ENSMUSG00000028399	19266
+Ptprm	current symbol	MGI:102694	Ptprm	protein tyrosine phosphatase, receptor type, M	protein coding gene	ENSMUSG00000033278	19274
+Ptprn2	current symbol	MGI:107418	Ptprn2	protein tyrosine phosphatase, receptor type, N polypeptide 2	protein coding gene	ENSMUSG00000056553	19276
+Ptpro	current symbol	MGI:1097152	Ptpro	protein tyrosine phosphatase, receptor type, O	protein coding gene	ENSMUSG00000030223	19277
+Ptprt	current symbol	MGI:1321152	Ptprt	protein tyrosine phosphatase, receptor type, T	protein coding gene	ENSMUSG00000053141	19281
+Ptpru	current symbol	MGI:1321151	Ptpru	protein tyrosine phosphatase, receptor type, U	protein coding gene	ENSMUSG00000028909	19273
+Pycr1	current symbol	MGI:2384795	Pycr1	pyrroline-5-carboxylate reductase 1	protein coding gene	ENSMUSG00000025140	209027
+Qdpr	current symbol	MGI:97836	Qdpr	quinoid dihydropteridine reductase	protein coding gene	ENSMUSG00000015806	110391
+Qsox2	current symbol	MGI:2387194	Qsox2	quiescin Q6 sulfhydryl oxidase 2	protein coding gene	ENSMUSG00000036327	227638
+Rab11a	current symbol	MGI:1858202	Rab11a	RAB11A, member RAS oncogene family	protein coding gene	ENSMUSG00000004771	53869
+Rab18	current symbol	MGI:102790	Rab18	RAB18, member RAS oncogene family	protein coding gene	ENSMUSG00000073639	19330
+Rab3b	current symbol	MGI:1917158	Rab3b	RAB3B, member RAS oncogene family	protein coding gene	ENSMUSG00000003411	69908
+Rab3il1	current symbol	MGI:1922010	Rab3il1	RAB3A interacting protein (rabin3)-like 1	protein coding gene	ENSMUSG00000024663	74760
+Rab3ip	current symbol	MGI:105933	Rab3ip	RAB3A interacting protein	protein coding gene	ENSMUSG00000064181	216363
+Rab6b	current symbol	MGI:107283	Rab6b	RAB6B, member RAS oncogene family	protein coding gene	ENSMUSG00000032549	270192
+Rad23a	current symbol	MGI:105126	Rad23a	RAD23 homolog A, nucleotide excision repair protein	protein coding gene	ENSMUSG00000003813	19358
+Ramp1	current symbol	MGI:1858418	Ramp1	receptor (calcitonin) activity modifying protein 1	protein coding gene	ENSMUSG00000034353	51801
+Ramp3	current symbol	MGI:1860292	Ramp3	receptor (calcitonin) activity modifying protein 3	protein coding gene	ENSMUSG00000041046	56089
+Rangap1	current symbol	MGI:103071	Rangap1	RAN GTPase activating protein 1	protein coding gene	ENSMUSG00000022391	19387
+Rap1gap	current symbol	MGI:109338	Rap1gap	Rap1 GTPase-activating protein	protein coding gene	ENSMUSG00000041351	110351
+Rap2a	current symbol	MGI:97855	Rap2a	RAS related protein 2a	protein coding gene	ENSMUSG00000051615	76108
+Rap2c	current symbol	MGI:1919315	Rap2c	RAP2C, member of RAS oncogene family	protein coding gene	ENSMUSG00000050029	72065
+Rapgef3	current symbol	MGI:2441741	Rapgef3	Rap guanine nucleotide exchange factor (GEF) 3	protein coding gene	ENSMUSG00000022469	223864
+Rasa3	current symbol	MGI:1197013	Rasa3	RAS p21 protein activator 3	protein coding gene	ENSMUSG00000031453	19414
+Rasa4	current symbol	MGI:1858600	Rasa4	RAS p21 protein activator 4	protein coding gene	ENSMUSG00000004952	54153
+Rasal1	current symbol	MGI:1330842	Rasal1	RAS protein activator like 1 (GAP1 like)	protein coding gene	ENSMUSG00000029602	19415
+Rasd2	current symbol	MGI:1922391	Rasd2	RASD family, member 2	protein coding gene	ENSMUSG00000034472	75141
+Rasgef1a	current symbol	MGI:1917977	Rasgef1a	RasGEF domain family, member 1A	protein coding gene	ENSMUSG00000030134	70727
+Rasgrf1	current symbol	MGI:99694	Rasgrf1	RAS protein-specific guanine nucleotide-releasing factor 1	protein coding gene	ENSMUSG00000032356	19417
+Rasgrf2	current symbol	MGI:109137	Rasgrf2	RAS protein-specific guanine nucleotide-releasing factor 2	protein coding gene	ENSMUSG00000021708	19418
+Rasgrp1	current symbol	MGI:1314635	Rasgrp1	RAS guanyl releasing protein 1	protein coding gene	ENSMUSG00000027347	19419
+Rasgrp2	current symbol	MGI:1333849	Rasgrp2	RAS, guanyl releasing protein 2	protein coding gene	ENSMUSG00000032946	19395
+Rassf5	current symbol	MGI:1926375	Rassf5	Ras association (RalGDS/AF-6) domain family member 5	protein coding gene	ENSMUSG00000026430	54354
+Raver2	current symbol	MGI:2443623	Raver2	ribonucleoprotein, PTB-binding 2	protein coding gene	ENSMUSG00000035275	242570
+Rbfox1	current symbol	MGI:1926224	Rbfox1	RNA binding protein, fox-1 homolog (C. elegans) 1	protein coding gene	ENSMUSG00000008658	268859
+Rbfox2	current symbol	MGI:1933973	Rbfox2	RNA binding protein, fox-1 homolog (C. elegans) 2	protein coding gene	ENSMUSG00000033565	93686
+Rbfox3	current symbol	MGI:106368	Rbfox3	RNA binding protein, fox-1 homolog (C. elegans) 3	protein coding gene	ENSMUSG00000025576	52897
+Rbms3	current symbol	MGI:2444477	Rbms3	RNA binding motif, single stranded interacting protein	protein coding gene	ENSMUSG00000039607	207181
+Rbp4	current symbol	MGI:97879	Rbp4	retinol binding protein 4, plasma	protein coding gene	ENSMUSG00000024990	19662
+Rbpms	current symbol	MGI:1334446	Rbpms	RNA binding protein gene with multiple splicing	protein coding gene	ENSMUSG00000031586	19663
+Rcl1	current symbol	MGI:1913275	Rcl1	RNA terminal phosphate cyclase-like 1	protein coding gene	ENSMUSG00000024785	59028
+Rcn1	current symbol	MGI:104559	Rcn1	reticulocalbin 1	protein coding gene	ENSMUSG00000005973	19672
+Rcor2	current symbol	MGI:1859854	Rcor2	REST corepressor 2	protein coding gene	ENSMUSG00000024968	104383
+Rec114	current symbol	MGI:1920923	Rec114	REC114 meiotic recombination protein	protein coding gene	ENSMUSG00000074269	73673
+Reep1	current symbol	MGI:1098827	Reep1	receptor accessory protein 1	protein coding gene	ENSMUSG00000052852	52250
+Reep6	current symbol	MGI:1917585	Reep6	receptor accessory protein 6	protein coding gene	ENSMUSG00000035504	70335
+Reln	current symbol	MGI:103022	Reln	reelin	protein coding gene	ENSMUSG00000042453	19699
+Ret	current symbol	MGI:97902	Ret	ret proto-oncogene	protein coding gene	ENSMUSG00000030110	19713
+Rexo2	current symbol	MGI:1888981	Rexo2	RNA exonuclease 2	protein coding gene	ENSMUSG00000032026	104444
+Rflnb	current symbol	MGI:1923816	Rflnb	refilin B	protein coding gene	ENSMUSG00000020846	76566
+Rgs10	current symbol	MGI:1915115	Rgs10	regulator of G-protein signalling 10	protein coding gene	ENSMUSG00000030844	67865
+Rgs11	current symbol	MGI:1354739	Rgs11	regulator of G-protein signaling 11	protein coding gene	ENSMUSG00000024186	50782
+Rgs14	current symbol	MGI:1859709	Rgs14	regulator of G-protein signaling 14	protein coding gene	ENSMUSG00000052087	51791
+Rgs16	current symbol	MGI:108407	Rgs16	regulator of G-protein signaling 16	protein coding gene	ENSMUSG00000026475	19734
+Rgs19	current symbol	MGI:1915153	Rgs19	regulator of G-protein signaling 19	protein coding gene	ENSMUSG00000002458	56470
+Rgs6	current symbol	MGI:1354730	Rgs6	regulator of G-protein signaling 6	protein coding gene	ENSMUSG00000021219	50779
+Rgs7bp	current symbol	MGI:106334	Rgs7bp	regulator of G-protein signalling 7 binding protein	protein coding gene	ENSMUSG00000021719	52882
+Rgs8	current symbol	MGI:108408	Rgs8	regulator of G-protein signaling 8	protein coding gene	ENSMUSG00000042671	67792
+Rgsl1	current symbol	MGI:2685048	Rgsl1	regulator of G-protein signaling like 1	protein coding gene	ENSMUSG00000042641	240816
+Rhbdl1	current symbol	MGI:2384891	Rhbdl1	rhomboid like 1	protein coding gene	ENSMUSG00000025735	214951
+Rhbdl3	current symbol	MGI:2179276	Rhbdl3	rhomboid like 3	protein coding gene	ENSMUSG00000017692	246104
+Rhobtb2	current symbol	MGI:2180557	Rhobtb2	Rho-related BTB domain containing 2	protein coding gene	ENSMUSG00000022075	246710
+Rhof	current symbol	MGI:1345629	Rhof	ras homolog family member F (in filopodia)	protein coding gene	ENSMUSG00000029449	23912
+Rhoq	current symbol	MGI:1931553	Rhoq	ras homolog family member Q	protein coding gene	ENSMUSG00000024143	104215
+Rimkla	current symbol	MGI:3040686	Rimkla	ribosomal modification protein rimK-like family member A	protein coding gene	ENSMUSG00000048899	194237
+Rims4	current symbol	MGI:2674366	Rims4	regulating synaptic membrane exocytosis 4	protein coding gene	ENSMUSG00000035226	241770
+Ripor2	current symbol	MGI:2444879	Ripor2	RHO family interacting cell polarization regulator 2	protein coding gene	ENSMUSG00000036006	193385
+Rmnd5a	current symbol	MGI:1915727	Rmnd5a	required for meiotic nuclear division 5 homolog A	protein coding gene	ENSMUSG00000002222	68477
+Rnf157	current symbol	MGI:2442484	Rnf157	ring finger protein 157	protein coding gene	ENSMUSG00000052949	217340
+Robo3	current symbol	MGI:1343102	Robo3	roundabout guidance receptor 3	protein coding gene	ENSMUSG00000032128	19649
+Rph3a	current symbol	MGI:102788	Rph3a	rabphilin 3A	protein coding gene	ENSMUSG00000029608	19894
+Rps6ka2	current symbol	MGI:1342290	Rps6ka2	ribosomal protein S6 kinase, polypeptide 2	protein coding gene	ENSMUSG00000023809	20112
+Rrbp1	current symbol	MGI:1932395	Rrbp1	ribosome binding protein 1	protein coding gene	ENSMUSG00000027422	81910
+Rrp12	current symbol	MGI:2147437	Rrp12	ribosomal RNA processing 12 homolog	protein coding gene	ENSMUSG00000035049	107094
+Rsad1	current symbol	MGI:3039628	Rsad1	radical S-adenosyl methionine domain containing 1	protein coding gene	ENSMUSG00000039096	237926
+Rsph1	current symbol	MGI:1194909	Rsph1	radial spoke head 1 homolog (Chlamydomonas)	protein coding gene	ENSMUSG00000024033	22092
+Rspo1	current symbol	MGI:2183426	Rspo1	R-spondin 1	protein coding gene	ENSMUSG00000028871	192199
+Rspo2	current symbol	MGI:1922667	Rspo2	R-spondin 2	protein coding gene	ENSMUSG00000051920	239405
+Rtl4	current symbol	MGI:3588192	Rtl4	retrotransposon Gag like 4	protein coding gene	ENSMUSG00000071679	619287
+Rtl8a	current symbol	MGI:1913408	Rtl8a	retrotransposon Gag like 8A	protein coding gene	ENSMUSG00000067925	66158
+Rtl8b	current symbol	MGI:3576504	Rtl8b	retrotransposon Gag like 8B	protein coding gene	ENSMUSG00000067924	553127
+Rtl9	current symbol	MGI:2685231	Rtl9	retrotransposon Gag like 9	protein coding gene	ENSMUSG00000085584	209540
+Rtn4ip1	current symbol	MGI:2178759	Rtn4ip1	reticulon 4 interacting protein 1	protein coding gene	ENSMUSG00000019864	170728
+Rtn4r	current symbol	MGI:2136886	Rtn4r	reticulon 4 receptor	protein coding gene	ENSMUSG00000043811	65079
+Rtn4rl1	current symbol	MGI:2661375	Rtn4rl1	reticulon 4 receptor-like 1	protein coding gene	ENSMUSG00000045287	237847
+Rtn4rl2	current symbol	MGI:2669796	Rtn4rl2	reticulon 4 receptor-like 2	protein coding gene	ENSMUSG00000050896	269295
+Rxfp1	current symbol	MGI:2682211	Rxfp1	relaxin/insulin-like family peptide receptor 1	protein coding gene	ENSMUSG00000034009	381489
+S100a16	current symbol	MGI:1915110	S100a16	S100 calcium binding protein A16	protein coding gene	ENSMUSG00000074457	67860
+S100b	current symbol	MGI:98217	S100b	S100 protein, beta polypeptide, neural	protein coding gene	ENSMUSG00000033208	20203
+Sbk3	current symbol	MGI:2685924	Sbk3	SH3 domain binding kinase family, member 3	protein coding gene	ENSMUSG00000085272	381835
+Scd1	current symbol	MGI:98239	Scd1	stearoyl-Coenzyme A desaturase 1	protein coding gene	ENSMUSG00000037071	20249
+Scn2b	current symbol	MGI:106921	Scn2b	sodium channel, voltage-gated, type II, beta	protein coding gene	ENSMUSG00000070304	72821
+Scn3b	current symbol	MGI:1918882	Scn3b	sodium channel, voltage-gated, type III, beta	protein coding gene	ENSMUSG00000049281	235281
+Scn5a	current symbol	MGI:98251	Scn5a	sodium channel, voltage-gated, type V, alpha	protein coding gene	ENSMUSG00000032511	20271
+Scnn1a	current symbol	MGI:101782	Scnn1a	sodium channel, nonvoltage-gated 1 alpha	protein coding gene	ENSMUSG00000030340	20276
+Scube1	current symbol	MGI:1890616	Scube1	signal peptide, CUB domain, EGF-like 1	protein coding gene	ENSMUSG00000016763	64706
+Sdc2	current symbol	MGI:1349165	Sdc2	syndecan 2	protein coding gene	ENSMUSG00000022261	15529
+Sdc4	current symbol	MGI:1349164	Sdc4	syndecan 4	protein coding gene	ENSMUSG00000017009	20971
+Sdccag8	current symbol	MGI:1924066	Sdccag8	serologically defined colon cancer antigen 8	protein coding gene	ENSMUSG00000026504	76816
+Sdk1	current symbol	MGI:2444413	Sdk1	sidekick cell adhesion molecule 1	protein coding gene	ENSMUSG00000039683	330222
+Sdk2	current symbol	MGI:2443847	Sdk2	sidekick cell adhesion molecule 2	protein coding gene	ENSMUSG00000041592	237979
+Sec14l1	current symbol	MGI:1921386	Sec14l1	SEC14-like lipid binding 1	protein coding gene	ENSMUSG00000020823	74136
+Sel1l3	current symbol	MGI:1916941	Sel1l3	sel-1 suppressor of lin-12-like 3 (C. elegans)	protein coding gene	ENSMUSG00000029189	231238
+Selenop	current symbol	MGI:894288	Selenop	selenoprotein P	protein coding gene	ENSMUSG00000064373	20363
+Sema4a	current symbol	MGI:107560	Sema4a	sema domain, immunoglobulin domain (Ig), transmembrane domain (TM) and short cytoplasmic domain, (semaphorin) 4A	protein coding gene	ENSMUSG00000028064	20351
+Sema4f	current symbol	MGI:1340055	Sema4f	sema domain, immunoglobulin domain (Ig), TM domain, and short cytoplasmic domain	protein coding gene	ENSMUSG00000000627	20355
+Sema6a	current symbol	MGI:1203727	Sema6a	sema domain, transmembrane domain (TM), and cytoplasmic domain, (semaphorin) 6A	protein coding gene	ENSMUSG00000019647	20358
+Sept3		No associated gene					
+Sept8		No associated gene					
+Sept9		No associated gene					
+Serp2	current symbol	MGI:1919911	Serp2	stress-associated endoplasmic reticulum protein family member 2	protein coding gene	ENSMUSG00000052584	72661
+Serpina3n	current symbol	MGI:105045	Serpina3n	serine (or cysteine) peptidase inhibitor, clade A, member 3N	protein coding gene	ENSMUSG00000021091	20716
+Serpinb9	current symbol	MGI:106603	Serpinb9	serine (or cysteine) peptidase inhibitor, clade B, member 9	protein coding gene	ENSMUSG00000045827	20723
+Serpine2	current symbol	MGI:101780	Serpine2	serine (or cysteine) peptidase inhibitor, clade E, member 2	protein coding gene	ENSMUSG00000026249	20720
+Serpinf1	current symbol	MGI:108080	Serpinf1	serine (or cysteine) peptidase inhibitor, clade F, member 1	protein coding gene	ENSMUSG00000000753	20317
+Serpinh1	current symbol	MGI:88283	Serpinh1	serine (or cysteine) peptidase inhibitor, clade H, member 1	protein coding gene	ENSMUSG00000070436	12406
+Sertad2	current symbol	MGI:1931026	Sertad2	SERTA domain containing 2	protein coding gene	ENSMUSG00000049800	58172
+Sertm1	current symbol	MGI:3607715	Sertm1	serine rich and transmembrane domain containing 1	protein coding gene	ENSMUSG00000056306	329641
+Sez6l	current symbol	MGI:1935121	Sez6l	seizure related 6 homolog like	protein coding gene	ENSMUSG00000058153	56747
+Sf3b2	current symbol	MGI:2441856	Sf3b2	splicing factor 3b, subunit 2	protein coding gene	ENSMUSG00000024853	319322
+Sfxn1	current symbol	MGI:2137677	Sfxn1	sideroflexin 1	protein coding gene	ENSMUSG00000021474	14057
+Sfxn3	current symbol	MGI:2137679	Sfxn3	sideroflexin 3	protein coding gene	ENSMUSG00000025212	94280
+Sgcb	current symbol	MGI:1346523	Sgcb	sarcoglycan, beta (dystrophin-associated glycoprotein)	protein coding gene	ENSMUSG00000029156	24051
+Sgpl1	current symbol	MGI:1261415	Sgpl1	sphingosine phosphate lyase 1	protein coding gene	ENSMUSG00000020097	20397
+Sgsm2	current symbol	MGI:2144695	Sgsm2	small G protein signaling modulator 2	protein coding gene	ENSMUSG00000038351	97761
+Sh3bp4	current symbol	MGI:2138297	Sh3bp4	SH3-domain binding protein 4	protein coding gene	ENSMUSG00000036206	98402
+Sh3pxd2b	current symbol	MGI:2442062	Sh3pxd2b	SH3 and PX domains 2B	protein coding gene	ENSMUSG00000040711	268396
+Shisa4	current symbol	MGI:1924802	Shisa4	shisa family member 4	protein coding gene	ENSMUSG00000041889	77552
+Shisa9	current symbol	MGI:1919805	Shisa9	shisa family member 9	protein coding gene	ENSMUSG00000022494	72555
+Shisal1	current symbol	MGI:1919551	Shisal1	shisa like 1	protein coding gene	ENSMUSG00000062760	72301
+Shmt2	current symbol	MGI:1277989	Shmt2	serine hydroxymethyltransferase 2 (mitochondrial)	protein coding gene	ENSMUSG00000025403	108037
+Siah2	current symbol	MGI:108062	Siah2	siah E3 ubiquitin protein ligase 2	protein coding gene	ENSMUSG00000036432	20439
+Sidt1	current symbol	MGI:2443155	Sidt1	SID1 transmembrane family, member 1	protein coding gene	ENSMUSG00000022696	320007
+Sidt2	current symbol	MGI:2446134	Sidt2	SID1 transmembrane family, member 2	protein coding gene	ENSMUSG00000034908	214597
+Sik2	current symbol	MGI:2445031	Sik2	salt inducible kinase 2	protein coding gene	ENSMUSG00000037112	235344
+Sipa1l2	current symbol	MGI:2676970	Sipa1l2	signal-induced proliferation-associated 1 like 2	protein coding gene	ENSMUSG00000001995	244668
+Sirpa	current symbol	MGI:108563	Sirpa	signal-regulatory protein alpha	protein coding gene	ENSMUSG00000037902	19261
+Sirt3	current symbol	MGI:1927665	Sirt3	sirtuin 3	protein coding gene	ENSMUSG00000025486	64384
+Sla	current symbol	MGI:104295	Sla	src-like adaptor	protein coding gene	ENSMUSG00000022372	20491
+Slain2	current symbol	MGI:1923241	Slain2	SLAIN motif family, member 2	protein coding gene	ENSMUSG00000036087	75991
+Slc12a8	current symbol	MGI:2443672	Slc12a8	solute carrier family 12 (potassium/chloride transporters), member 8	protein coding gene	ENSMUSG00000035506	171286
+Slc13a5	current symbol	MGI:3037150	Slc13a5	solute carrier family 13 (sodium-dependent citrate transporter), member 5	protein coding gene	ENSMUSG00000020805	237831
+Slc15a2	current symbol	MGI:1890457	Slc15a2	solute carrier family 15 (H+/peptide transporter), member 2	protein coding gene	ENSMUSG00000022899	57738
+Slc16a1	current symbol	MGI:106013	Slc16a1	solute carrier family 16 (monocarboxylic acid transporters), member 1	protein coding gene	ENSMUSG00000032902	20501
+Slc16a6	current symbol	MGI:2144585	Slc16a6	solute carrier family 16 (monocarboxylic acid transporters), member 6	protein coding gene	ENSMUSG00000041920	104681
+Slc17a7	current symbol	MGI:1920211	Slc17a7	solute carrier family 17 (sodium-dependent inorganic phosphate cotransporter), member 7	protein coding gene	ENSMUSG00000070570	72961
+Slc18a2	current symbol	MGI:106677	Slc18a2	solute carrier family 18 (vesicular monoamine), member 2	protein coding gene	ENSMUSG00000025094	214084
+Slc19a2	current symbol	MGI:1928761	Slc19a2	solute carrier family 19 (thiamine transporter), member 2	protein coding gene	ENSMUSG00000040918	116914
+Slc1a1	current symbol	MGI:105083	Slc1a1	solute carrier family 1 (neuronal/epithelial high affinity glutamate transporter, system Xag), member 1	protein coding gene	ENSMUSG00000024935	20510
+Slc1a5	current symbol	MGI:105305	Slc1a5	solute carrier family 1 (neutral amino acid transporter), member 5	protein coding gene	ENSMUSG00000001918	20514
+Slc22a3	current symbol	MGI:1333817	Slc22a3	solute carrier family 22 (organic cation transporter), member 3	protein coding gene	ENSMUSG00000023828	20519
+Slc24a3	current symbol	MGI:2137513	Slc24a3	solute carrier family 24 (sodium/potassium/calcium exchanger), member 3	protein coding gene	ENSMUSG00000063873	94249
+Slc24a4	current symbol	MGI:2447362	Slc24a4	solute carrier family 24 (sodium/potassium/calcium exchanger), member 4	protein coding gene	ENSMUSG00000041771	238384
+Slc25a22	current symbol	MGI:1915517	Slc25a22	solute carrier family 25 (mitochondrial carrier, glutamate), member 22	protein coding gene	ENSMUSG00000019082	68267
+Slc25a23	current symbol	MGI:1914222	Slc25a23	solute carrier family 25 (mitochondrial carrier; phosphate carrier), member 23	protein coding gene	ENSMUSG00000046329	66972
+Slc25a34	current symbol	MGI:2686215	Slc25a34	solute carrier family 25, member 34	protein coding gene	ENSMUSG00000040740	384071
+Slc25a42	current symbol	MGI:1920345	Slc25a42	solute carrier family 25, member 42	protein coding gene	ENSMUSG00000002346	73095
+Slc29a1	current symbol	MGI:1927073	Slc29a1	solute carrier family 29 (nucleoside transporters), member 1	protein coding gene	ENSMUSG00000023942	63959
+Slc29a2	current symbol	MGI:1345278	Slc29a2	solute carrier family 29 (nucleoside transporters), member 2	protein coding gene	ENSMUSG00000024891	13340
+Slc2a1	current symbol	MGI:95755	Slc2a1	solute carrier family 2 (facilitated glucose transporter), member 1	protein coding gene	ENSMUSG00000028645	20525
+Slc2a4	current symbol	MGI:95758	Slc2a4	solute carrier family 2 (facilitated glucose transporter), member 4	protein coding gene	ENSMUSG00000018566	20528
+Slc32a1	current symbol	MGI:1194488	Slc32a1	solute carrier family 32 (GABA vesicular transporter), member 1	protein coding gene	ENSMUSG00000037771	22348
+Slc35b4	current symbol	MGI:1931249	Slc35b4	solute carrier family 35, member B4	protein coding gene	ENSMUSG00000018999	58246
+Slc35c2	current symbol	MGI:2385166	Slc35c2	solute carrier family 35, member C2	protein coding gene	ENSMUSG00000017664	228875
+Slc35e1	current symbol	MGI:2142403	Slc35e1	solute carrier family 35, member E1	protein coding gene	ENSMUSG00000019731	270066
+Slc35e4	current symbol	MGI:2144150	Slc35e4	solute carrier family 35, member E4	protein coding gene	ENSMUSG00000048807	103710
+Slc37a2	current symbol	MGI:1929693	Slc37a2	solute carrier family 37 (glycerol-3-phosphate transporter), member 2	protein coding gene	ENSMUSG00000032122	56857
+Slc38a3	current symbol	MGI:1923507	Slc38a3	solute carrier family 38, member 3	protein coding gene	ENSMUSG00000010064	76257
+Slc3a2	current symbol	MGI:96955	Slc3a2	solute carrier family 3 (activators of dibasic and neutral amino acid transport), member 2	protein coding gene	ENSMUSG00000010095	17254
+Slc41a3	current symbol	MGI:1918949	Slc41a3	solute carrier family 41, member 3	protein coding gene	ENSMUSG00000030089	71699
+Slc45a4	current symbol	MGI:2146236	Slc45a4	solute carrier family 45, member 4	protein coding gene	ENSMUSG00000079020	106068
+Slc48a1	current symbol	MGI:1914989	Slc48a1	solute carrier family 48 (heme transporter), member 1	protein coding gene	ENSMUSG00000081534	67739
+Slc4a8	current symbol	MGI:1928745	Slc4a8	solute carrier family 4 (anion exchanger), member 8	protein coding gene	ENSMUSG00000023032	59033
+Slc52a2	current symbol	MGI:1289288	Slc52a2	solute carrier protein 52, member 2	protein coding gene	ENSMUSG00000022560	52710
+Slc6a1	current symbol	MGI:95627	Slc6a1	solute carrier family 6 (neurotransmitter transporter, GABA), member 1	protein coding gene	ENSMUSG00000030310	232333
+Slc6a11	current symbol	MGI:95630	Slc6a11	solute carrier family 6 (neurotransmitter transporter, GABA), member 11	protein coding gene	ENSMUSG00000030307	243616
+Slc6a7	current symbol	MGI:2147363	Slc6a7	solute carrier family 6 (neurotransmitter transporter, L-proline), member 7	protein coding gene	ENSMUSG00000052026	240332
+Slc7a3	current symbol	MGI:1100521	Slc7a3	solute carrier family 7 (cationic amino acid transporter, y+ system), member 3	protein coding gene	ENSMUSG00000031297	11989
+Slc7a5	current symbol	MGI:1298205	Slc7a5	solute carrier family 7 (cationic amino acid transporter, y+ system), member 5	protein coding gene	ENSMUSG00000040010	20539
+Slc7a8	current symbol	MGI:1355323	Slc7a8	solute carrier family 7 (cationic amino acid transporter, y+ system), member 8	protein coding gene	ENSMUSG00000022180	50934
+Slc8a2	current symbol	MGI:107996	Slc8a2	solute carrier family 8 (sodium/calcium exchanger), member 2	protein coding gene	ENSMUSG00000030376	110891
+Slc9a3r1	current symbol	MGI:1349482	Slc9a3r1	solute carrier family 9 (sodium/hydrogen exchanger), member 3 regulator 1	protein coding gene	ENSMUSG00000020733	26941
+Slc9a5	current symbol	MGI:2685542	Slc9a5	solute carrier family 9 (sodium/hydrogen exchanger), member 5	protein coding gene	ENSMUSG00000014786	277973
+Slc9a9	current symbol	MGI:2679732	Slc9a9	solute carrier family 9 (sodium/hydrogen exchanger), member 9	protein coding gene	ENSMUSG00000031129	331004
+Slco1c1	current symbol	MGI:1889679	Slco1c1	solute carrier organic anion transporter family, member 1c1	protein coding gene	ENSMUSG00000030235	58807
+Slco5a1	current symbol	MGI:2443431	Slco5a1	solute carrier organic anion transporter family, member 5A1	protein coding gene	ENSMUSG00000025938	240726
+Slf1	current symbol	MGI:2145448	Slf1	SMC5-SMC6 complex localization factor 1	protein coding gene	ENSMUSG00000021597	105377
+Slit1	current symbol	MGI:1315203	Slit1	slit guidance ligand 1	protein coding gene	ENSMUSG00000025020	20562
+Smad3	current symbol	MGI:1201674	Smad3	SMAD family member 3	protein coding gene	ENSMUSG00000032402	17127
+Smoc1	current symbol	MGI:1929878	Smoc1	SPARC related  modular calcium binding 1	protein coding gene	ENSMUSG00000021136	64075
+Smoc2	current symbol	MGI:1929881	Smoc2	SPARC related modular calcium binding 2	protein coding gene	ENSMUSG00000023886	64074
+Smpd3	current symbol	MGI:1927578	Smpd3	sphingomyelin phosphodiesterase 3, neutral	protein coding gene	ENSMUSG00000031906	58994
+Smurf2	current symbol	MGI:1913563	Smurf2	SMAD specific E3 ubiquitin protein ligase 2	protein coding gene	ENSMUSG00000018363	66313
+Snta1	current symbol	MGI:101772	Snta1	syntrophin, acidic 1	protein coding gene	ENSMUSG00000027488	20648
+Snx30	current symbol	MGI:2443882	Snx30	sorting nexin family member 30	protein coding gene	ENSMUSG00000028385	209131
+Snx7	current symbol	MGI:1923811	Snx7	sorting nexin 7	protein coding gene	ENSMUSG00000028007	76561
+Soat1	current symbol	MGI:104665	Soat1	sterol O-acyltransferase 1	protein coding gene	ENSMUSG00000026600	20652
+Socs2	current symbol	MGI:1201787	Socs2	suppressor of cytokine signaling 2	protein coding gene	ENSMUSG00000020027	216233
+Sorbs1	current symbol	MGI:700014	Sorbs1	sorbin and SH3 domain containing 1	protein coding gene	ENSMUSG00000025006	20411
+Sorcs1	current symbol	MGI:1929666	Sorcs1	sortilin-related VPS10 domain containing receptor 1	protein coding gene	ENSMUSG00000043531	58178
+Sorcs2	current symbol	MGI:1932289	Sorcs2	sortilin-related VPS10 domain containing receptor 2	protein coding gene	ENSMUSG00000029093	81840
+Sorcs3	current symbol	MGI:1913923	Sorcs3	sortilin-related VPS10 domain containing receptor 3	protein coding gene	ENSMUSG00000063434	66673
+Sos1	current symbol	MGI:98354	Sos1	SOS Ras/Rac guanine nucleotide exchange factor 1	protein coding gene	ENSMUSG00000024241	20662
+Sowaha	current symbol	MGI:2687280	Sowaha	sosondowah ankyrin repeat domain family member A	protein coding gene	ENSMUSG00000044352	237761
+Sox1ot	current symbol	MGI:3645522	Sox1ot	Sox1 overlapping transcript	sense overlapping lncRNA gene	ENSMUSG00000047935	434280
+Sparcl1	current symbol	MGI:108110	Sparcl1	SPARC-like 1	protein coding gene	ENSMUSG00000029309	13602
+Spata2l	current symbol	MGI:1926029	Spata2l	spermatogenesis associated 2-like	protein coding gene	ENSMUSG00000033594	78779
+Spats2l	current symbol	MGI:1914448	Spats2l	spermatogenesis associated, serine-rich 2-like	protein coding gene	ENSMUSG00000038305	67198
+Spcs3	current symbol	MGI:1923937	Spcs3	signal peptidase complex subunit 3 homolog (S. cerevisiae)	protein coding gene	ENSMUSG00000054408	76687
+Sphkap	current symbol	MGI:1924879	Sphkap	SPHK1 interactor, AKAP domain containing	protein coding gene	ENSMUSG00000026163	77629
+Spon1	current symbol	MGI:2385287	Spon1	spondin 1, (f-spondin) extracellular matrix protein	protein coding gene	ENSMUSG00000038156	233744
+Sprn	current symbol	MGI:3582583	Sprn	shadow of prion protein	protein coding gene	ENSMUSG00000045733	212518
+Spsb4	current symbol	MGI:2183445	Spsb4	splA/ryanodine receptor domain and SOCS box containing 4	protein coding gene	ENSMUSG00000046997	211949
+Sra1	current symbol	MGI:1344414	Sra1	steroid receptor RNA activator 1	protein coding gene	ENSMUSG00000006050	24068
+Srl	current symbol	MGI:2146620	Srl	sarcalumenin	protein coding gene	ENSMUSG00000022519	106393
+Ssbp2	current symbol	MGI:1914220	Ssbp2	single-stranded DNA binding protein 2	protein coding gene	ENSMUSG00000003992	66970
+Ssbp3	current symbol	MGI:1919725	Ssbp3	single-stranded DNA binding protein 3	protein coding gene	ENSMUSG00000061887	72475
+Ssc5d	current symbol	MGI:3606211	Ssc5d	scavenger receptor cysteine rich family, 5 domains	protein coding gene	ENSMUSG00000035279	269855
+Sspn	current symbol	MGI:1353511	Sspn	sarcospan	protein coding gene	ENSMUSG00000030255	16651
+Sstr2	current symbol	MGI:98328	Sstr2	somatostatin receptor 2	protein coding gene	ENSMUSG00000047904	20606
+Sstr4	current symbol	MGI:105372	Sstr4	somatostatin receptor 4	protein coding gene	ENSMUSG00000037014	20608
+St3gal1	current symbol	MGI:98304	St3gal1	ST3 beta-galactoside alpha-2,3-sialyltransferase 1	protein coding gene	ENSMUSG00000013846	20442
+St8sia2	current symbol	MGI:106020	St8sia2	ST8 alpha-N-acetyl-neuraminide alpha-2,8-sialyltransferase 2	protein coding gene	ENSMUSG00000025789	20450
+St8sia4	current symbol	MGI:106018	St8sia4	ST8 alpha-N-acetyl-neuraminide alpha-2,8-sialyltransferase 4	protein coding gene	ENSMUSG00000040710	20452
+St8sia5	current symbol	MGI:109243	St8sia5	ST8 alpha-N-acetyl-neuraminide alpha-2,8-sialyltransferase 5	protein coding gene	ENSMUSG00000025425	225742
+Stac	current symbol	MGI:1201400	Stac	src homology three (SH3) and cysteine rich domain	protein coding gene	ENSMUSG00000032502	20840
+Stac2	current symbol	MGI:2144518	Stac2	SH3 and cysteine rich domain 2	protein coding gene	ENSMUSG00000017400	217154
+Stard4	current symbol	MGI:2156764	Stard4	StAR-related lipid transfer (START) domain containing 4	protein coding gene	ENSMUSG00000024378	170459
+Stard5	current symbol	MGI:2156765	Stard5	StAR-related lipid transfer (START) domain containing 5	protein coding gene	ENSMUSG00000046027	170460
+Stard7	current symbol	MGI:2139090	Stard7	START domain containing 7	protein coding gene	ENSMUSG00000027367	99138
+Stat5b	current symbol	MGI:103035	Stat5b	signal transducer and activator of transcription 5B	protein coding gene	ENSMUSG00000020919	20851
+Stat6	current symbol	MGI:103034	Stat6	signal transducer and activator of transcription 6	protein coding gene	ENSMUSG00000002147	20852
+Stc1	current symbol	MGI:109131	Stc1	stanniocalcin 1	protein coding gene	ENSMUSG00000014813	20855
+Stc2	current symbol	MGI:1316731	Stc2	stanniocalcin 2	protein coding gene	ENSMUSG00000020303	20856
+Stk32b	current symbol	MGI:1927552	Stk32b	serine/threonine kinase 32B	protein coding gene	ENSMUSG00000029123	64293
+Stradb	current symbol	MGI:2144047	Stradb	STE20-related kinase adaptor beta	protein coding gene	ENSMUSG00000026027	227154
+Stum	current symbol	MGI:2138735	Stum	mechanosensory transduction mediator	protein coding gene	ENSMUSG00000053963	381310
+Suclg2	current symbol	MGI:1306824	Suclg2	succinate-Coenzyme A ligase, GDP-forming, beta subunit	protein coding gene	ENSMUSG00000061838	20917
+Susd1	current symbol	MGI:3651543	Susd1	sushi domain containing 1	protein coding gene	ENSMUSG00000038578	634731
+Susd4	current symbol	MGI:2138351	Susd4	sushi domain containing 4	protein coding gene	ENSMUSG00000038576	96935
+Sv2a	current symbol	MGI:1927139	Sv2a	synaptic vesicle glycoprotein 2 a	protein coding gene	ENSMUSG00000038486	64051
+Svil	current symbol	MGI:2147319	Svil	supervillin	protein coding gene	ENSMUSG00000024236	225115
+Syce2	current symbol	MGI:1919096	Syce2	synaptonemal complex central element protein 2	protein coding gene	ENSMUSG00000003824	71846
+Syn2	current symbol	MGI:103020	Syn2	synapsin II	protein coding gene	ENSMUSG00000009394	20965
+Syndig1	current symbol	MGI:3702158	Syndig1	synapse differentiation inducing 1	protein coding gene	ENSMUSG00000074736	433485
+Synm	current symbol	MGI:2661187	Synm	synemin, intermediate filament protein	protein coding gene	ENSMUSG00000030554	233335
+Synpr	current symbol	MGI:1919253	Synpr	synaptoporin	protein coding gene	ENSMUSG00000056296	72003
+Syt1	current symbol	MGI:99667	Syt1	synaptotagmin I	protein coding gene	ENSMUSG00000035864	20979
+Syt10	current symbol	MGI:1859546	Syt10	synaptotagmin X	protein coding gene	ENSMUSG00000063260	54526
+Syt13	current symbol	MGI:1933945	Syt13	synaptotagmin XIII	protein coding gene	ENSMUSG00000027220	80976
+Syt17	current symbol	MGI:104966	Syt17	synaptotagmin XVII	protein coding gene	ENSMUSG00000058420	110058
+Syt3	current symbol	MGI:99665	Syt3	synaptotagmin III	protein coding gene	ENSMUSG00000030731	20981
+Sytl2	current symbol	MGI:1933366	Sytl2	synaptotagmin-like 2	protein coding gene	ENSMUSG00000030616	83671
+Tab2	current symbol	MGI:1915902	Tab2	TGF-beta activated kinase 1/MAP3K7 binding protein 2	protein coding gene	ENSMUSG00000015755	68652
+Tac2	current symbol	MGI:98476	Tac2	tachykinin 2	protein coding gene	ENSMUSG00000025400	21334
+Tacr1	current symbol	MGI:98475	Tacr1	tachykinin receptor 1	protein coding gene	ENSMUSG00000030043	21336
+Tacr3	current symbol	MGI:892968	Tacr3	tachykinin receptor 3	protein coding gene	ENSMUSG00000028172	21338
+Taf6	current symbol	MGI:109129	Taf6	TATA-box binding protein associated factor 6	protein coding gene	ENSMUSG00000036980	21343
+Taf9b	current symbol	MGI:3039562	Taf9b	TATA-box binding protein associated factor 9B	protein coding gene	ENSMUSG00000047242	407786
+Tbc1d5	current symbol	MGI:1919488	Tbc1d5	TBC1 domain family, member 5	protein coding gene	ENSMUSG00000023923	72238
+Tbck	current symbol	MGI:2445052	Tbck	TBC1 domain containing kinase	protein coding gene	ENSMUSG00000028030	271981
+Tcerg1l	current symbol	MGI:1917821	Tcerg1l	transcription elongation regulator 1-like	protein coding gene	ENSMUSG00000091002	70571
+Tcf24	current symbol	MGI:3780500	Tcf24	transcription factor 24	protein coding gene	ENSMUSG00000099032	100039596
+Tcfl5	current symbol	MGI:2672878	Tcfl5	transcription factor-like 5 (basic helix-loop-helix)	protein coding gene	ENSMUSG00000038932	277353
+Tdrd12	current symbol	MGI:1919231	Tdrd12	tudor domain containing 12	protein coding gene	ENSMUSG00000030491	71981
+Tdrd7	current symbol	MGI:2140279	Tdrd7	tudor domain containing 7	protein coding gene	ENSMUSG00000035517	100121
+Tec	current symbol	MGI:98662	Tec	tec protein tyrosine kinase	protein coding gene	ENSMUSG00000029217	21682
+Tef	current symbol	MGI:98663	Tef	thyrotroph embryonic factor	protein coding gene	ENSMUSG00000022389	21685
+Tent2	current symbol	MGI:2140950	Tent2	terminal nucleotidyltransferase 2	protein coding gene	ENSMUSG00000042167	100715
+Tes	current symbol	MGI:105081	Tes	testin LIM domain protein	protein coding gene	ENSMUSG00000029552	21753
+Tgfb2	current symbol	MGI:98726	Tgfb2	transforming growth factor, beta 2	protein coding gene	ENSMUSG00000039239	21808
+Tgfb3	current symbol	MGI:98727	Tgfb3	transforming growth factor, beta 3	protein coding gene	ENSMUSG00000021253	21809
+Thap4	current symbol	MGI:1914276	Thap4	THAP domain containing 4	protein coding gene	ENSMUSG00000026279	67026
+Thbd	current symbol	MGI:98736	Thbd	thrombomodulin	protein coding gene	ENSMUSG00000074743	21824
+Them4	current symbol	MGI:1923028	Them4	thioesterase superfamily member 4	protein coding gene	ENSMUSG00000028145	75778
+Thrsp	current symbol	MGI:109126	Thrsp	thyroid hormone responsive	protein coding gene	ENSMUSG00000035686	21835
+Thsd7b	current symbol	MGI:2443925	Thsd7b	thrombospondin, type I, domain containing 7B	protein coding gene	ENSMUSG00000042581	210417
+Tifa	current symbol	MGI:2182965	Tifa	TRAF-interacting protein with forkhead-associated domain	protein coding gene	ENSMUSG00000046688	211550
+Timp2	current symbol	MGI:98753	Timp2	tissue inhibitor of metalloproteinase 2	protein coding gene	ENSMUSG00000017466	21858
+Timp3	current symbol	MGI:98754	Timp3	tissue inhibitor of metalloproteinase 3	protein coding gene	ENSMUSG00000020044	21859
+Timp4	current symbol	MGI:109125	Timp4	tissue inhibitor of metalloproteinase 4	protein coding gene	ENSMUSG00000030317	110595
+Tle1	current symbol	MGI:104636	Tle1	transducin-like enhancer of split 1	protein coding gene	ENSMUSG00000008305	21885
+Tlr3	current symbol	MGI:2156367	Tlr3	toll-like receptor 3	protein coding gene	ENSMUSG00000031639	142980
+Tm6sf1	current symbol	MGI:1933209	Tm6sf1	transmembrane 6 superfamily member 1	protein coding gene	ENSMUSG00000038623	107769
+Tm9sf3	current symbol	MGI:1914262	Tm9sf3	transmembrane 9 superfamily member 3	protein coding gene	ENSMUSG00000025016	107358
+Tma7	current symbol	MGI:1913417	Tma7	translational machinery associated 7	protein coding gene	ENSMUSG00000091537	66167
+Tmco1	current symbol	MGI:1921173	Tmco1	transmembrane and coiled-coil domains 1	protein coding gene	ENSMUSG00000052428	68944
+Tmem104	current symbol	MGI:2444222	Tmem104	transmembrane protein 104	protein coding gene	ENSMUSG00000045980	320534
+Tmem108	current symbol	MGI:1932411	Tmem108	transmembrane protein 108	protein coding gene	ENSMUSG00000042757	81907
+Tmem123	current symbol	MGI:1919179	Tmem123	transmembrane protein 123	protein coding gene	ENSMUSG00000050912	71929
+Tmem132b	current symbol	MGI:3609245	Tmem132b	transmembrane protein 132B	protein coding gene	ENSMUSG00000070498	208151
+Tmem132e	current symbol	MGI:2685490	Tmem132e	transmembrane protein 132E	protein coding gene	ENSMUSG00000020701	270893
+Tmem145	current symbol	MGI:3607779	Tmem145	transmembrane protein 145	protein coding gene	ENSMUSG00000043843	330485
+Tmem159	current symbol	MGI:1925752	Tmem159	transmembrane protein 159	protein coding gene	ENSMUSG00000030917	233806
+Tmem163	current symbol	MGI:1919410	Tmem163	transmembrane protein 163	protein coding gene	ENSMUSG00000026347	72160
+Tmem168	current symbol	MGI:1921794	Tmem168	transmembrane protein 168	protein coding gene	ENSMUSG00000029569	101118
+Tmem169	current symbol	MGI:2442781	Tmem169	transmembrane protein 169	protein coding gene	ENSMUSG00000026188	271711
+Tmem176a	current symbol	MGI:1913308	Tmem176a	transmembrane protein 176A	protein coding gene	ENSMUSG00000023367	66058
+Tmem179	current symbol	MGI:2144891	Tmem179	transmembrane protein 179	protein coding gene	ENSMUSG00000054013	104885
+Tmem229a	current symbol	MGI:2442812	Tmem229a	transmembrane protein 229A	protein coding gene	ENSMUSG00000048022	319832
+Tmem231	current symbol	MGI:2685024	Tmem231	transmembrane protein 231	protein coding gene	ENSMUSG00000031951	234740
+Tmem237	current symbol	MGI:2138365	Tmem237	transmembrane protein 237	protein coding gene	ENSMUSG00000038079	381259
+Tmem25	current symbol	MGI:1918937	Tmem25	transmembrane protein 25	protein coding gene	ENSMUSG00000002032	71687
+Tmem266	current symbol	MGI:2142980	Tmem266	transmembrane protein 266	protein coding gene	ENSMUSG00000032313	244886
+Tmem28	current symbol	MGI:3648377	Tmem28	transmembrane protein 28	protein coding gene	ENSMUSG00000071719	620592
+Tmem35a	current symbol	MGI:1914814	Tmem35a	transmembrane protein 35A	protein coding gene	ENSMUSG00000033578	67564
+Tmem39b	current symbol	MGI:2682939	Tmem39b	transmembrane protein 39b	protein coding gene	ENSMUSG00000053730	230770
+Tmem41a	current symbol	MGI:1913914	Tmem41a	transmembrane protein 41a	protein coding gene	ENSMUSG00000022856	66664
+Tmem41b	current symbol	MGI:1289225	Tmem41b	transmembrane protein 41B	protein coding gene	ENSMUSG00000047554	233724
+Tmem65	current symbol	MGI:1922118	Tmem65	transmembrane protein 65	protein coding gene	ENSMUSG00000062373	74868
+Tmem87b	current symbol	MGI:1919727	Tmem87b	transmembrane protein 87B	protein coding gene	ENSMUSG00000014353	72477
+Tmem97	current symbol	MGI:1916321	Tmem97	transmembrane protein 97	protein coding gene	ENSMUSG00000037278	69071
+Tmie	current symbol	MGI:2159400	Tmie	transmembrane inner ear	protein coding gene	ENSMUSG00000049555	20776
+Tmod1	current symbol	MGI:98775	Tmod1	tropomodulin 1	protein coding gene	ENSMUSG00000028328	21916
+Tmx1	current symbol	MGI:1919986	Tmx1	thioredoxin-related transmembrane protein 1	protein coding gene	ENSMUSG00000021072	72736
+Tnc	current symbol	MGI:101922	Tnc	tenascin C	protein coding gene	ENSMUSG00000028364	21923
+Tnfaip8	current symbol	MGI:2147191	Tnfaip8	tumor necrosis factor, alpha-induced protein 8	protein coding gene	ENSMUSG00000062210	106869
+Tnfaip8l1	current symbol	MGI:1913693	Tnfaip8l1	tumor necrosis factor, alpha-induced protein 8-like 1	protein coding gene	ENSMUSG00000044469	66443
+Tnfrsf19	current symbol	MGI:1352474	Tnfrsf19	tumor necrosis factor receptor superfamily, member 19	protein coding gene	ENSMUSG00000060548	29820
+Tnfrsf21	current symbol	MGI:2151075	Tnfrsf21	tumor necrosis factor receptor superfamily, member 21	protein coding gene	ENSMUSG00000023915	94185
+Tnik	current symbol	MGI:1916264	Tnik	TRAF2 and NCK interacting kinase	protein coding gene	ENSMUSG00000027692	665113
+Tnn	current symbol	MGI:2665790	Tnn	tenascin N	protein coding gene	ENSMUSG00000026725	329278
+Tox2	current symbol	MGI:3611233	Tox2	TOX high mobility group box family member 2	protein coding gene	ENSMUSG00000074607	269389
+Tpcn1	current symbol	MGI:2182472	Tpcn1	two pore channel 1	protein coding gene	ENSMUSG00000032741	252972
+Tpd52	current symbol	MGI:107749	Tpd52	tumor protein D52	protein coding gene	ENSMUSG00000027506	21985
+Tpm1	current symbol	MGI:98809	Tpm1	tropomyosin 1, alpha	protein coding gene	ENSMUSG00000032366	22003
+Tppp	current symbol	MGI:1920198	Tppp	tubulin polymerization promoting protein	protein coding gene	ENSMUSG00000021573	72948
+Tppp3	current symbol	MGI:1915221	Tppp3	tubulin polymerization-promoting protein family member 3	protein coding gene	ENSMUSG00000014846	67971
+Trabd2b	current symbol	MGI:3650152	Trabd2b	TraB domain containing 2B	protein coding gene	ENSMUSG00000070867	666048
+Trhr	current symbol	MGI:98824	Trhr	thyrotropin releasing hormone receptor	protein coding gene	ENSMUSG00000038760	22045
+Trib2	current symbol	MGI:2145021	Trib2	tribbles pseudokinase 2	protein coding gene	ENSMUSG00000020601	217410
+Trib3	current symbol	MGI:1345675	Trib3	tribbles pseudokinase 3	protein coding gene	ENSMUSG00000032715	228775
+Tril	current symbol	MGI:1914123	Tril	TLR4 interactor with leucine-rich repeats	protein coding gene	ENSMUSG00000043496	66873
+Trim26	current symbol	MGI:1337056	Trim26	tripartite motif-containing 26	protein coding gene	ENSMUSG00000024457	22670
+Trim62	current symbol	MGI:1914775	Trim62	tripartite motif-containing 62	protein coding gene	ENSMUSG00000041000	67525
+Trim67	current symbol	MGI:3045323	Trim67	tripartite motif-containing 67	protein coding gene	ENSMUSG00000036913	330863
+Tro	current symbol	MGI:1928994	Tro	trophinin	protein coding gene	ENSMUSG00000025272	56191
+Trp53i11	current symbol	MGI:2670995	Trp53i11	transformation related protein 53 inducible protein 11	protein coding gene	ENSMUSG00000068735	277414
+Tsc22d4	current symbol	MGI:1926079	Tsc22d4	TSC22 domain family, member 4	protein coding gene	ENSMUSG00000029723	78829
+Tshz2	current symbol	MGI:2153084	Tshz2	teashirt zinc finger family member 2	protein coding gene	ENSMUSG00000047907	228911
+Tshz3	current symbol	MGI:2442819	Tshz3	teashirt zinc finger family member 3	protein coding gene	ENSMUSG00000021217	243931
+Tspan14	current symbol	MGI:1196325	Tspan14	tetraspanin 14	protein coding gene	ENSMUSG00000037824	52588
+Tspan17	current symbol	MGI:1921507	Tspan17	tetraspanin 17	protein coding gene	ENSMUSG00000025875	74257
+Tspan5	current symbol	MGI:1928096	Tspan5	tetraspanin 5	protein coding gene	ENSMUSG00000028152	56224
+Ttc34	current symbol	MGI:2445205	Ttc34	tetratricopeptide repeat domain 34	protein coding gene	ENSMUSG00000046637	242800
+Ttl	current symbol	MGI:1916987	Ttl	tubulin tyrosine ligase	protein coding gene	ENSMUSG00000027394	69737
+Tubg2	current symbol	MGI:2144208	Tubg2	tubulin, gamma 2	protein coding gene	ENSMUSG00000045007	103768
+Tunar	current symbol	MGI:1917202	Tunar	Tcl1 upstream neural differentiation associated RNA	lncRNA gene	ENSMUSG00000097929	69952
+Txndc11	current symbol	MGI:1923620	Txndc11	thioredoxin domain containing 11	protein coding gene	ENSMUSG00000022498	106200
+Txnrd3	current symbol	MGI:2386711	Txnrd3	thioredoxin reductase 3	protein coding gene	ENSMUSG00000000811	232223
+Uba3	current symbol	MGI:1341217	Uba3	ubiquitin-like modifier activating enzyme 3	protein coding gene	ENSMUSG00000030061	22200
+Ubash3b	current symbol	MGI:1920078	Ubash3b	ubiquitin associated and SH3 domain containing, B	protein coding gene	ENSMUSG00000032020	72828
+Ube2e3	current symbol	MGI:107412	Ube2e3	ubiquitin-conjugating enzyme E2E 3	protein coding gene	ENSMUSG00000027011	22193
+Ublcp1	current symbol	MGI:1933105	Ublcp1	ubiquitin-like domain containing CTD phosphatase 1	protein coding gene	ENSMUSG00000041231	79560
+Ubr4	current symbol	MGI:1916366	Ubr4	ubiquitin protein ligase E3 component n-recognin 4	protein coding gene	ENSMUSG00000066036	69116
+Ucp2	current symbol	MGI:109354	Ucp2	uncoupling protein 2 (mitochondrial, proton carrier)	protein coding gene	ENSMUSG00000033685	22228
+Umad1	current symbol	MGI:3840148	Umad1	UMAP1-MVP12 associated (UMA) domain containing 1	protein coding gene	ENSMUSG00000089862	100036521
+Unc119b	current symbol	MGI:2147162	Unc119b	unc-119 lipid binding chaperone B	protein coding gene	ENSMUSG00000046562	106840
+Unc5a	current symbol	MGI:894682	Unc5a	unc-5 netrin receptor A	protein coding gene	ENSMUSG00000025876	107448
+Unc5b	current symbol	MGI:894703	Unc5b	unc-5 netrin receptor B	protein coding gene	ENSMUSG00000020099	107449
+Unc5d	current symbol	MGI:2389364	Unc5d	unc-5 netrin receptor D	protein coding gene	ENSMUSG00000063626	210801
+Unc80	current symbol	MGI:2652882	Unc80	unc-80, NALCN activator	protein coding gene	ENSMUSG00000055567	329178
+Usp11	current symbol	MGI:2384312	Usp11	ubiquitin specific peptidase 11	protein coding gene	ENSMUSG00000031066	236733
+Usp13	current symbol	MGI:1919857	Usp13	ubiquitin specific peptidase 13 (isopeptidase T-3)	protein coding gene	ENSMUSG00000056900	72607
+Usp27x	current symbol	MGI:1859645	Usp27x	ubiquitin specific peptidase 27, X chromosome	protein coding gene	ENSMUSG00000046269	54651
+Usp28	current symbol	MGI:2442293	Usp28	ubiquitin specific peptidase 28	protein coding gene	ENSMUSG00000032267	235323
+Usp5	current symbol	MGI:1347343	Usp5	ubiquitin specific peptidase 5 (isopeptidase T)	protein coding gene	ENSMUSG00000038429	22225
+Utrn	current symbol	MGI:104631	Utrn	utrophin	protein coding gene	ENSMUSG00000019820	22288
+Vac14	current symbol	MGI:2157980	Vac14	Vac14 homolog (S. cerevisiae)	protein coding gene	ENSMUSG00000010936	234729
+Vars	current symbol	MGI:90675	Vars	valyl-tRNA synthetase	protein coding gene	ENSMUSG00000007029	22321
+Vegfa	current symbol	MGI:103178	Vegfa	vascular endothelial growth factor A	protein coding gene	ENSMUSG00000023951	22339
+Vegfb	current symbol	MGI:106199	Vegfb	vascular endothelial growth factor B	protein coding gene	ENSMUSG00000024962	22340
+Vegfd	current symbol	MGI:108037	Vegfd	vascular endothelial growth factor D	protein coding gene	ENSMUSG00000031380	14205
+Vgf	current symbol	MGI:1343180	Vgf	VGF nerve growth factor inducible	protein coding gene	ENSMUSG00000037428	381677
+Vipr1	current symbol	MGI:109272	Vipr1	vasoactive intestinal peptide receptor 1	protein coding gene	ENSMUSG00000032528	22354
+Vps13a	current symbol	MGI:2444304	Vps13a	vacuolar protein sorting 13A	protein coding gene	ENSMUSG00000046230	271564
+Vps26b	current symbol	MGI:1917656	Vps26b	VPS26 retromer complex component B	protein coding gene	ENSMUSG00000031988	69091
+Vps26c	current symbol	MGI:1206040	Vps26c	VPS26 endosomal protein sorting factor C	protein coding gene	ENSMUSG00000022898	13185
+Vps37a	current symbol	MGI:1261835	Vps37a	vacuolar protein sorting 37A	protein coding gene	ENSMUSG00000031600	52348
+Vps37c	current symbol	MGI:2147661	Vps37c	vacuolar protein sorting 37C	protein coding gene	ENSMUSG00000048832	107305
+Vsnl1	current symbol	MGI:1349453	Vsnl1	visinin-like 1	protein coding gene	ENSMUSG00000054459	26950
+Vstm2a	current symbol	MGI:2384826	Vstm2a	V-set and transmembrane domain containing 2A	protein coding gene	ENSMUSG00000048834	211739
+Vstm2b	current symbol	MGI:1914525	Vstm2b	V-set and transmembrane domain containing 2B	protein coding gene	ENSMUSG00000039257	58188
+Vwa5b1	current symbol	MGI:1922968	Vwa5b1	von Willebrand factor A domain containing 5B1	protein coding gene	ENSMUSG00000028753	75718
+Vxn	current symbol	MGI:1924232	Vxn	vexin	protein coding gene	ENSMUSG00000067879	76982
+Wasf3	current symbol	MGI:2658986	Wasf3	WASP family, member 3	protein coding gene	ENSMUSG00000029636	245880
+Wdr6	current symbol	MGI:1930140	Wdr6	WD repeat domain 6	protein coding gene	ENSMUSG00000066357	83669
+Wdr78		No associated gene					
+Wfs1	current symbol	MGI:1328355	Wfs1	wolframin ER transmembrane glycoprotein	protein coding gene	ENSMUSG00000039474	22393
+Wipf2	current symbol	MGI:1924462	Wipf2	WAS/WASL interacting protein family, member 2	protein coding gene	ENSMUSG00000038013	68524
+Wipf3	current symbol	MGI:3044681	Wipf3	WAS/WASL interacting protein family, member 3	protein coding gene	ENSMUSG00000086040	330319
+Wiz	current symbol	MGI:1332638	Wiz	widely-interspaced zinc finger motifs	protein coding gene	ENSMUSG00000024050	22404
+Wnk1	current symbol	MGI:2442092	Wnk1	WNK lysine deficient protein kinase 1	protein coding gene	ENSMUSG00000045962	232341
+Wnk2	current symbol	MGI:1922857	Wnk2	WNK lysine deficient protein kinase 2	protein coding gene	ENSMUSG00000037989	75607
+Wnt4	current symbol	MGI:98957	Wnt4	wingless-type MMTV integration site family, member 4	protein coding gene	ENSMUSG00000036856	22417
+Wnt9a	current symbol	MGI:2446084	Wnt9a	wingless-type MMTV integration site family, member 9A	protein coding gene	ENSMUSG00000000126	216795
+Wsb2	current symbol	MGI:2144041	Wsb2	WD repeat and SOCS box-containing 2	protein coding gene	ENSMUSG00000029364	59043
+Wscd1	current symbol	MGI:2448493	Wscd1	WSC domain containing 1	protein coding gene	ENSMUSG00000020811	216881
+Wwox	current symbol	MGI:1931237	Wwox	WW domain-containing oxidoreductase	protein coding gene	ENSMUSG00000004637	80707
+Xlr3a	current symbol	MGI:109506	Xlr3a	X-linked lymphocyte-regulated 3A	protein coding gene	ENSMUSG00000057836	22445
+Yipf6	current symbol	MGI:1925179	Yipf6	Yip1 domain family, member 6	protein coding gene	ENSMUSG00000047694	77929
+Zbtb18	current symbol	MGI:1353609	Zbtb18	zinc finger and BTB domain containing 18	protein coding gene	ENSMUSG00000063659	30928
+Zbtb34	current symbol	MGI:2685195	Zbtb34	zinc finger and BTB domain containing 34	protein coding gene	ENSMUSG00000068966	241311
+Zbtb46	current symbol	MGI:1919397	Zbtb46	zinc finger and BTB domain containing 46	protein coding gene	ENSMUSG00000027583	72147
+Zbtb7c	current symbol	MGI:2443302	Zbtb7c	zinc finger and BTB domain containing 7C	protein coding gene	ENSMUSG00000044646	207259
+Zc3h12b	current symbol	MGI:2442133	Zc3h12b	zinc finger CCCH-type containing 12B	protein coding gene	ENSMUSG00000035045	547176
+Zc3h8	current symbol	MGI:1930128	Zc3h8	zinc finger CCCH type containing 8	protein coding gene	ENSMUSG00000027387	57432
+Zdhhc15	current symbol	MGI:1915336	Zdhhc15	zinc finger, DHHC domain containing 15	protein coding gene	ENSMUSG00000033906	108672
+Zdhhc22	current symbol	MGI:2685108	Zdhhc22	zinc finger, DHHC-type containing 22	protein coding gene	ENSMUSG00000048483	238331
+Zdhhc23	current symbol	MGI:2685625	Zdhhc23	zinc finger, DHHC domain containing 23	protein coding gene	ENSMUSG00000036304	332175
+Zdhhc8	current symbol	MGI:1338012	Zdhhc8	zinc finger, DHHC domain containing 8	protein coding gene	ENSMUSG00000060166	27801
+Zfp185	current symbol	MGI:108095	Zfp185	zinc finger protein 185	protein coding gene	ENSMUSG00000031351	22673
+Zfp275	current symbol	MGI:1350985	Zfp275	zinc finger protein 275	protein coding gene	ENSMUSG00000031365	27081
+Zfp341	current symbol	MGI:2682937	Zfp341	zinc finger protein 341	protein coding gene	ENSMUSG00000059842	228807
+Zfp41	current symbol	MGI:99186	Zfp41	zinc finger protein 41	protein coding gene	ENSMUSG00000047003	22701
+Zfp467	current symbol	MGI:1916160	Zfp467	zinc finger protein 467	protein coding gene	ENSMUSG00000068551	68910
+Zfp57	current symbol	MGI:99204	Zfp57	zinc finger protein 57	protein coding gene	ENSMUSG00000036036	22715
+Zfp575	current symbol	MGI:2141921	Zfp575	zinc finger protein 575	protein coding gene	ENSMUSG00000066721	101544
+Zfp593	current symbol	MGI:1915290	Zfp593	zinc finger protein 593	protein coding gene	ENSMUSG00000028840	68040
+Zfp775	current symbol	MGI:2683557	Zfp775	zinc finger protein 775	protein coding gene	ENSMUSG00000007216	243372
+Zfp804a	current symbol	MGI:2442949	Zfp804a	zinc finger protein 804A	protein coding gene	ENSMUSG00000070866	241514
+Zfp862-ps	current symbol	MGI:1889827	Zfp862-ps	zinc finger protein 862, pseudogene	pseudogene	ENSMUSG00000107476	58894
+Zfp9	current symbol	MGI:99210	Zfp9	zinc finger protein 9	protein coding gene	ENSMUSG00000072623	22750
+Zfyve28	current symbol	MGI:2684992	Zfyve28	zinc finger, FYVE domain containing 28	protein coding gene	ENSMUSG00000037224	231125
