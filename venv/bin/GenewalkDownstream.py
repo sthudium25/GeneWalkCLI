@@ -209,11 +209,12 @@ def get_common_processes_at_threshold(signif_gw_results: pd.DataFrame,
 
 
 def make_colored_matrix(membership_mat):
-    mat_sorted = membership_mat.sort_values('row_sums', ascending=False)
+    mat_sorted = membership_mat.sort_values(by=[*reversed(membership_mat.columns)], ascending=[False]*6)
     mat_sorted = mat_sorted.astype(float)
     fig, ax = plt.subplots(figsize=(10, 11))
-    heatmap = sns.heatmap(mat_sorted, ax=ax)
-    heatmap.axes.yaxis.set_visible(False)
+    cmap = sns.diverging_palette(250, 10, l=40, center="light", as_cmap=True)
+    heatmap = sns.heatmap(mat_sorted.iloc[:, 0:5], cmap=cmap, yticklabels=False)
+    # heatmap.axes.yaxis.set_visible(False)
     return heatmap
 
 
