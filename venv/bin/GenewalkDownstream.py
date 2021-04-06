@@ -1,4 +1,4 @@
-from os import mkdir, chdir, listdir
+from os import mkdir, chdir, listdir, getcwd
 from os.path import splitext, basename, isdir
 from typing import Dict, Any
 import pandas as pd
@@ -194,7 +194,7 @@ def make_membership_matrix(set_dictionary: dict):
     return name_affiliation_matrix
 
 
-def min_x_shared_processes(affiliation_matrix: pd.DataFrame, threshold: float, go_type: str = "name"):
+def min_x_shared_processes(affiliation_matrix: pd.DataFrame, threshold: float, go_type: str = "go_name"):
     """creates a pandas series of the GO terms that are shared among a minimum of x sets, where x is the
     threshold provided"""
     index_list = affiliation_matrix[affiliation_matrix.row_sums >= threshold].index
@@ -202,19 +202,20 @@ def min_x_shared_processes(affiliation_matrix: pd.DataFrame, threshold: float, g
 
 
 def get_common_processes_at_threshold(signif_gw_results: pd.DataFrame,
-                                      affiliation_matrix: pd.DataFrame, threshold: float, go_type: str = "name"):
-    x_common_processes = {k: pd.merge(df, min_x_shared_processes(affiliation_matrix, threshold),
-                                      left_on="go_name", right_on=go_type) for k, df in signif_gw_results.items()}
+                                      affiliation_matrix: pd.DataFrame, threshold: float, go_type: str = "go_name"):
+    x_common_processes = {k: pd.merge(df2, min_x_shared_processes(affiliation_matrix, threshold),
+                                      left_on="go_name", right_on=go_type) for k, df2 in signif_gw_results.items()}
     return x_common_processes
 
 
 def make_colored_matrix(membership_mat):
-    mat_sorted = membership_mat.sort_values(by=[*reversed(membership_mat.columns)], ascending=[False]*6)
+    mat_sorted = membership_mat.sort_values(by=[*reversed(membership_mat.columns)],
+                                            ascending=[False]*len(membership_mat.columns))
     mat_sorted = mat_sorted.astype(float)
     fig, ax = plt.subplots(figsize=(10, 11))
     cmap = sns.diverging_palette(250, 10, l=40, center="light", as_cmap=True)
-    heatmap = sns.heatmap(mat_sorted.iloc[:, 0:5], cmap=cmap, yticklabels=False)
-    # heatmap.axes.yaxis.set_visible(False)
+    heatmap = sns.heatmap(mat_sorted.iloc[:, 0:len(mat_sorted.columns)-1], cmap=cmap, yticklabels=False)
+    plt.xticks(rotation=45)
     return heatmap
 
 
@@ -226,7 +227,9 @@ input_path, output_path, project_name, go_category, go_id, signif, \
 
 log.info('GenewalkDownStream Analysis')
 log.info('Date run: '+str(date.today())+'\n')
+lof.info('Run from dir:' + str(os.getcwd()))
 log.info('Command line input: '+str(sys.argv)+'\n')
+
 
 print(listdir(input_path))
 raw_gw_res: dict = process_input(input_path)
@@ -242,13 +245,19 @@ membership_matrix.to_csv(
     path_or_buf=f"{output_path}/results_{project_name}/"
     f"{project_name}_GO_{go_id}-{go_category}_membership_matrix.csv")
 go_heatmap = make_colored_matrix(membership_matrix)
-go_heatmap.title(f"{project_name}_{go_category}_{go_id}")
+go_heatmap.set_title(f"{project_name}_{go_category}_{go_id}")
 plt.savefig(f"{output_path}/results_{project_name}/"
             f"{project_name}_{go_category}-{go_id}_heatmap_{date.today()}.png")
 
-for i in range(len(raw_gw_res.keys())):
-    num_shared_processes = {i: get_common_processes_at_threshold(signif_gw_results=filtered_gw_res,
-                                                                 affiliation_matrix=membership_matrix,
-                                                                 threshold=i, go_type=go_id)}
-for i, df in num_shared_processes.items():
-    df.to_csv(path_or_buf=f"{output_path}/{project_name}_min_{i}_shared_terms.csv")
+num_shared_processes = {}
+for i in range(1, len(raw_gw_res.keys())+1):
+    num_shared_processes[i] = get_common_processes_at_threshold(signif_gw_results=filtered_gw_res,
+                                                                affiliation_matrix=membership_matrix,
+                                                                threshold=i, go_type=go_id)
+
+for i, i_dict in num_shared_processes.items():
+    mkdir(f"{output_path}/results_{project_name}/min_{i}_shared_results/")
+    for k, v in i_dict.items():
+        v.to_csv(path_or_buf=f"{output_path}/results_{project_name}/min_{i}_shared_results/"
+                             f"{project_name}_{k}_min_{i}_shared_terms.csv")
+
